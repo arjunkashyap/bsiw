@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE s3 SYSTEM "s3.dtd">
+
+<s3>
+	<book bid="001">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Area and physiography"></s1>
+		<s1 page="0004" title="Geology and soil"></s1>
+		<s1 page="0006" title="Climate"></s1>
+		<s1 page="0008" title="Early history and collectors"></s1>
+		<s1 page="0011" title="Vegetation types"></s1>
+		<s1 page="0012" title="Primary vegetation"></s1>
+		<s1 page="0021" title="Biotic factors on vegetation"></s1>
+		<s1 page="0023" title="Secondary vegetation"></s1>
+		<s1 page="0027" title="Cultivated and other useful plants"></s1>
+		<s1 page="0029" title="Salient statistics on the flora"></s1>
+		<s1 page="0031" title="Discussion and conclusions"></s1>
+		<s1 page="0034" title="Style of presentation of the flora"></s1>
+		<s1 page="0035" title="Literature consulted"></s1>
+		<s1 page="0038" title="Key to families"></s1>
+		<s1 page="0055" title="Ranunculaceae to Oleaceae"></s1>
+		<s1 page="0306" title="Index to families"></s1>
+	</book>
+	<book bid="002">
+		<s1 page="0307" title="Apocynaceae to Poaceae"></s1>
+		<s1 page="0635" title="General Index"></s1>
+	</book>
+	<book bid="003">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0025" title="Dicotyledons"></s1>
+	</book>
+	<book bid="004">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Previous work and present study"></s1>
+		<s1 page="0002" title="Material and methods"></s1>
+		<s1 page="0003" title="Topography and general features"></s1>
+		<s1 page="0004" title="Geology and soils"></s1>
+		<s1 page="0005" title="Climate"></s1>
+		<s1 page="0006" title="General aspects of vegetation"></s1>
+		<s1 page="0015" title="Economic and medicinal plants"></s1>
+		<s1 page="0020" title="Floristic analysis"></s1>
+		<s1 page="0021" title="Phytogeographical analysis"></s1>
+		<s1 page="0022" title="Plan of the flora"></s1>
+		<s1 page="0025" title="Key to the families"></s1>
+		<s1 page="0034" title="Enumeration of the species (Annonaceae to Poaceae)"></s1>
+		<s1 page="0289" title="Selected bibliography"></s1>
+		<s1 page="0293" title="Index to the botanical names"></s1>
+		<s1 page="0311" title="Corrigenda"></s1>
+	</book>
+	<book bid="005">
+		<s1 page="0000g" title="Introduction"></s1>
+		<s1 page="0000j" title="The Flora"></s1>
+		<s1 page="0385" title="Index"></s1>
+	</book>
+	<book bid="006">
+		<s1 page="0000ae" title="!!Foreword!!"></s1>
+		<s1 page="0000af" title="!!Preface!!"></s1>
+		<s1 page="0000an" title="Introduction"></s1>
+		<s1 page="0000ao" title="Material and methods"></s1>
+		<s1 page="0000ao" title="Topography and general features"></s1>
+		<s1 page="0000ap" title="Geology and soils"></s1>
+		<s1 page="0000ap" title="Climate"></s1>
+		<s1 page="0000aq" title="Previous work and present study"></s1>
+		<s1 page="0000ar" title="General aspects of vegetation"></s1>
+		<s1 page="0000ay" title="Plants of medicinal, economic and horticultural importance"></s1>
+		<s1 page="0000az" title="Game sanctuaries/National Parks"></s1>
+		<s1 page="0000ba" title="Analysis of the flora"></s1>
+		<s1 page="0000bd" title="Phytogeographical analysis"></s1>
+		<s1 page="0000be" title="Plan of the flora"></s1>
+		<s1 page="0000bg" title="Concluding remarks"></s1>
+		<s1 page="0001" title="Key to the families"></s1>
+		<s1 page="0025" title="Enumeration of the species (Ranunculaceae to Asteraceae)"></s1>
+		<s1 page="0355" title="Literature consulted"></s1>
+		<s1 page="0357" title="Index to the botanical names"></s1>
+	</book>
+	<book bid="007">
+		<s1 page="0381" title="Campanulaceae to Pinaceae"></s1>
+		<s1 page="0765" title="Index to Botanical names"></s1>
+		<s1 page="0791" title="Index to vernacular names"></s1>
+		<s1 page="0797" title="Index to families Vol. 1"></s1>
+		<s1 page="0799" title="Index to families Vol. 2"></s1>
+	</book>
+	<book bid="008">
+		<s1 page="0000ao" title="Introduction">
+			<s2 page="0000ao" title="Physiography"></s2>
+			<s2 page="0000ap" title="Geology and soil"></s2>
+			<s2 page="0000ar" title="Climate"></s2>
+			<s2 page="0000ar" title="People"></s2>
+			<s2 page="0000ar" title="Industries"></s2>
+			<s2 page="0000at" title="Earlier collections and publications"></s2>
+			<s2 page="0000au" title="Present collections"></s2>
+			<s2 page="0000au" title="Vegetation"></s2>
+			<s2 page="0000ay" title="Aquatic plants"></s2>
+			<s2 page="0000az" title="Ferns and fern allies"></s2>
+			<s2 page="0000az" title="Sanctuaries"></s2>
+			<s2 page="0000ba" title="Economic botany"></s2>
+			<s2 page="0000bd" title="Floristic analysis"></s2>
+			<s2 page="0000be" title="Rare and threatened species"></s2>
+			<s2 page="0000bf" title="Style of presentation"></s2>
+			<s2 page="0000bg" title="References cited"></s2>
+		</s1>
+		<s1 page="0001" title="Taxonomic Account">
+			<s2 page="0001" title="Key to families"></s2>
+			<s2 page="0021" title="Enumeration (Ranunculaceae - Poaceae)"></s2>
+		</s1>
+		<s1 page="0489" title="Index">
+			<s2 page="0489" title="Botanical names"></s2>
+			<s2 page="0521" title="Local names"></s2>
+		</s1>
+	</book>
+	<book bid="009">
+		<s1 page="0000ae" title="Foreword"></s1>
+		<s1 page="0000ak" title="Introduction"></s1>
+		<s1 page="0000al" title="History"></s1>
+		<s1 page="0000al" title="Location"></s1>
+		<s1 page="0000am" title="Botanical History"></s1>
+		<s1 page="0000ap" title="Physiography"></s1>
+		<s1 page="0000au" title="Phytogeography"></s1>
+		<s1 page="0000av" title="Geology and Soil"></s1>
+		<s1 page="0000aw" title="Climate"></s1>
+		<s1 page="0000ay" title="Vegetation"></s1>
+		<s1 page="0000az" title="Monsoon Forests"></s1>
+		<s1 page="0000bi" title="Hydrophytes"></s1>
+		<s1 page="0000bn" title="Rheophytes"></s1>
+		<s1 page="0000bp" title="Statistical Synopsis"></s1>
+		<s1 page="0000br" title="Phytogeographical Analysis"></s1>
+		<s1 page="0000bv" title="General Format"></s1>
+		<s1 page="0001" title="Key to Families"></s1>
+		<s1 page="0021" title="Dicotyledons"></s1>
+	</book>
+	<book bid="010">
+		<s1 page="0342" title="Monocotyledons"></s1>
+		<s1 page="0405" title="References"></s1>
+		<s1 page="0409" title="Sequence of Families"></s1>
+		<s1 page="0411" title="Index to Botanical Names"></s1>
+	</book>
+	<book bid="011">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0000f" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Introduction">
+			<s2 page="0004" title="Physiography"></s2>	
+			<s2 page="0005" title="Geology"></s2>	
+			<s2 page="0005" title="Rivers and natural springs"></s2>
+			<s2 page="0006" title="Climate"></s2>
+			<s2 page="0008" title="Fauna"></s2>
+			<s2 page="0008" title="Vegetation"></s2>
+			<s2 page="0016" title="Ferns and Fern-allies"></s2>
+			<s2 page="0016" title="General"></s2>
+		</s1>
+		<s1 page="0018" title="Abbreviations"></s1>
+		<s1 page="0019" title="Artificial Key to the flowering plants"></s1>
+		<s1 page="0027" title="Enumeration"></s1>
+	</book>
+	<book bid="012">
+		<s1 page="0221" title="Asteraceae (Compositae)"></s1>
+		<s1 page="0453" title="Ferns and Fern-Allies"></s1>
+		<s1 page="0457" title="Selected Bibliography"></s1>
+		<s1 page="0461" title="Index to Botanical Names and Families"></s1>
+	</book>
+	<book bid="013">
+		<s1 page="0000ae" title="Foreword"></s1>
+		<s1 page="0000af" title="Preface"></s1>
+		<s1 page="0000ag" title="Abbreviations"></s1>
+		<s1 page="0000ah" title="Map of the District"></s1>
+		<s1 page="0000ai" title="Photographs"></s1>
+		<s1 page="0000am" title="Introduction"></s1>
+		<s1 page="0000am" title="Past and Present Work"></s1>
+		<s1 page="0000ao" title="Topography and General Features"></s1>
+		<s1 page="0000ap" title="Forest Biota"></s1>
+		<s1 page="0000aq" title="General Vegetation Types"></s1>
+		<s1 page="0000au" title="Floristic Analysis"></s1>
+		<s1 page="0000ax" title="Plants of Medicinal and Horticultural Importance"></s1>
+		<s1 page="0000bc" title="Interesting Plants of Botanical Value"></s1>
+		<s1 page="0000bd" title="Endangered Plants"></s1>
+		<s1 page="0001" title="Key to the Families"></s1>
+		<s1 page="0010" title="Systematic Treatment"></s1>
+		<s1 page="0292" title="Selected Bibliography"></s1>
+		<s1 page="0297" title="Index to Families, Genera and Species"></s1>
+		<s1 page="0319" title="Corrigenda"></s1>
+	</book>
+	<book bid="014">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="Situation and Topography"></s2>
+			<s2 page="0001" title="Geology and Soil"></s2>
+			<s2 page="0002" title="Climate"></s2>
+			<s2 page="0002" title="Previous Work"></s2>
+			<s2 page="0003" title="Present Work"></s2>
+			<s2 page="0005" title="General Pattern of Floristic Composition"></s2>
+			<s2 page="0012" title="Introduced Elements in the Flora"></s2>
+			<s2 page="0013" title="Crops and Similar Economically Important Plants"></s2>
+			<s2 page="0014" title="Medicinal Plants"></s2>
+			<s2 page="0014" title="New Distributional Records"></s2>
+			<s2 page="0017" title="Endemic Plants"></s2>
+			<s2 page="0019" title="Relocation of Plants"></s2>
+			<s2 page="0020" title="Endangered or Threatened Plants"></s2>
+			<s2 page="0021" title="Affinity with the Flora of Sri Lanka"></s2>
+			<s2 page="0021" title="Salient Statistics on the Flora"></s2>
+		</s1>
+		<s1 page="0025" title="Systematic Treatment"></s1>
+		<s1 page="0557" title="Selected References"></s1>
+		<s1 page="0565" title="Index to Botanical Names"></s1>
+	</book>
+	<book bid="015">
+		<s1 page="0000ap" title="Introductory note"></s1>
+		<s1 page="0000ap" title="Historical note"></s1>
+		<s1 page="0000ap" title="Reasons for undertaking the present work and its importance"></s1>
+		<s1 page="0000aq" title="A. Past and present work:">
+			<s2 page="0000aq" title="Earlier work"></s2>
+			<s2 page="0000ar" title="Present work"></s2>
+		</s1>
+		<s1 page="0000ar" title="B. Materials and methods"></s1>
+		<s1 page="0000as" title="C. Plan of the Flora"></s1>
+		<s1 page="0000as" title="Topography and general features:">
+			<s2 page="0000at" title="1. Geology and soil"></s2>
+			<s2 page="0000au" title="2. Climate"></s2>
+		</s1>
+		<s1 page="0000ax" title="Forest Bio-Data"></s1>
+		<s1 page="0000ax" title="General vegetation types"></s1>
+		<s1 page="0000ba" title="Floristic analysis"></s1>
+		<s1 page="0000bd" title="Plants of medicinal, economic and horticultural importance"></s1>
+		<s1 page="0000be" title="Interesting plants of botanical value"></s1>
+		<s1 page="0000be" title="Endangered plants"></s1>
+		<s1 page="0000bf" title="Game sanctuaries/National parks"></s1>
+		<s1 page="0000bg" title="Concluding remarks"></s1>
+		<s1 page="0000bh" title="Abbreviations"></s1>
+		<s1 page="0000bi" title="Selected bibliography"></s1>
+		<s1 page="0001" title="Key to families"></s1>
+		<s1 page="0010" title="Systematic enumeration"></s1>
+		<s1 page="0565" title="Index to botanical names"></s1>
+	</book>
+	<book bid="016">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Style of Presentation"></s1>
+		<s1 page="0005" title="Abbreviations"></s1>
+		<s1 page="0007" title="General Account"></s1>
+		<s1 page="0009" title="Geology &amp; Soil"></s1>
+		<s1 page="0011" title="Climate"></s1>
+		<s1 page="0013" title="Vegetation"></s1>
+		<s1 page="0028" title="Pteridophytic Flora"></s1>
+		<s1 page="0029" title="Biotic Influences"></s1>
+		<s1 page="0032" title="Analysis of Flora"></s1>
+		<s1 page="0036" title="Notes on Nomenclature"></s1>
+		<s1 page="0040" title="Economic/Medicinal plants"></s1>
+		<s1 page="0073" title="Legend to Technical terms"></s1>
+		<s1 page="0074" title="Key to Families"></s1>
+		<s1 page="0087" title="Systematics : Ranunculaceae to Convolvulaceae"></s1>
+	</book>
+	<book bid="017">
+		<s1 page="0397" title="Systematic Treatment"></s1>
+		<s1 page="0829" title="References"></s1>
+		<s1 page="0845" title="Index to Botanical Names"></s1>
+	</book>
+	<book bid="018">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Area of Study"></s1>
+		<s1 page="0005" title="Topography and Soil"></s1>
+		<s1 page="0009" title="Previous Work"></s1>
+		<s1 page="0010" title="Materials and Methods"></s1>
+		<s1 page="0011" title="General Aspects of the Vegetation"></s1>
+		<s1 page="0023" title="Hill Tribes"></s1>
+		<s1 page="0023" title="Environmental Factors"></s1>
+		<s1 page="0024" title="Plants of Economic Importance"></s1>
+		<s1 page="0026" title="Statistical Data"></s1>
+		<s1 page="0027" title="Plan of Presentation"></s1>
+		<s1 page="0028" title="Conclusions"></s1>
+		<s1 page="0033" title="Systematic Treatment">
+			<s2 page="0033" title="Artificial key to the families"></s2>
+			<s2 page="0043" title="Enumeration"></s2>
+		</s1>
+		<s1 page="0593" title="Selected References"></s1>
+		<s1 page="0603" title="Index to Botanical Names"></s1>
+	</book>
+	<book bid="019">
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0031" title="Key to the Families"></s1>
+		<s1 page="0050" title="Systematic Treatment"></s1>
+	</book>
+	<book bid="020">
+		<s1 page="0433" title="Systematic Treatment"></s1>
+		<s1 page="0721" title="List of Pteridophytes"></s1>
+		<s1 page="0723" title="Bibliography"></s1>
+		<s1 page="0733" title="Index to Botanical names"></s1>
+		<s1 page="0774" title="Index to Local names"></s1>
+	</book>
+	<book bid="021">
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0041" title="Abbreviation"></s1>
+		<s1 page="0043" title="Key to the Families"></s1>
+		<s1 page="0057" title="Systematic Treatment"></s1>
+		<s1 page="0599" title="Bibliography"></s1>
+		<s1 page="0603" title="Index to Botanical Names"></s1>
+		<s1 page="0635" title="Index to Vernacular Names"></s1>
+	</book>
+	<book bid="022">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Geology"></s1>
+		<s1 page="0002" title="Topography"></s1>
+		<s1 page="0003" title="Soils"></s1>
+		<s1 page="0005" title="Climate"></s1>
+		<s1 page="0005" title="Temperature"></s1>
+		<s1 page="0005" title="Rainfall"></s1>
+		<s1 page="0005" title="Relative Humidity"></s1>
+		<s1 page="0006" title="Wind"></s1>
+		<s1 page="0006" title="Previous Botanical Explorations"></s1>
+		<s1 page="0007" title="Present Investigation"></s1>
+		<s1 page="0008" title="Plan followed in the work"></s1>
+		<s1 page="0009" title="Abbreviations"></s1>
+		<s1 page="0010" title="The Vegetation"></s1>
+		<s1 page="0014" title="Statistical Synopsis of the Indigenous Flora"></s1>
+		<s1 page="0014" title="Dominance of Families"></s1>
+		<s1 page="0015" title="Relative occurrence of the taxa"></s1>
+		<s1 page="0018" title="Key to the families"></s1>
+		<s1 page="0030" title="Dicotyledones"></s1>
+		<s1 page="0258" title="Monocotyledones"></s1>
+		<s1 page="0332" title="Selected Bibliography"></s1>
+		<s1 page="0339" title="Index to Botanical names"></s1>
+		<s1 page="0354" title="Index to Local names"></s1>
+	</book>
+	<book bid="023">
+		<s1 page="0000aw" title="Introduction"></s1>
+		<s1 page="0000ax" title="Location, Physiography and Drainage Pattern"></s1>
+		<s1 page="0000ay" title="Geology and Soil"></s1>
+		<s1 page="0000az" title="Climate"></s1>
+		<s1 page="0000ba" title="Vegetation Types"></s1>
+		<s1 page="0000be" title="Factors Affecting Vegetation"></s1>
+		<s1 page="0000bf" title="Conservation, Sanctuaries (Karnala, Phansad)"></s1>
+		<s1 page="0000bg" title="Ethnobotany, Cultivated and Other Useful Plants"></s1>
+		<s1 page="0000bi" title="Industries"></s1>
+		<s1 page="0000bk" title="Salient Statistics on the Flora (Tables I-II)"></s1>
+		<s1 page="0000bm" title="Floristic Analysis (Table III)"></s1>
+		<s1 page="0000bw" title="Style of Presentation"></s1>
+		<s1 page="0000by" title="Key to Families"></s1>
+		<s1 page="0001" title="Enumeration : Ranunculaceae to Poaceae"></s1>
+		<s1 page="0510" title="Gnetaceae"></s1>
+		<s1 page="0510" title="Pteridophytes"></s1>
+		<s1 page="0521" title="Bibliography"></s1>
+		<s1 page="0526" title="Index to Botanical Names"></s1>
+		<s1 page="0572" title="Index to Local Names"></s1>
+		<s1 page="0580" title="Corrigenda"></s1>
+	</book>
+	<book bid="024">
+		<s1 page="0000ad" title="Foreword"></s1>
+		<s1 page="0000ae" title="Acknowledgements"></s1>
+		<s1 page="0000am" title="Introduction"></s1>
+		<s1 page="0001" title="Systematic Treatment"></s1>
+		<s1 page="0315" title="Selected Bibliography"></s1>
+		<s1 page="0321" title="Index to Botanical Names"></s1>
+		<s1 page="0339" title="Index to Marathi Names"></s1>
+	</book>
+	<book bid="025">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Past Botanical Explorations"></s1>
+		<s1 page="0003" title="Present Works"></s1>
+		<s1 page="0004" title="Plan of the Flora"></s1>
+		<s1 page="0007" title="The Area of Study"></s1>
+		<s1 page="0010" title="Statistical analysis of the Flora"></s1>
+		<s1 page="0013" title="General Pattern of Vegetation"></s1>
+		<s1 page="0019" title="Biotic Interference on the Flora"></s1>
+		<s1 page="0024" title="Observations"></s1>
+		<s1 page="0027" title="Systematic Treatment"></s1>
+		<s1 page="0566" title="Selected Bibliography"></s1>
+		<s1 page="0618" title="Index"></s1>
+	</book>
+	<book bid="026">
+		<s1 page="0000ad" title="Foreword"></s1>
+		<s1 page="0000ae" title="Preface"></s1>
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="Physiography"></s2>
+			<s2 page="0003" title="Important places"></s2>
+			<s2 page="0004" title="Geology and soil"></s2>
+			<s2 page="0004" title="Climate"></s2>
+			<s2 page="0005" title="History"></s2>
+			<s2 page="0007" title="The people"></s2>
+		</s1>
+		<s1 page="0009" title="Earlier collections and publications"></s1>
+		<s1 page="0009" title="Present collection"></s1>
+		<s1 page="0009" title="Vegetation"></s1>
+		<s1 page="0013" title="Helophytes and hydrophytes"></s1>
+		<s1 page="0013" title="Economic botany"></s1>
+		<s1 page="0019" title="Analysis of the flora"></s1>
+		<s1 page="0020" title="Rare, endangered and endemic plants"></s1>
+		<s1 page="0022" title="Plan followed in this flora"></s1>
+		<s1 page="0023" title="Abbreviations"></s1>
+		<s1 page="0025" title="References"></s1>
+		<s1 page="0026" title="Taxonomic Account">
+			<s2 page="0026" title="Synoptical key to families"></s2>
+			<s2 page="0041" title="Enumeration"></s2>
+			<s2 page="0496" title="Summary"></s2>
+		</s1>
+		<s1 page="0497" title="Appendix"></s1>
+		<s1 page="0500" title="Index"></s1>
+	</book>
+	<book bid="027">
+		<s1 page="0000ad" title="Foreword"></s1>
+		<s1 page="0000af" title="Preface"></s1>
+		<s1 page="0000ak" title="Introduction"></s1>
+		<s1 page="0001" title="The Flora of Khandala"></s1>
+		<s1 page="0364" title="Bibliography"></s1>
+		<s1 page="0367" title="Index"></s1>
+	</book>
+	<book bid="028">
+		<s1 page="0000c" title="Foreword"></s1>
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Past Work"></s1>
+		<s1 page="0005" title="Present Work"></s1>
+		<s1 page="0007" title="Topography"></s1>
+		<s1 page="0009" title="Geology and Soil"></s1>
+		<s1 page="0012" title="Climate"></s1>
+		<s1 page="0013" title="Forest Biota"></s1>
+		<s1 page="0015" title="General Vegetation and its types"></s1>
+		<s1 page="0023" title="Analysis of the Flora"></s1>
+		<s1 page="0027" title="Notes on Ethnobotany and Economic Plants"></s1>
+		<s1 page="0029" title="Sequence of Families"></s1>
+		<s1 page="0031" title="Key to the Groups of Angiosperms"></s1>
+		<s1 page="0053" title="Systematic Enumeration : Magnoliaceae to Oxalidaceae"></s1>
+	</book>
+	<book bid="029">
+		<s1 page="0000ad" title="Sequence of Families"></s1>
+		<s1 page="1192" title="Bibliography"></s1>
+		<s1 page="1200" title="Index to Local Names"></s1>
+		<s1 page="1214" title="Index"></s1>
+	</book>
+	<book bid="030">
+		<s1 page="0000e" title="Acknowledgements"></s1>
+		<s1 page="0000f" title="Foreword"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0022" title="Abbreviation"></s1>
+		<s1 page="0023" title="Key to the Families"></s1>
+		<s1 page="0035" title="Systematic Treatment"></s1>
+		<s1 page="0367" title="Bibliography"></s1>
+		<s1 page="0379" title="Index to Botanical Names"></s1>
+		<s1 page="0395" title="Index to Vernacular Names"></s1>
+	</book>
+	<book bid="031">
+		<s1 page="0000c" title="1. Foreword"></s1>
+		<s1 page="0000d" title="2. Preface"></s1>
+		<s1 page="0001" title="3. Introduction"></s1>
+		<s1 page="0002" title="4. Geography">
+			<s2 page="0005" title="a. Drainage System"></s2>
+			<s2 page="0005" title="b. Geology"></s2>
+			<s2 page="0006" title="c. Soil"></s2>
+			<s2 page="0007" title="e. Climate"></s2>
+		</s1>
+		<s1 page="0007" title="5. Vegetation">
+			<s2 page="0008" title="a: Littoral"></s2>
+			<s2 page="0010" title="b: Inland"></s2>
+		</s1>
+		<s1 page="0012" title="6. Man made Vegetation"></s1>
+		<s1 page="0013" title="7. Botanical History"></s1>
+		<s1 page="0015" title="8. Status of Plant Exploration"></s1>
+		<s1 page="0015" title="9. Analysis of the Flora"></s1>
+		<s1 page="0018" title="10. Phytogeography"></s1>
+		<s1 page="0047" title="11. Conservation Measures Proposed"></s1>
+		<s1 page="0048" title="12. Utilisation Aspects of the Flora"></s1>
+		<s1 page="0052" title="13. Ethnobotany"></s1>
+		<s1 page="0057" title="14. Doubtful and Excluded Species"></s1>
+		<s1 page="0061" title="15. Selected Bibliography"></s1>
+		<s1 page="0074" title="16. Flora (Systematic Enumeration)">
+			<s2 page="0074" title="a. Pteridophytes"></s2>
+			<s2 page="0120" title="b. Gymnosperms"></s2>
+			<s2 page="0122" title="c. Angiosperms">
+				<s3 page="0122" title="i. Dicotyledons"></s3>
+				<s3 page="0418" title="ii. Monocotyledons"></s3>
+			</s2>
+		</s1>
+		<s1 page="0509" title="17. Index"></s1>
+	</book>
+	<book bid="032">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0010" title="General account"></s1>
+		<s1 page="0016" title="General vegetation"></s1>
+		<s1 page="0021" title="Hydrophytic vegetation"></s1>
+		<s1 page="0025" title="Biotic influence on the vegetation"></s1>
+		<s1 page="0026" title="Statistical analysis of the flora"></s1>
+		<s1 page="0029" title="Rare Plants"></s1>
+		<s1 page="0030" title="Endemic Plants"></s1>
+		<s1 page="0030" title="Exotic species"></s1>
+		<s1 page="0031" title="Artificial key to the families"></s1>
+		<s1 page="0049" title="Alphabetical list of the families"></s1>
+		<s1 page="0054" title="Enumeration of species (Dicots)"></s1>
+		<s1 page="0587" title="Enumeration of species (Monocots)"></s1>
+		<s1 page="0723" title="References"></s1>
+		<s1 page="0731" title="Index to the Genera"></s1>
+	</book>
+	<book bid="033">
+		<s1 page="0000ab" title="Foreword"></s1>
+		<s1 page="0000ad" title="Preface"></s1>
+		<s1 page="0000ai" title="Introduction"></s1>
+		<s1 page="0001" title="The Flora of Khandala"></s1>
+		<s1 page="0285" title="Bibliography"></s1>
+		<s1 page="0289" title="Appendix"></s1>
+		<s1 page="0293" title="Index"></s1>
+	</book>
+	<book bid="034">
+		<s1 page="0000ad" title="Preface"></s1>
+		<s1 page="0000ae" title="Foreword"></s1>
+		<s1 page="0000ak" title="Introduction"></s1>
+		<s1 page="0001" title="Enumeration of Species - The Flora of Khandala"></s1>
+		<s1 page="0323" title="Bibliography"></s1>
+		<s1 page="0327" title="Appendix"></s1>
+		<s1 page="0331" title="Index"></s1>
+	</book>
+</s3> 

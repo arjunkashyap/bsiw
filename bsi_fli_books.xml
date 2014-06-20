@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fli SYSTEM "fli.dtd">
+
+<fli>
+	<s1 title="Introductory volume" author="" page="0001-0613" info="00:00:01:001" type="fli" date="00-12-1996"></s1>
+	<s1 title="Introductory volume" author="" page="0001-0509" info="00:00:02:002" type="fli" date="04-03-2000"></s1>
+	<s1 title="Ranunculaceae - Barclayaceae" author="" page="0001-0513" info="00:01:00:003" type="fli" date="01-07-1993"></s1>
+	<s1 title="Papaveraceae - Caryophyllaceae" author="" page="0001-0673" info="00:02:00:004" type="fli" date="12-07-1993"></s1>
+	<s1 title="Portulacaceae - Ixonanthaceae" author="" page="0001-0679" info="00:03:00:005" type="fli" date="20-07-1993"></s1>
+	<s1 title="Malpighiaceae-Dichapetalaceae" author="" page="0001-0605" info="00:04:00:006" type="fli" date="00-00-0000"></s1>
+	<s1 title="Olacaceae - Connaraceae" author="" page="0001-0625" info="00:05:00:007" type="fli" date="00-10-2000"></s1>
+	<s1 title="Asteraceae (Anthemideae - Heliantheae)" author="" page="0001-0499" info="00:12:00:008" type="fli" date="01-05-1995"></s1>
+	<s1 title="Asteraceae (Inuleae - Vernonieae)" author="" page="0001-0445" info="00:13:00:009" type="fli" date="17-07-1995"></s1>
+</fli>

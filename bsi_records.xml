@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bsi-records SYSTEM "fli.dtd">
+
+<bsi>
+	<records>
+		<volume vnum="001">
+			<part pnum="01" month="00" year="1893">
+				<entry>
+					<title>Report on a Botanical Tour in Kashmir</title>
+					<feature></feature>
+					<page>0001-0018</page>
+					<allauthors>
+						<author>Duthie, J. F.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1894">
+				<entry>
+					<title>Report on a Botanical Tour in Sikkim</title>
+					<feature></feature>
+					<page>0001-0024</page>
+					<allauthors>
+						<author>Gammie, G. A.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="00" year="1894">
+				<entry>
+					<title>Report on a Botanical Tour in Kashmir (with Map)</title>
+					<feature></feature>
+					<page>0025-0047</page>
+					<allauthors>
+						<author>Duthie, J. F.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="00" year="1894">
+				<entry>
+					<title>Notes on a Journey from Haveri to Kumta</title>
+					<feature></feature>
+					<page>0049-0057</page>
+					<allauthors>
+						<author>Woodrow, Marshall</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes of a Botanical Tour in Travancore, etc.</title>
+					<feature></feature>
+					<page>0058-0060</page>
+					<allauthors>
+						<author>Lawson, M. A.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="05" month="00" year="1895">
+				<entry>
+					<title>Report on a Botanical Tour in the Lakhimpur District of Assam</title>
+					<feature></feature>
+					<page>0061-0088</page>
+					<allauthors>
+						<author>Gammie, G. A.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="06" month="00" year="1895">
+				<entry>
+					<title>Botanical Notes on a Journey from Poona to Nagotna</title>
+					<feature></feature>
+					<page>0089-0097</page>
+					<allauthors>
+						<author>Woodrow, Marshall</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="07" month="00" year="1896">
+				<entry>
+					<title>A Note on Indian Wheat-Rusts</title>
+					<feature></feature>
+					<page>0099-0124</page>
+					<allauthors>
+						<author>Cunningham, D. D.</author>
+						<author>Prain, D.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="08" month="00" year="1896">
+				<entry>
+					<title>A Note on the Botany of the Baluch-Afghan Boundary Commission, 1896 (with Map)</title>
+					<feature></feature>
+					<page>0125-0137</page>
+					<allauthors>
+						<author>Maynard, F. P.</author>
+						<author>Prain, D.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="09" month="00" year="1898">
+				<entry>
+					<title>The Botany of the Chitral Relief Expedition, 1895 (with Map)</title>
+					<feature></feature>
+					<page>0139-0181</page>
+					<allauthors>
+						<author>Duthie, J. F.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="10" month="00" year="1898">
+				<entry>
+					<title>A Botanical Tour in Chamba and Kangra</title>
+					<feature></feature>
+					<page>0183-0214</page>
+					<allauthors>
+						<author>Gammie, G. A.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="11" month="00" year="1898">
+				<entry>
+					<title>A Note on the Botany of the Kachin Hills, North-East of Myitkyina, (with two Maps)</title>
+					<feature></feature>
+					<page>0215-0310</page>
+					<allauthors>
+						<author>Portinger, E.</author>
+						<author>Prain, D.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="12" month="00" year="1899">
+				<entry>
+					<title>Contributions to the Bryological Flora of Southern India</title>
+					<feature></feature>
+					<page>0311-0329</page>
+					<allauthors>
+						<author>Brotherus, V. F.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="13" month="00" year="1901">
+				<entry>
+					<title>A Botanical Tour in the South Lushai Hills (with Map)</title>
+					<feature></feature>
+					<page>0331-0369</page>
+					<allauthors>
+						<author>Lieut</author>
+						<author>Gage, A. T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index to Plants Referred to [1902]</title>
+					<feature></feature>
+					<page>0371-0404</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="002">
+			<part pnum="01" month="08" year="1903">
+				<entry>
+					<title>Plants of Chutia Nagpur Including Jaspur and Sirguja</title>
+					<feature></feature>
+					<page>0001-0170</page>
+					<allauthors>
+						<author>Wood, J. J.</author>
+						<author>Surgeon</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="08" year="1902">
+				<entry>
+					<title>A Note on Plants used during Famines and Seasons of Scarcity in the Bombay Presidency</title>
+					<feature></feature>
+					<page>0171-0196</page>
+					<allauthors>
+						<author>Gammie, G. A.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="09" year="1902">
+				<entry>
+					<title>Systematic Enumeration of the Species of Calamus and Damonorops, with Diagnoses of the New Ones</title>
+					<feature></feature>
+					<page>0197-0230</page>
+					<allauthors>
+						<author>Beccari, O.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="06" year="1903">
+				<entry>
+					<title>Flora of the Sundribuns</title>
+					<feature></feature>
+					<page>0231-0370</page>
+					<allauthors>
+						<author>Prain, D.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="05" month="09" year="1903">
+				<entry>
+					<title>A Census of the Indian Polygonums</title>
+					<feature></feature>
+					<page>0371-0452</page>
+					<allauthors>
+						<author>Gage, A. T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index to Plants Referred to</title>
+					<feature></feature>
+					<page>0453-0475</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="003">
+			<part pnum="01" month="00" year="1981">
+				<entry>
+					<title>The Vegetation of the District of Minbu in Upper Burma</title>
+					<feature></feature>
+					<page>0001-0141</page>
+					<allauthors>
+						<author>Gage, A. T.</author>
+						<author>Captain</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0141a-0141g</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1905">
+				<entry>
+					<title>The Vegetation of the Districts of Hughli-Howrah and the 24-Pergunnahs</title>
+					<feature></feature>
+					<page>0143-0339</page>
+					<allauthors>
+						<author>Prain, D.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index to Genera</title>
+					<feature></feature>
+					<page>0339a-0339e</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="03" month="00" year="1907">
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0340b-0340b</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Sapindaceae Novae Indicae et Malaicae Ex Herbario Calcuttensi</title>
+					<feature></feature>
+					<page>0341-0355</page>
+					<allauthors>
+						<author>Radlkofer, L.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="00" year="1908">
+				<entry>
+					<title>A Revision of the Indo-Malayan Species of Cedrela</title>
+					<feature></feature>
+					<page>0357-0376</page>
+					<allauthors>
+						<author>Candolle, C. De</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0377-0377</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="004">
+			<part pnum="01" month="11" year="1904">
+				<entry>
+					<title>An Epitome of the British Indian species of Impatiens</title>
+					<feature></feature>
+					<page>0001-0010</page>
+					<allauthors>
+						<author>Hooker, J. D.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="06" year="1905">
+				<entry>
+					<title>An Epitome of the British Indian species of Impatiens</title>
+					<feature></feature>
+					<page>0011-0035</page>
+					<allauthors>
+						<author>Hooker, J. D.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="06" year="1906">
+				<entry>
+					<title>An Epitome of the British Indian species of Impatiens</title>
+					<feature></feature>
+					<page>0037-0058</page>
+					<allauthors>
+						<author>Hooker, J. D.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="08" year="1910">
+				<entry>
+					<title>Notes from a journey to Nepal</title>
+					<feature></feature>
+					<page>0059-0140</page>
+					<allauthors>
+						<author>Burkill, I. H.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index to Genera</title>
+					<feature></feature>
+					<page>0140a-0140c</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="05" month="08" year="1911">
+				<entry>
+					<title>The Vegetation of the Zemu and Llonakh valleys of Sikkim</title>
+					<feature></feature>
+					<page>0141-0260</page>
+					<allauthors>
+						<author>Smith, W. W.</author>
+						<author>Cave, G. H.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Some additions to the Flora of the Eastern Himalaya</title>
+					<feature></feature>
+					<page>0261-0272</page>
+					<allauthors>
+						<author>Smith, W. W.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Some additions to the Flora of Burma</title>
+					<feature></feature>
+					<page>0273-0282</page>
+					<allauthors>
+						<author>Smith, W. W.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Four new speices of the Compositae from South India and a Justicia from Assam</title>
+					<feature></feature>
+					<page>0283-0285</page>
+					<allauthors>
+						<author>Smith, W. W.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index to Genera</title>
+					<feature></feature>
+					<page>0285a-0285d</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="06" month="10" year="1911">
+				<entry>
+					<title>Determinations of the prickly pears now wild in India</title>
+					<feature></feature>
+					<page>0287-0322</page>
+					<allauthors>
+						<author>Burkill, I. H.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="07" month="01" year="1913">
+				<entry>
+					<title>The alpine and sub-alpine Vegetation of south-East Sikkim</title>
+					<feature></feature>
+					<page>0323-0431</page>
+					<allauthors>
+						<author>Smith, W. W.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0432-0441</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0442-0462</page>
+					<allauthors>
+						<author>Banerji, S. C.</author>
+						<author>Ramaswami, M. S.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="005">
+			<part pnum="01" month="00" year="1912">
+				<entry>
+					<title>Index to Squares</title>
+					<feature></feature>
+					<page>0114a-0114c</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Catalogue of Non-Herbaceous Phanerogams Cultivated in the Royal Botanic Garden, Calcutta &#8212; Part I (Numerical List)</title>
+					<feature></feature>
+					<page>0001-0115</page>
+					<allauthors>
+						<author>Gage, A. T.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1911">
+				<entry>
+					<title>Catalogue of Non-Herbaceous Phanerogams Cultivated in the Royal Botanic Garden, Calcutta &#8212; Part I (Numerical List) &#8212; Second Fasciculus</title>
+					<feature></feature>
+					<page>0115-0168</page>
+					<allauthors>
+						<author>Gage, A. T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index to Squares</title>
+					<feature></feature>
+					<page>0168a-0168b</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="03" month="00" year="1911">
+				<entry>
+					<title>Catalogue of Non-Herbaceous Phanerogams Cultivated in the Royal Botanic Garden, Calcutta &#8212; Part I (Numerical List) &#8212; Third Fasciculus</title>
+					<feature></feature>
+					<page>0169-0274</page>
+					<allauthors>
+						<author>Gage, A. T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index to Squares</title>
+					<feature></feature>
+					<page>0274a-0274c</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="04" month="00" year="1912">
+				<entry>
+					<title>Catalogue of Non-Herbaceous Phanerogams Cultivated in the Royal Botanic Garden, Calcutta &#8212; Part I (Numerical List) &#8212; Fourth Fasciculus</title>
+					<feature></feature>
+					<page>0275-0367</page>
+					<allauthors>
+						<author>Gage, A. T.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="05" month="00" year="1940">
+				<entry>
+					<title>Plants of the Lloyd Botanic Garden, Darjeeling</title>
+					<feature></feature>
+					<page>0369-0478</page>
+					<allauthors>
+						<author>Biswas, K. P.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="006">
+			<part pnum="01" month="00" year="1912">
+				<entry>
+					<title>Piperaceae Novae e Peninsula Malayana</title>
+					<feature></feature>
+					<page>0001-0027</page>
+					<allauthors>
+						<author>Candolle, C. de</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0027a-0027a</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1913">
+				<entry>
+					<title>Two Decads of New Indo-Burmese Species</title>
+					<feature></feature>
+					<page>0029-0040</page>
+					<allauthors>
+						<author>Smith, W. W.</author>
+						<author>Banerji, S. C.</author>
+						<author>Ramaswami, M. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>New Indian Didymocarpi</title>
+					<feature></feature>
+					<page>0041-0043</page>
+					<allauthors>
+						<author>Smith, W. W.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A Note on the Himalayan Species of Daphne</title>
+					<feature></feature>
+					<page>0045-0054</page>
+					<allauthors>
+						<author>Smith, W. W.</author>
+						<author>Cave, G. H.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Description of Plate</title>
+					<feature></feature>
+					<page>0055-0055</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0056a-0056a</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="03" month="00" year="1914">
+				<entry>
+					<title>Report on the Mosses of the Abor Expedition, 1911-12</title>
+					<feature></feature>
+					<page>0057-0073</page>
+					<allauthors>
+						<author>Dixon, H. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Report on the Mosses Collected by Mr. C. E. C. Fischer and others from South India and Ceylon</title>
+					<feature></feature>
+					<page>0075-0089</page>
+					<allauthors>
+						<author>Dixon, H. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0090-0090c</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="04" month="00" year="1914">
+				<entry>
+					<title>Note on the East Himalayan Species of Alangium</title>
+					<feature></feature>
+					<page>0093-0097</page>
+					<allauthors>
+						<author>Cave, G. H.</author>
+						<author>Smith, W. W.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Species Novae Plantarum in Herbario Horti. Reg. Calcutt. Cognitarum</title>
+					<feature></feature>
+					<page>0099-0104</page>
+					<allauthors>
+						<author>Smith, W. W.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="05" month="00" year="1914">
+				<entry>
+					<title>A Botanical Tour in the Tinnevelly Hills</title>
+					<feature></feature>
+					<page>0105-0171</page>
+					<allauthors>
+						<author>Ramaswami, M. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0173-0173e</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="06" month="00" year="1917">
+				<entry>
+					<title>Some Plants of the Zor Hills, Koweit, Arabia</title>
+					<feature></feature>
+					<page>0175-0205</page>
+					<allauthors>
+						<author>Carter, Humphrey G.</author>
+						<author>Cox, P. Z.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Addendum</title>
+					<feature></feature>
+					<page>0206-0206</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0206a-0206e</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="07" month="00" year="1918">
+				<entry>
+					<title>Plants of Northern Gujarat</title>
+					<feature></feature>
+					<page>0209-0323</page>
+					<allauthors>
+						<author>Saxton, W. T.</author>
+						<author>Sedgwick, L. J.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0323a-0323m</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="08" month="00" year="1919">
+				<entry>
+					<title>The Species of Oxalis Now Wild in India</title>
+					<feature></feature>
+					<page>0325-0341</page>
+					<allauthors>
+						<author>Calder, C. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A New Indian Vernonia</title>
+					<feature></feature>
+					<page>0343-0345</page>
+					<allauthors>
+						<author>Calder, C. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On Trichodesma Indicum R. Br. and Trichodesma Amplexicaule Auctt.</title>
+					<feature></feature>
+					<page>0347-0350</page>
+					<allauthors>
+						<author>Sedgwick, L. J.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On Trichodesma Indicum R. Br. and Trichodesma Amplexicaule Auctt. A New Indian Impatiens. A New Indian Habenaria</title>
+					<feature></feature>
+					<page>0000-0000</page>
+					<allauthors>
+						<author>Sedgwick, L. J.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A New Indian Impatiens</title>
+					<feature></feature>
+					<page>0351-0351</page>
+					<allauthors>
+						<author>Sedgwick, L. J.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A New Indian Habenaria</title>
+					<feature></feature>
+					<page>0352-0352</page>
+					<allauthors>
+						<author>Sedgwick, L. J.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0352a-0352b</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="09" month="00" year="1921">
+				<entry>
+					<title>Useful Plants of the District of Lakhimpur in Assam</title>
+					<feature></feature>
+					<page>0354-0420</page>
+					<allauthors>
+						<author>Carter, Humphrey G.</author>
+						<author>Carter, Dorine N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0421-0429</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="10" month="00" year="1942">
+				<entry>
+					<title>Useful Plants of Mayurbhanj State in Orissa</title>
+					<feature></feature>
+					<page>0001-0119</page>
+					<allauthors>
+						<author>Bal, S. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index to Plants According to their Uses</title>
+					<feature></feature>
+					<page>0121-0140</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="007">
+			<part pnum="01" month="00" year="1914">
+				<entry>
+					<title>History of the Botanical Exploration of Aden</title>
+					<feature></feature>
+					<page>0001-0079</page>
+					<allauthors>
+						<author>Blatter, Ethelbert</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1915">
+				<entry>
+					<title>Flora of Aden</title>
+					<feature></feature>
+					<page>0079-0332</page>
+					<allauthors>
+						<author>Blatter, Ethelbert</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="00" year="1916">
+				<entry>
+					<title>Flora of Aden</title>
+					<feature></feature>
+					<page>0332c-0418</page>
+					<allauthors>
+						<author>Blatter, Ethelbert</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0419-0441</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="008">
+			<part pnum="01" month="09" year="1919">
+				<entry>
+					<title>Flora Arabica</title>
+					<feature></feature>
+					<page>0000e-0092b</page>
+					<allauthors>
+						<author>Blatter, Ethelbert</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1921">
+				<entry>
+					<title>Flora Arabica</title>
+					<feature></feature>
+					<page>0123-0282</page>
+					<allauthors>
+						<author>Blatter, Ethelbert</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="12" year="1921">
+				<entry>
+					<title>Flora Arabica</title>
+					<feature></feature>
+					<page>0283-0365</page>
+					<allauthors>
+						<author>Blatter, Ethelbert</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="03" year="1923">
+				<entry>
+					<title>Flora Arabica</title>
+					<feature></feature>
+					<page>0365d-0450</page>
+					<allauthors>
+						<author>Blatter, Ethelbert</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="05" month="00" year="1933">
+				<entry>
+					<title>Flora Arabica : The Botanical Exploration of Arabia</title>
+					<feature></feature>
+					<page>0451-0496</page>
+					<allauthors>
+						<author>Blatter, Ethelbert</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Appendix</title>
+					<feature></feature>
+					<page>0497-0497</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Index of names of botanists, collectors and travellers with years of their activities</title>
+					<feature></feature>
+					<page>0498-0501</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="06" month="00" year="1936">
+				<entry>
+					<title>Flora Arabica</title>
+					<feature></feature>
+					<page>0451-0519</page>
+					<allauthors>
+						<author>Blatter, E.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>General Index</title>
+					<feature></feature>
+					<page>0521-0569</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="009">
+			<part pnum="01" month="00" year="1921">
+				<entry>
+					<title>A Survey of the Flora of the Anaimalai Hills in the Coimbatore District, Madras Presidency</title>
+					<feature></feature>
+					<page>0001-0218</page>
+					<allauthors>
+						<author>Fischer, C. E. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0218aa-0218aw</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="0000">
+				<entry>
+					<title>Euphorbiaceae Novae e Peninsula Malayana</title>
+					<feature></feature>
+					<page>0219-0249</page>
+					<allauthors>
+						<author>Gage, A. T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0250a-0250a</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="03" month="00" year="1922">
+				<entry>
+					<title>Additional Notes on Plants of Northern Gujarat</title>
+					<feature></feature>
+					<page>0251-0262</page>
+					<allauthors>
+						<author>Saxton, W. T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Errata to ``Freshwater Algae from India''</title>
+					<feature></feature>
+					<page>0262a-0262d</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="04" month="00" year="0000">
+				<entry>
+					<title>Freshwater Algae from India</title>
+					<feature></feature>
+					<page>0263-0298</page>
+					<allauthors>
+						<author>Carter, Nellie</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Literature Cited</title>
+					<feature></feature>
+					<page>0299-0302</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="05" month="00" year="0000">
+				<entry>
+					<title>Mosses Collected in Gilgit, etc., by J. Garrett and W. Lillie</title>
+					<feature></feature>
+					<page>0303-0313</page>
+					<allauthors>
+						<author>Dixon, H. N.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="010">
+			<part pnum="01" month="00" year="1924">
+				<entry>
+					<title>The Botany of the Abor Expedition</title>
+					<feature></feature>
+					<page>0001-0154</page>
+					<allauthors>
+						<author>Burkill, I. H.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1925">
+				<entry>
+					<title>The Botany of the Abor Expedition</title>
+					<feature></feature>
+					<page>0155-0420</page>
+					<allauthors>
+						<author>Burkill, I. H.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="011">
+			<part pnum="01" month="00" year="1926">
+				<entry>
+					<title>List of Species and Genera of Indian Phanerogams not included in Sir J. D. Hooker's Flora of British India</title>
+					<feature></feature>
+					<page>0000c-0157</page>
+					<allauthors>
+						<author>Calder, C. C.</author>
+						<author>Narayanaswami, V.</author>
+						<author>Ramaswami, M. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Loranthaceae of Southern India and their host plants</title>
+					<feature></feature>
+					<page>0159-0172</page>
+					<allauthors>
+						<author>Fischer, C. E. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Appendix I.</title>
+					<feature></feature>
+					<page>0173-0182</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Appendix II.</title>
+					<feature></feature>
+					<page>0183-0191</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Appendix III.</title>
+					<feature></feature>
+					<page>0192-0194</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Appendix IV.</title>
+					<feature></feature>
+					<page>0195-0195</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1928">
+				<entry>
+					<title>The Flora of the Chakaria Sundarbans</title>
+					<feature></feature>
+					<page>0197-0225</page>
+					<allauthors>
+						<author>Cowan, J. M.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="012">
+			<part pnum="01" month="00" year="1929">
+				<entry>
+					<title>The Forests of Kalimpong an Ecological Account</title>
+					<feature></feature>
+					<page>0001-0071</page>
+					<allauthors>
+						<author>Cowan, J. M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Bibliography</title>
+					<feature></feature>
+					<page>0072-0074</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1938">
+				<entry>
+					<title>The Flora of the Lushai Hills</title>
+					<feature></feature>
+					<page>0075-0161</page>
+					<allauthors>
+						<author>Fischer, E. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Some New North-West Himalayan Mosses</title>
+					<feature></feature>
+					<page>0163-0179</page>
+					<allauthors>
+						<author>Dixon, H. N.</author>
+						<author>Badhwar, R. L.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="013">
+			<part pnum="01" month="00" year="1931">
+				<entry>
+					<title>A Census of Indian Mosses with Analytical keys to the Genera referred to in the Census as well as all the Genera dealt with in the second edition of Prof. Brotherus account of the Musci Veri in Engler and Prantl's ``Pflanzenfamilien"</title>
+					<feature></feature>
+					<page>0001-0135</page>
+					<allauthors>
+						<author>Brühl, P.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1931">
+				<entry>
+					<title>Analytical Key to the Genera Referred to in the Census of Species</title>
+					<feature></feature>
+					<page>0001-0151</page>
+					<allauthors>
+						<author>Brühl, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Addenda to Part No. 2 of Volume XIII</title>
+					<feature></feature>
+					<page>0152-0152</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="014">
+			<part pnum="01" month="00" year="1940">
+				<entry>
+					<title>A Revision of the Labiatae of the Indian Empire</title>
+					<feature></feature>
+					<page>0001-0228</page>
+					<allauthors>
+						<author>Mukerjee, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0229-0236</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="015">
+			<part pnum="01" month="00" year="1949">
+				<entry>
+					<title>Common Fresh and Brackish Water Algal Flora of India and Burma with a Catalogue of Indian Myxophyceae (Blue-Green Algae), Chlorophyceae (Green Algae), Xanthophyceae (Yellow-Green Algae) and Bacillariophyceae (Diatoms)</title>
+					<feature></feature>
+					<page>0001-0105</page>
+					<allauthors>
+						<author>Biswas, Kalipada</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1949">
+				<entry>
+					<title>Common Fresh and Brackish Water Algal Flora of India and Burma with a Catalogue of Indian Myxophyceae (Blue-Green Algae), Chlorophyceae (Green Algae), Xanthophyceae (Yellow-Green Algae) and Bacillariophyceae (Diatoms)</title>
+					<feature></feature>
+					<page>0001-0169</page>
+					<allauthors>
+						<author>Biswas, Kalipada</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="016">
+			<part pnum="01" month="00" year="1953">
+				<entry>
+					<title>The Flora of Khandala on the Western Ghats of India</title>
+					<feature></feature>
+					<page>0001-0396</page>
+					<allauthors>
+						<author>Santapau, H.</author>
+						<author>Biswas, K.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="0000">
+				<entry>
+					<title>Studies in Indian Berberidaceae from Botanical, Chemical and Pharmaceutical Aspects</title>
+					<feature></feature>
+					<page>0001-0081</page>
+					<allauthors>
+						<author>Chatterjee, R.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Appendix I</title>
+					<feature></feature>
+					<page>0082-0082</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Appendix II</title>
+					<feature></feature>
+					<page>0083-0086</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="017">
+			<part pnum="01" month="00" year="1959">
+				<entry>
+					<title>Monograph on Indian cucurbitaceae (Taxonomy and Distribution)</title>
+					<feature></feature>
+					<page>0001-0226</page>
+					<allauthors>
+						<author>Chakravarty, H. L.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0227-0234</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1959">
+				<entry>
+					<title>Report on a Botanical Tour to Bomdi-La, N. E. F. A. (May, 1955)</title>
+					<feature></feature>
+					<page>0001-0038</page>
+					<allauthors>
+						<author>Srinivasan, K. S.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="018">
+			<part pnum="01" month="00" year="1959">
+				<entry>
+					<title>A Second List of Species and Genera of Indian Phanerogams not included in J. D. Hooker's Flora of British India</title>
+					<feature></feature>
+					<page>0001-0056</page>
+					<allauthors>
+						<author>Razi, Basheer Ahmed</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1961">
+				<entry>
+					<title>A Botanical Tour in Kashmir State</title>
+					<feature></feature>
+					<page>0001-0066</page>
+					<allauthors>
+						<author>Rao, T. Ananda</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Bibliography</title>
+					<feature></feature>
+					<page>0067-0067</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>List of Illustrations</title>
+					<feature></feature>
+					<page>0067-0067</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="019">
+			<part pnum="01" month="00" year="1964">
+				<entry>
+					<title>Flora of Rajasthan - West of the Aravallis</title>
+					<feature></feature>
+					<page>0001-0152</page>
+					<allauthors>
+						<author>Puri, G. S.</author>
+						<author>Jain, S. K.</author>
+						<author>Mukerjee, S. K.</author>
+						<author>Sarup, S.</author>
+						<author>Kotwal, N. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Literature Cited</title>
+					<feature></feature>
+					<page>0153-0154</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Index to Families and Genera</title>
+					<feature></feature>
+					<page>0155-0159</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1965">
+				<entry>
+					<title>Contributions to the Flora of East Nepal</title>
+					<feature></feature>
+					<page>0001-0090</page>
+					<allauthors>
+						<author>Banerji, M. L.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="020">
+			<part pnum="01" month="00" year="1969">
+				<entry>
+					<title>Geographical Features of the Palni Hills and of Kodaikanal</title>
+					<feature></feature>
+					<page>0001-0232</page>
+					<allauthors>
+						<author>Matthew, K. M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index to the Families, Genera and Species</title>
+					<feature></feature>
+					<page>0233-0241</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1973">
+				<entry>
+					<title>Preface</title>
+					<feature></feature>
+					<page>0000d-0000d</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Materials for the Flora of Bhutan</title>
+					<feature></feature>
+					<page>0000e-0000j</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Enumeration of Species</title>
+					<feature></feature>
+					<page>0001-0239</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Important Medicinal Plants of Bhutan Available in Large Quantities</title>
+					<feature></feature>
+					<page>0241-0246</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Selected Bibliography</title>
+					<feature></feature>
+					<page>0247-0247</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Index of Latin Names</title>
+					<feature></feature>
+					<page>0249-0278</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="021">
+			<part pnum="01" month="00" year="1978">
+				<entry>
+					<title>Flora of the Punjab Plains</title>
+					<feature></feature>
+					<page>0001-0292</page>
+					<allauthors>
+						<author>Nair, N. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index to Botanical Names</title>
+					<feature></feature>
+					<page>0293-0320</page>
+					<allauthors />
+				</entry>
+				<entry>
+					<title>Index to Local Names and Common Names</title>
+					<feature></feature>
+					<page>0321-0326</page>
+					<allauthors />
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1981">
+				<entry>
+					<title>A Checklist of the Plants of Gujarat</title>
+					<feature></feature>
+					<page>0000d-0127</page>
+					<allauthors>
+						<author>Raghavan, R. Sundara</author>
+						<author>Wadhwa, B. M.</author>
+						<author>Ansari, M. Y.</author>
+						<author>Rao, Rolla S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fourth List of Species and Genera of Indian Phanerogams not Included in J. D. Hooker's 'The Flora of British India' (Excluding Bangladesh, Burma, Sri Lanka, Malayan Peninsula and Pakistan)</title>
+					<feature></feature>
+					<page>0129-0152</page>
+					<allauthors>
+						<author>Nayar, M. P.</author>
+						<author>Karthikeyan, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A Catalogue of Species Added to Cooke's Flora of the Presidency of Bombay During 1908-1978</title>
+					<feature></feature>
+					<page>0153-0205</page>
+					<allauthors>
+						<author>Karthikeyan, S.</author>
+						<author>Nayar, M. P.</author>
+						<author>Raghavan, R. Sundara</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Cyperaceae</title>
+					<feature></feature>
+					<page>0207-0220</page>
+					<allauthors>
+						<author>Rao, A. S.</author>
+						<author>Verma, D. M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Cyperaceae of Madhya Pradesh</title>
+					<feature></feature>
+					<page>0221-0275</page>
+					<allauthors>
+						<author>Verma, D. M.</author>
+						<author>Chandra, Veena</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="023">
+			<part pnum="01" month="00" year="1983">
+				<entry>
+					<title>Hypnobryales Suborder Leskeineae (Musci) of the Himalayas</title>
+					<feature></feature>
+					<page>0001-0328</page>
+					<allauthors>
+						<author>Vohra, J. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Index</title>
+					<feature></feature>
+					<page>0329-0336</page>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>
+	</records>
+</bsi>

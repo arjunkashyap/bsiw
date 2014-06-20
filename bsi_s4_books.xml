@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE s4 SYSTEM "s4.dtd">
+
+<s4>
+	<s1 title="Genera of Indian Polypores" author="Sharma, J. R." page="0001-0205" info="00:00:00:001" type="s4" date="00-00-0000"></s1>
+	<s1 title="Exotic Flora of Allahabad" author="Sharma, B. D.;Pandey D. S." page="0001-0185" info="00:00:00:002" type="s4" date="00-00-0000"></s1>
+	<s1 title="Beautiful Trees and Shrubs of Calcutta" author="Charraverty, R. K.;Jain, S. K." page="0001-0213" info="00:00:00:003" type="s4" date="00-00-0000"></s1>
+	<s1 title="High Altitude Flowering Plants of Western Himalaya" author="Rau, M. A." page="0001-0245" info="00:00:00:004" type="s4" date="00-00-0000"></s1>
+	<s1 title="Cyperaceae of North-East India" author="Rao, A. S.;Verma, D. M." page="0001-0117" info="00:00:00:005" type="s4" date="00-00-0000"></s1>
+	<s1 title="Grasses of Madhya Pradesh" author="Roy, G. P." page="0001-0231" info="00:00:00:006" type="s4" date="00-00-0000"></s1>
+	<s1 title="Insectivorous Plants of Khasi &amp; Jaintia Hills, Meghalaya, India (A Preliminary Survey)" author="Joseph, J.;Joseph, K. M." page="0001-0051" info="00:00:00:007" type="s4" date="00-00-0000"></s1>
+	<s1 title="Orchids of Nagaland" author="Hynniewta, T. M.;Kataki, S. K.;Wadhwa, B. M." page="0001-0331" info="00:00:00:008" type="s4" date="00-00-0000"></s1>
+	<s1 title="Hymenochaetaceae of India" author="Sharma J. R." page="0001-0242" info="00:00:00:009" type="s4" date="00-00-0000"></s1>
+	<s1 title="Meliolales of India" author="Hosagoudar, V. B." page="0001-0383" info="00:00:00:010" type="s4" date="00-00-0000"></s1>
+	<s1 title="A Census of Indian Pteridophytes" author="Dixit, R. D." page="0001-0193" info="00:00:00:011" type="s4" date="00-00-0000"></s1>
+	<s1 title="Poppies of Indian Region" author="Debnath, H. S.;Nayar, M. P." page="0001-0241" info="00:00:00:013" type="s4" date="00-00-0000"></s1>
+	<s1 title="Taxonomic Revision of the Tribe : Dalbergieae in Indian Sub-continent" author="Thothathri, K." page="0001-0257" info="00:00:00:014" type="s4" date="00-00-0000"></s1>
+	<s1 title="Florae Indicae Enumeratio : Asteraceae" author="Rao, R. R.;Chowdhery, H. J.;Hajra, P. K.;Kumar, S.;Pant, P. C.;Naithani, B. D.;Uniyal, B. P.;Mathur, R.;Mamgain, S. K." page="0001-0129" info="00:00:00:015" type="s4" date="00-00-0000"></s1>
+	<s1 title="Florae Indicae Enumeratio : Manocotyledonae" author="Karthikeyan, S.;Jain, S. K.;Nayar, M. P.;Sanjappa, M." page="0001-0453" info="00:00:00:016" type="s4" date="00-00-0000"></s1>
+	<s1 title="Mangroves in India - Identification Manual" author="Banerjee, L. K.;Sastry, A. R. K.;Nayar, M. P." page="0001-0147" info="00:00:00:017" type="s4" date="00-00-0000"></s1>
+	<s1 title="Bladderworts of India" author="Janarthanam, M. K.;Henry, A. N." page="0001-0155" info="00:00:00:018" type="s4" date="00-00-0000"></s1>
+	<s1 title="A Manual of Cultivated Palms of India" author="Basu, S. K.;Chakraverty, R. K." page="0001-0205" info="00:00:00:019" type="s4" date="00-00-0000"></s1>
+	<s1 title="Floristic Diversity and Conservation Strategies in India" author="" page="0001-0497" info="00:01:00:020" type="s4" date="00-00-0000"></s1>
+	<s1 title="Floristic Diversity and Conservation Strategies in India" author="" page="0001-0613" info="00:02:00:021" type="s4" date="00-00-0000"></s1>
+	<s1 title="Floristic Diversity and Conservation Strategies in India" author="" page="0001-0583" info="00:03:00:022" type="s4" date="00-00-0000"></s1>
+	<s1 title="Floristic Diversity and Conservation Strategies in India" author="" page="0001-0732" info="00:04:00:023" type="s4" date="00-00-0000"></s1>
+	<s1 title="Floristic Diversity and Conservation Strategies in India" author="" page="0001-0772" info="00:05:00:024" type="s4" date="00-00-0000"></s1>
+	<s1 title="Additional Elements in Indian Flora" author="Samaddar, U.P.;Roy, B." page="0001-0645" info="00:01:00:025" type="s4" date="00-00-0000"></s1>
+	<s1 title="Icones Roxburghianae Fascicle II" author="" page="0001-0059" info="00:00:00:026" type="s4" date="00-00-0000"></s1>
+	<s1 title="Icones Roxburghianae Fascicle III" author="" page="0001-0057" info="00:00:00:027" type="s4" date="00-00-0000"></s1>
+	<s1 title="Icones Roxburghianae Fascicle IV" author="" page="0001-0063" info="00:00:00:028" type="s4" date="00-00-0000"></s1>
+	<s1 title="Icones Roxburghianae Fascicle V" author="" page="0001-0059" info="00:00:00:029" type="s4" date="00-00-0000"></s1>
+	<s1 title="Icones Roxburghianae Fascicle VI" author="" page="0001-0057" info="00:00:00:030" type="s4" date="00-00-0000"></s1>
+	<s1 title="Phycologia Indica" author="Srinivasan, K. S." page="0001-0129" info="00:01:00:031" type="s4" date="00-00-0000"></s1>
+	<s1 title="भारत की वनस्पति विविधता" author="Mudgal, Vishwanath;Hajara, Prabhat Kumar;" page="0001-0783" info="00:00:00:032" type="s4" date="00-00-0000"></s1>
+	<s1 title="भारत की विविधता" author="Jain, Sudhanshu Kumar;Mudgal, Vishwanath" page="0001-0335" info="00:00:00:033" type="s4" date="00-00-0000"></s1>
+	<s1 title="पश्चिमी हिमालय की वनस्पतियाँ" author="Sinha, Devendra Kumar;Uniyal, Bhagavati Prasad" page="0001-0165" info="00:00:00:034" type="s4" date="00-00-0000"></s1>
+	<s1 title="A Contribution to the Flora of Namdapha, Arunachal Pradesh" author="Chauhan, A. S.;Singh, K. P.;Singh, D. K." page="0001-0481" info="00:00:00:035" type="s4" date="00-00-0000"></s1>
+	<s1 title="Plant Wealth of Nanda Devi Biosphere Reserves" author="Hajra, P. K.;Balodi, Bipin" page="0001-0529" info="00:00:00:036" type="s4" date="00-00-0000"></s1>
+	<s1 title="Flora of Corbett National Park" author="Pant, P. C." page="0001-0247" info="00:00:00:037" type="s4" date="00-00-0000"></s1>
+	<s1 title="Flora of Taroba National Park" author="Malhotra, S. K.;Moorthy, S." page="0001-0207" info="00:00:00:038" type="s4" date="00-00-0000"></s1>
+	<s1 title="Plant Resources of Jaldapara Rhino Sanctuary" author="Banerjee, L. K." page="0001-0113" info="00:00:00:039" type="s4" date="00-00-0000"></s1>
+	<s1 title="Plant Diversity in the Tehri Dam Submersible Area" author="Uniyal, B. P.;Singh, Surendra;Singh, D. K." page="0001-0181" info="00:00:00:040" type="s4" date="00-00-0000"></s1>
+	<s1 title="Orchids of Nilgiris" author="Joseph, J." page="0001-0207" info="00:00:00:041" type="s4" date="00-00-0000"></s1>
+	<s1 title="Sea Grasses of Coromandel Coast of India" author="Ramamurthy, K.;Balakrishnan, N. P.;Ravikumar, K.;Ganesan, R." page="0001-0107" info="00:00:00:042" type="s4" date="00-00-0000"></s1>
+	<s1 title="Plant Diversity Hot Spots in India - An Overview" author="" page="0001-0203" info="00:00:00:043" type="s4" date="00-00-0000"></s1>
+	<s1 title="Mangroves in India" author="" page="0001-0233" info="00:00:00:044" type="s4" date="00-00-0000"></s1>
+	<s1 title="Ethnobotany of Eastern Ghats in Andhra Pradesh" author="Rao, N. Rama;Henry, A. N." page="0001-0183" info="00:00:00:045" type="s4" date="00-00-0000"></s1>
+	<s1 title="Bibliography of Ethnobotany" author="Jain, S. K.;Mudgal, V.;Banerjee, D. K.;Guha, A.;Pal, D. C.;Das, D." page="0001-0171" info="00:00:00:046" type="s4" date="00-00-0000"></s1>
+	<s1 title="Selected Poisonous Plants from the Tribal Areas of India" author="Thothathri, K.;Sen, Ratna;Pal, D. C.;Molla, H. A." page="0001-0095" info="00:00:00:047" type="s4" date="00-00-0000"></s1>
+	<s1 title="Economic Plants of India" author="Nayar, M. P.;Ramamurthy, K.;Agarwal, V. S." page="0001-0165" info="00:01:00:048" type="s4" date="00-00-0000"></s1>
+	<s1 title="Economic Plants of India" author="Nayar, M. P.;Ramamurthy, K.;Agarwal, V. S." page="0001-0103" info="00:02:00:049" type="s4" date="00-00-0000"></s1>
+	<s1 title="Plants for Human Consumption in India" author="Roy, B.;Halder, A. C.;Pal, D.C." page="0001-0209" info="00:00:00:050" type="s4" date="00-00-0000"></s1>
+	<s1 title="Threatened Plants of India - A State of the Art Report" author="Jain, S. K.;Sastry, A. R. K." page="0001-0051" info="00:00:00:051" type="s4" date="00-00-0000"></s1>
+	<s1 title="An Assessment of Threatened Plants of India" author="" page="0001-0361" info="00:00:00:052" type="s4" date="00-00-0000"></s1>
+	<s1 title="Endemic Plants of Indian Region" author="Ahmedullah, M.;Nayar, M. P." page="0001-0298" info="00:01:00:053" type="s4" date="00-00-0000"></s1>
+	<s1 title="The Indian Plant Red Data Book-I" author="Jain, S. K.;Sastry, A. R. K." page="0001-0171" info="00:00:00:054" type="s4" date="00-00-0000"></s1>
+	<s1 title="Red Data Book of Indian Plants" author="Nayar M. P.;Sastry, A. R. K." page="0001-0405" info="00:01:00:055" type="s4" date="00-00-0000"></s1>
+	<s1 title="Red Data Book of Indian Plants" author="" page="0001-0283" info="00:02:00:056" type="s4" date="00-00-0000"></s1>
+	<s1 title="Red Data Book of Indian Plants" author="" page="0001-0289" info="00:03:00:057" type="s4" date="00-00-0000"></s1>
+	<s1 title="An Annotated Bibliography of Taxonomic Botany of Peninsular India from 1959 - 1978" author="Karthikeyan, S.;Nayar, M.P.;Raghavan, R. S." page="0001-0209" info="00:00:00:058" type="s4" date="00-00-0000"></s1>
+	<s1 title="Botanical Survey of India - An account of its establishment, development and activities" author="Basak, R. K." page="0001-0311" info="00:00:00:059" type="s4" date="00-00-0000"></s1>
+	<s1 title="Bibliography of the Botany of Eastern Himalaya" author="Thothathri, K.;Das, A. R." page="0001-0079" info="00:00:00:060" type="s4" date="00-00-0000"></s1>
+	<s1 title="Type collections in the Central National Herbarium" author="Ramamurthy, K.;Sammaddar, U. P.;Datta, Anukul;Pramanick, B. B.;Nayar, M. P." page="0001-0077" info="00:01:00:061" type="s4" date="00-00-0000"></s1>
+	<s1 title="Type collections in the Central National Herbarium" author="Samaddar, U. P." page="0001-0137" info="00:02:00:062" type="s4" date="00-00-0000"></s1>
+	<s1 title="Key Works to the Taxonomy of Flowering Plants of India" author="Nayar, M. P." page="0001-0483" info="00:01:00:063" type="s4" date="00-00-0000"></s1>
+	<s1 title="Key Works to the Taxonomy of Flowering Plants of India" author="Nayar, M. P." page="0001-0289" info="00:02:00:064" type="s4" date="00-00-0000"></s1>
+	<s1 title="Key Works to the Taxonomy of Flowering Plants of India" author="Nayar, M. P." page="0001-0181" info="00:03:00:065" type="s4" date="00-00-0000"></s1>
+	<s1 title="Key Works to the Taxonomy of Flowering Plants of India" author="Nayar, M. P." page="0001-0281" info="00:04:00:066" type="s4" date="00-00-0000"></s1>
+	<s1 title="Key Works to the Taxonomy of Flowering Plants of India" author="Nayar, M. P." page="0001-0279" info="00:05:00:067" type="s4" date="00-00-0000"></s1>
+	<s1 title="Chromosome Atlas of Flowering Plants of the Indian Subcontinent" author="Kumar, Virendra;Subramaniam, B." page="0001-0497" info="00:01:00:068" type="s4" date="00-00-0000"></s1>
+	<s1 title="Chromosome Atlas of Flowering Plants of the Indian Subcontinent" author="Kumar, Virendra;Subramaniam, B." page="0001-0643" info="00:02:00:069" type="s4" date="00-00-0000"></s1>
+	<s1 title="Network of Botanic Gardens" author="" page="0001-0291" info="00:00:00:070" type="s4" date="00-00-0000"></s1>
+	<s1 title="Directory of Plants in the Botanic Gardens of India" author="Chakraverty, R. K.;Pandey, D. S.;Mukhopadhyay, D. P." page="0001-0570" info="00:00:00:071" type="s4" date="00-00-0000"></s1>
+	<s1 title="Key Works of the Floristics of India" author="Nayar, M. P.;Giri, G. S." page="0001-0385" info="00:01:00:072" type="s4" date="00-00-0000"></s1>
+	<s1 title="Key Works of the Floristics of India" author="Giri, G. S.;Nayar, M. P.;Paul, T. K." page="0001-0441" info="00:02:00:073" type="s4" date="00-00-0000"></s1>
+	<s1 title="A Manual of Herbarium Collections" author="Rao, R. R.;Sharma, B. D." page="0001-0027" info="00:00:00:074" type="s4" date="00-00-0000"></s1>
+	<s1 title="Bicentenary Celebration of Indian Botanic Garden - A Pictorial Glimpse" author="Samaddar, U. P.;Roy, B." page="0001-0177" info="00:00:00:075" type="s4" date="00-00-0000"></s1>
+	<s1 title="Geobotany and Biogeochemistry - An orientation study in Singhbhum Copper Belt, Bihar" author="Venu, P.;Gyanchand" page="0001-0221" info="00:00:00:076" type="s4" date="00-00-0000"></s1>
+	<s1 title="Pollen Morphology and Systemic Relationship of the family Polygonaceae" author="Mondal, M. S." page="0001-0119" info="00:00:00:077" type="s4" date="00-00-0000"></s1>
+	<s1 title="Ethnobotany of Totopara" author="Mudgal, V.;Pal, D. C.;Kayal, R. N.;Saha, S." page="0001-0173" info="00:00:00:078" type="s4" date="00-00-0000"></s1>
+	<s1 title="Flora of Mahanadi Delta, Orissa" author="Banerjee, L. K.;Rao, Ananda T." page="0001-0335" info="00:00:00:079" type="s4" date="00-00-0000"></s1>
+	<s1 title="Flora of Indravati Tiger Reserve, Bestr" author="Kumar, Anand" page="0001-0433" info="00:00:00:080" type="s4" date="00-00-0000"></s1>
+	<s1 title="Flora of Cold Deserts of Western Himalaya (Monocotyledons)" author="Murti, S. K." page="0001-0489" info="00:01:00:081" type="s4" date="00-04-2001"></s1>
+	<s1 title="Monograph of Indian Diospyros L. (Persimmon, Ebony) Ebenaceae" author="Singh, V." page="0001-0360" info="00:00:00:082" type="s4" date="00-10-2005"></s1>
+	<s1 title="Biodiversity of Desert National Park, Rajasthan" author="Singh, V.;Singh, Monika" page="0001-0363" info="00:00:00:083" type="s4" date="00-03-2006"></s1>
+	<s1 title="Russulaceae of Kumaon Himalaya" author="Das, Kanad;Sharma, J. R." page="0001-0267" info="00:00:00:084" type="s4" date="00-09-2005"></s1>
+	<s1 title="Algal Flora of Dehradun District, Uttaranchal" author="Gupta, R. K." page="0001-0319" info="00:00:00:085" type="s4" date="00-12-2005"></s1>
+	<s1 title="Endemic &amp; Threatened Flowering Plants of Maharashtra" author="Mishra, Dipak Kumar;Singh, N. P." page="0001-0443" info="00:00:00:086" type="s4" date="15-08-2001"></s1>
+	<s1 title="Ethnobotany of Dadra, Nagar Haveli &amp; Daman (Union Territories)" author="Sharma, P. P.;Singh, N. P." page="0001-0339" info="00:00:00:087" type="s4" date="15-08-2001"></s1>
+	<s1 title="Flora of Sanjay Gandhi National Park, Borivali-Mumbai (Bombay)" author="Pradhan, S. G.;Sharma, B. D.;Singh, N. P." page="0001-0851" info="00:00:00:088" type="s4" date="00-03-2005"></s1>
+	<s1 title="Macrolichens of Sikkim" author="Sinha, G. P.;Singh, K. P." page="0001-0284" info="00:00:00:089" type="s4" date="00-12-2005"></s1>
+	<s1 title="Mangroves of Goa" author="Kothari, M. J.;Rao, K. M." page="0001-0173" info="00:00:00:090" type="s4" date="00-01-2002"></s1>
+	<s1 title="बोन्साई" author="Chakravarthi, R. K.;Sinha, N. P.;Srivastav, R. C." page="0001-0081" info="00:00:00:091" type="s4" date="00-08-2005"></s1>
+	<s1 title="The Orchids of Bombay" author="Santapau, H.;Kapadia, Z." page="0001-0267" info="00:00:00:092" type="s4" date="00-00-1966"></s1>
+	<s1 title="Icones Roxburghianae or drawings of Indian Plants" author="" page="0001-0059" info="00:00:00:093" type="s4" date="00-00-1964"></s1>
+	<s1 title="Icones Roxburghianae or drawings of Indian Plants" author="" page="0001-0063" info="00:00:00:094" type="s4" date="31-03-1978"></s1>
+	<s1 title="Phycologia Indica (Icones of Indian Marine Algae)" author="Srinivasan, K. S." page="0001-0141" info="00:02:00:095" type="s4" date="00-00-1973"></s1>
+	<s1 title="Flowering Plants of India - Dicotyledons (Acanthaceae - Avicenniaceae)" author="Karthikeyan, S.;Sanjappa, M.;Moorthy, S." page="0001-0421" info="00:01:00:096" type="s4" date="30-06-2009"></s1>
+	<s1 title="The Flora of Purandhara" author="Santapau, H." page="0001-0177" info="00:00:00:097" type="s4" date="00-00-0000"></s1>
+	<s1 title="Chapters of the History of Botany in India" author="Burkill, I. H." page="0001-0271" info="00:00:00:098" type="s4" date="00-00-0000"></s1>
+	<s1 title="The Flora of the Gulf of Mannar - Southern India" author="Daniel, P.;Umamaheswari, P." page="0001-0715" info="00:00:00:099" type="s4" date="01-12-2001"></s1>
+	<s1 title="A Directory of Botanic Gardens and Parks in India" author="Chakraverty, R. K.;Mukhopadhyay, D. P." page="0001-0213" info="00:00:00:100" type="s4" date="00-01-1990"></s1>
+	<s1 title="Materials for a Catalogue Threatened Plants of India" author="Jain, S. K.;Sastry, A. R. K." page="0001-0075" info="00:00:00:101" type="s4" date="00-00-1983"></s1>
+	<s1 title="Botany of some Tiger Habitats in India" author="Jain, S. K.;Sastry, A. R. K." page="0001-0000" info="00:00:00:102" type="s4" date="00-00-1983"></s1>
+	<s1 title="A contribution to the Botany of Nanda Devi National Park" author="Hajra, P. K." page="0001-0082" info="00:00:00:103" type="s4" date="00-00-1983"></s1>
+	<s1 title="Threatened and Endemic Orchids of Sikkim and North-eastern India" author="Kataki, S. K.;Jain, S. K.;Sastry, A. R. K." page="0001-0105" info="00:00:00:104" type="s4" date="00-00-1984"></s1>
+	<s1 title="Lady's Slipper Orchids of India" author="Kataki, S. K." page="0001-0027" info="00:00:00:105" type="s4" date="00-00-1984"></s1>
+	<s1 title="Dudhwa National Park" author="Hajra, P. K.;Shukla, U." page="0001-0019" info="00:00:00:106" type="s4" date="23-04-1982"></s1>
+	<s1 title="A Preliminary Inventory of Orchidaceae in India" author="Jain, S. K.;Mehrotra, A." page="0001-0139" info="00:00:00:107" type="s4" date="00-00-1984"></s1>
+	<s1 title="Red List of Threatened Vascular Plants Species in India (Compiled from the 1997 IUCN Red List of Threatened Plants)" author="Rao, C. Kameswara;Geetha, B. L.;Suresh, Geetha" page="0001-0173" info="00:00:00:108" type="s4" date="00-00-2003"></s1>
+	<s1 title="Mangroves, Associates, and Salt Marshes of the Godavari and Krishna Delta, Andhra Pradesh, India" author="Banerjee, L. K.;Ghosh, D.;Sastry, A. R. K." page="0001-0147" info="00:00:00:109" type="s4" date="01-06-1998"></s1>
+	<s1 title="Diversity of Coastal Plant Communities in India" author="Banerjee, L. K.;Rao, T. A.;Sastry, A. R. K.;Ghosh, D." page="0001-0639" info="00:00:00:110" type="s4" date="00-09-2002"></s1>
+	<s1 title="Flora of Bihar, Analysis" author="Singh, N. P.;Mudgal, V.;Khanna, K. K.;Srivastava, S. C.;Sahoo, A. K.;Bandopadhyay, S.;Aziz, N.;Das, M.;Bhattacharya, R. P.;Hajra, P. K." page="0001-0803" info="00:00:00:111" type="s4" date="21-08-2001"></s1>
+	<s1 title="Taxonomic Revision of Hedyotis L. (Rubiaceae) in Indian Sub-continent" author="Dutta, Ratna" page="0001-0225" info="00:00:00:112" type="s4" date="00-06-2004"></s1>
+	<s1 title="Flora of the Pin Valley National Park, Himachal Pradesh" author="Sekar, K. Chandra;Srivastava, S. K." page="0001-0334" info="00:00:00:113" type="s4" date="00-03-2009"></s1>
+	<s1 title="Bengal Plants (Ranunculaceae - Salvadoraceae)" author="" page="0001-0505" info="00:01:00:114" type="s4" date="00-00-1963"></s1>
+	<s1 title="Bengal Plants (Apocynaceae - Selaginellaceae)" author="" page="0001-0531" info="00:02:00:115" type="s4" date="00-00-1963"></s1>
+	<s1 title="Botany of Bihar and Orissa" author="Haines, H. H." page="0001-0557" info="00:03:00:116" type="s4" date="00-00-1961"></s1>
+	<s1 title="Flora of the Presidency of Bombay" author="Cooke, Theodore" page="0001-0651" info="00:01:00:117" type="s4" date="00-00-0000"></s1>
+	<s1 title="Flora of the Presidency of Bombay" author="Cooke, Theodore" page="0001-0621" info="00:02:00:118" type="s4" date="00-00-1958"></s1>
+	<s1 title="Flora of the Presidency of Madras" author="Gamble, J. S." page="0001-0543" info="00:02:00:119" type="s4" date="00-00-0000"></s1>
+	<s1 title="Botany of Bihar and Orissa" author="Haines, H. H." page="0001-0000" info="00:01:00:120" type="s4" date="00-00-0000"></s1>
+	<s1 title="Flora of the Presidency of Madras" author="Gamble, J. S." page="0001-0865" info="00:03:00:121" type="s4" date="00-00-0000"></s1>
+	<s1 title="Flora of the Presidency of Bombay" author="Cooke, Theodore" page="0001-0657" info="00:03:00:122" type="s4" date="00-00-0000"></s1>
+	<s1 title="Flora of the Presidency of Madras" author="Gamble, J. S." page="0001-0469" info="00:01:00:123" type="s4" date="00-00-0000"></s1>
+	<s1 title="Botany of Bihar and Orissa" author="Haines, H. H." page="0001-0601" info="00:02:00:124" type="s4" date="00-00-0000"></s1>
+	<s1 title="Flora of Upper Gangetic Plain" author="Duthie" page="0001-0875" info="00:00:00:125" type="s4" date="00-00-0000"></s1>
+</s4>

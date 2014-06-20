@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fli SYSTEM "fli.dtd">
+
+<fli>
+	<book bid="001">
+		<s1 page="0000f" title="Foreword" author=""></s1>
+		<s1 page="0000g" title="Preface" author=""></s1>
+		<s1 page="0000i" title="Acknowledgements" author=""></s1>
+		<s1 page="0000j" title="Contributors and Editors" author=""></s1>
+		<s1 page="0000l" title="List of Illustrations and Maps" author=""></s1>
+		<s1 page="0001" title="1. Physiography" author="Murthy, G. V. S.;Venu, P.;Sanjappa, M."></s1>
+		<s1 page="0016" title="2. Geology" author="Venu, P.;Murthy, G. V. S.;Sanjappa, M."></s1>
+		<s1 page="0041" title="3. Climate" author="Murthy, G. V. S.;Venu, P.;Sanjappa, M."></s1>
+		<s1 page="0053" title="4. Botanical History" author="Nair, N. C.;Nair, V. J.;Daniel, P."></s1>
+		<s1 page="0197" title="5. Phytogeographic Divisions : General Considerations" author="Balakrishnan, N. P.">
+			<s2 page="0205" title="5.1 North West Himalayas" author="Hajra, P. K.;Vohra, J. N."></s2>
+			<s2 page="0220" title="5.2 Indo-Gangetic Plains" author="Roy, G. P."></s2>
+			<s2 page="0225" title="5.3 Eastern Himalayas" author="">
+				<s3 page="0225" title="a. Sikkim" author="Srivastava, R. C."></s3>
+				<s3 page="0238" title="b. Arunachal Pradesh" author="Chowdhery, H. J."></s3>
+			</s2>
+			<s2 page="0251" title="5.4 North-Eastern India and North Bengal" author="Chauhan, A. S."></s2>
+			<s2 page="0295" title="5.5 Central India" author="Verma, D. M."></s2>
+			<s2 page="0327" title="5.6 Arid Zone" author="Shetty, B. V.;Singh, V."></s2>
+			<s2 page="0375" title="5.7 Northern Western Ghats and Northern West Coast" author="Karthikeyan, S."></s2>
+			<s2 page="0391" title="5.8a Southern Western Ghats - South of Goa" author="Vajravelu, E.;Vivekananthan, K."></s2>
+			<s2 page="0446" title="5.8b Southern West Coast" author="Vajravelu, E.;Vivekananthan, K."></s2>
+			<s2 page="0451" title="5.8c Lakshadweep" author="Vajravelu, E.;Vivekananthan, K."></s2>
+			<s2 page="0456" title="5.9 Deccan" author="Henry, A. N.;Rathakrishnan, N. C.;Ravishankar"></s2>
+			<s2 page="0477" title="5.10a Eastern Ghats" author="Swaminathan, M. S.;Ellis, J. L."></s2>
+			<s2 page="0506" title="5.10b Coromandel Coast" author="Swaminathan, M. S."></s2>
+			<s2 page="0523" title="5.11 Andaman &amp; Nicobar Islands" author="Balakrishnan, N. P.;Ellis, J. L."></s2>
+		</s1>
+	</book>
+	<book bid="002">
+		<s1 page="0000e" title="Acknowledgements" author=""></s1>
+		<s1 page="0000f" title="Contributors and Editors" author=""></s1>
+		<s1 page="0000g" title="List of Illustrations and Maps" author=""></s1>
+		<s1 page="0001" title="6. Affinities - Palaeobotanical and Geological Evidences, Relationship with Adjacent Regions, Past and Recent Plant Migration" author="Sharma, B. D."></s1>
+		<s1 page="0201" title="7. A Statistical Analysis of Flowering Plants of India" author="Karthikeyan, S."></s1>
+		<s1 page="0218" title="8. Wild relatives of Cultivated Plants" author="Arora, R. K."></s1>
+		<s1 page="0235" title="9. Less known Economic Plants" author="Thothathri, K."></s1>
+		<s1 page="0246" title="10. Endemism in the Indian Flora" author="Ahmedullah, M."></s1>
+		<s1 page="0266" title="11. Exotics - Introduced and Natural Immigrants, Weeds, Cultivated, etc." author="Pandey, D. S."></s1>
+		<s1 page="0303" title="12. Ethnobotany in India" author="Pal, D. C."></s1>
+		<s1 page="0321" title="13. Plant Based Industries" author="Sengupta, G."></s1>
+		<s1 page="0363" title="14. Wasteland Development and Social Forestry" author="Singh, N. P."></s1>
+		<s1 page="0389" title="15. Protected Area Network (PAN) : !!In situ!! Conservation Strategies" author="Chowdhery, H. J.;Hajra, P. K."></s1>
+		<s1 page="0433" title="16. Botanic Gardens : !!Ex situ!! Conservation Strategies" author="Chakraverty, R. K.;Mukhopadhyay, D. P."></s1>
+	</book>
+	<book bid="003">
+		<s1 page="0000ah" title="Foreword" author=""></s1>
+		<s1 page="0000ai" title="Preface" author=""></s1>
+		<s1 page="0000am" title="Contributors and Editors" author=""></s1>
+		<s1 page="0000ao" title="Abbreviations of Indian Languages" author=""></s1>
+		<s1 page="0000ap" title="List of illustrations" author=""></s1>
+		<s1 page="0001" title="RANUNCULACEAE" author="Rau, M. A."></s1>
+		<s1 page="0146" title="CIRCAEASTERACEAE" author="Rao, R. R.;Hajra, P. K."></s1>
+		<s1 page="0148" title="PAEONIACEAE" author="Rau, M. A."></s1>
+		<s1 page="0150" title="DILLENIACEAE" author="Majumdar, N. C."></s1>
+		<s1 page="0163" title="MAGNOLIACEAE" author="Raju, D. C. S."></s1>
+		<s1 page="0184" title="ILLICIACEAE" author="Raju, D. C. S.;Rao, R. R.;Hajra, P. K."></s1>
+		<s1 page="0188" title="SCHISANDRACEAE" author="Rao, R. R.;Hajra, P. K."></s1>
+		<s1 page="0197" title="TETRACENTRACEAE" author="Rao, R. S.;Hajra, P. K."></s1>
+		<s1 page="0200" title="EUPTELEACEAE" author="Raju, D. C. S.;Rao, R. R.;Hajra, P. K."></s1>
+		<s1 page="0202" title="ANNONACEAE" author="Mitra, Debika"></s1>
+		<s1 page="0308" title="MENISPERMACEAE" author="Pramanik, A.;Gangopadhyay, M."></s1>
+		<s1 page="0351" title="BERBERIDACEAE" author=""></s1>
+		<s1 page="0414" title="PODOPHYLLACEAE" author="Rao, R. R.;Hajra, P. K."></s1>
+		<s1 page="0418" title="LARDIZABALACEAE" author="Nayar, M. P.;Paul T. K."></s1>
+		<s1 page="0426" title="NYMPHAEACEAE" author="Mitra, R. L."></s1>
+		<s1 page="0436" title="CABOMBACEAE" author="Mitra, R. L."></s1>
+		<s1 page="0441" title="NELUMBONACEAE" author="Mitra, R. L."></s1>
+		<s1 page="0443" title="BARCLAYACEAE" author="Mitra, R. L."></s1>
+		<s1 page="0445" title="Index to Botanical names" author=""></s1>
+		<s1 page="0461" title="Index to common names" author=""></s1>
+	</book>
+	<book bid="004">
+		<s1 page="0000g" title="Preface" author=""></s1>
+		<s1 page="0000j" title="Contributors and Editors" author=""></s1>
+		<s1 page="0000l" title="Abbreviations of Indian Languages" author=""></s1>
+		<s1 page="0000m" title="List of illustrations" author=""></s1>
+		<s1 page="0001" title="PAPAVERACEAE" author="Debnath, H. S.;Nayar, M. P."></s1>
+		<s1 page="0034" title="FUMARIACEAE" author="Ellis, J. L.;Balakrishnan, N. P."></s1>
+		<s1 page="0088" title="BRASSICACEAE" author=""></s1>
+		<s1 page="0248" title="CAPPARACEAE" author="Raghavan, R. Sundara"></s1>
+		<s1 page="0336" title="RESEDACEAE" author="Balakrishnan, N. P.;Premanath, R. K."></s1>
+		<s1 page="0342" title="VIOLACEAE" author="Banerjee, S. P.;Pramanik, B. B."></s1>
+		<s1 page="0380" title="BIXACEAE" author="Balakrishnan, N. P."></s1>
+		<s1 page="0386" title="FLACOURTIACEAE" author="Mitra, R. L."></s1>
+		<s1 page="0438" title="PITTOSPORACEAE" author="Nayar, M. P.;Giri, G. S."></s1>
+		<s1 page="0450" title="POLYGALACEAE" author="Banerjee, R. N."></s1>
+		<s1 page="0494" title="XANTHOPHYLLACEAE" author="Banerjee, R. N.;Balakrishnan, N. P."></s1>
+		<s1 page="0500" title="FRANKENIACEAE" author="Balakrishnan, N. P."></s1>
+		<s1 page="0502" title="CARYOPHYLLACEAE" author="Majumdar, N. C."></s1>
+		<s1 page="0597" title="Index to Botanical names" author=""></s1>
+		<s1 page="0616" title="Index to common names" author=""></s1>
+	</book>
+	<book bid="005">
+		<s1 page="0000h" title="Acknowledgements" author=""></s1>
+		<s1 page="0000i" title="Contributors and Editors" author=""></s1>
+		<s1 page="0000k" title="Abbreviations of Indian Languages" author=""></s1>
+		<s1 page="0000l" title="List of illustrations" author=""></s1>
+		<s1 page="0001" title="PORTULACACEAE" author="Rao, M. K. V."></s1>
+		<s1 page="0011" title="TAMARICACEAE" author="Shetty, B. V.;Pandey, R. P."></s1>
+		<s1 page="0032" title="ELATINACEAE" author="Bhattacharya, Jayasri"></s1>
+		<s1 page="0043" title="HYPERICACEAE" author="Biswas, S. N."></s1>
+		<s1 page="0086" title="CLUSIACEAE" author="Singh, N. P."></s1>
+		<s1 page="0152" title="THEACEAE" author="Chauhan, A. S.;Paul, T. K."></s1>
+		<s1 page="0194" title="ACTINIDIACEAE" author="Paul, T. K."></s1>
+		<s1 page="0204" title="STACHYURACEAE" author="Raju, D. C. S.;Singh, S."></s1>
+		<s1 page="0206" title="DIPTEROCARPACEAE" author="Janardhanan, K. P."></s1>
+		<s1 page="0252" title="ANCISTROCLADACEAE" author="Das, Silpi"></s1>
+		<s1 page="0257" title="MALVACEAE" author="Paul, T. K."></s1>
+		<s1 page="0395" title="BOMBACACEAE" author="Nayar, M. P.;Biswas, M. C."></s1>
+		<s1 page="0407" title="STERCULIACEAE" author="Malick, K. C."></s1>
+		<s1 page="0477" title="TILIACEAE" author="Daniel, P.;Chandrabose, M."></s1>
+		<s1 page="0525" title="PLAGIOPTERACEAE" author="Daniel, P."></s1>
+		<s1 page="0528" title="ELAEOCARPACEAE" author="Murti, S. K."></s1>
+		<s1 page="0572" title="LINACEAE" author="Hajra, P. K."></s1>
+		<s1 page="0585" title="ERYTHROXYLACEAE" author="Chatterjee, U.;Sharma, B. D."></s1>
+		<s1 page="0596" title="IXONANTHACEAE" author="Hajra, P. K."></s1>
+		<s1 page="0599" title="Index of botanical names" author=""></s1>
+		<s1 page="0617" title="Index of common names" author=""></s1>
+	</book>
+	<book bid="006">
+		<s1 page="0000ag" title="Acknowledgements" author=""></s1>
+		<s1 page="0000ah" title="Contributors" author=""></s1>
+		<s1 page="0000aj" title="Abbreviations of Indian Languages" author=""></s1>
+		<s1 page="0000ak" title="List of illustrations" author=""></s1>
+		<s1 page="0001" title="MALPIGHIACEAE" author="Srivastava, R. C."></s1>
+		<s1 page="0039" title="ZYGOPHYLLACEAE" author="Singh, Paramjit;Singh, V."></s1>
+		<s1 page="0060" title="BIEBERSTEINIACEAE" author="Malhotra, C. L."></s1>
+		<s1 page="0062" title="GERANIACEAE" author="Malhotra, C. L."></s1>
+		<s1 page="0095" title="BALSAMINACEAE" author="Vivekananthan, K.;Rathakrishnan, N. C.;Swaminathan M. S.;Ghara, L. K."></s1>
+		<s1 page="0230" title="OXALIDACEAE" author="Manna, M. K."></s1>
+		<s1 page="0256" title="AVERRHOACEAE" author="Manna, M. K."></s1>
+		<s1 page="0258" title="TROPAEOLACEAE" author="Manna, M. K."></s1>
+		<s1 page="0259" title="RUTACEAE" author="Nair, K. Narayanan;Nayar, M. P."></s1>
+		<s1 page="0409" title="SIMAROUBACEAE" author="Basak, R. K."></s1>
+		<s1 page="0422" title="SURIANACEAE" author="Vajravelu, E.;Basak, R. K."></s1>
+		<s1 page="0424" title="OCHNACEAE" author="Safui, B.;Nayar, M. P."></s1>
+		<s1 page="0431" title="BURSERACEAE" author="Chithra, V.;Henry, A. N."></s1>
+		<s1 page="0453" title="MELIACEAE" author="Jain, S. S.;Bennet, S. S. R."></s1>
+		<s1 page="0527" title="DICHAPETALACEAE" author="Nair, N. C."></s1>
+		<s1 page="0532" title="Addenda" author=""></s1>
+		<s1 page="0533" title="Index to botanical names" author=""></s1>
+		<s1 page="0553" title="Index to common names" author=""></s1>
+	</book>
+	<book bid="007">
+		<s1 page="0000ag" title="Acknowledgements" author=""></s1>
+		<s1 page="0000ah" title="Contributors and Editors" author=""></s1>
+		<s1 page="0000aj" title="Abbreviations of Indian Languages" author=""></s1>
+		<s1 page="0000ak" title="List of Illustrations" author=""></s1>
+		<s1 page="0001" title="OLACACEAE" author="Uniyal, B. P."></s1>
+		<s1 page="0017" title="ICACINACEAE" author="Mathur, R."></s1>
+		<s1 page="0039" title="OPILIACEAE" author="Mathur, R."></s1>
+		<s1 page="0047" title="CARDIOPTERIDACEAE" author="Mathur, R."></s1>
+		<s1 page="0050" title="AQUIFOLIACEAE" author="Basu, D."></s1>
+		<s1 page="0075" title="CELASTRACEAE" author="Ramamurthy, K."></s1>
+		<s1 page="0138" title="HIPPOCRATEACEAE" author="Ramamruthy, K.;Naithani, B. D."></s1>
+		<s1 page="0163" title="RHAMNACEAE" author="Bhandari, M. M.;Bhansali, A. K."></s1>
+		<s1 page="0246" title="VITACEAE" author="Shetty, B. V.;Singh, Paramjit"></s1>
+		<s1 page="0325" title="LEEACEAE" author="Naithani, B. D."></s1>
+		<s1 page="0343" title="SAPINDACEAE" author="Pant, P. C."></s1>
+		<s1 page="0388" title="HIPPOCASTANACEAE" author="Pant, P. C."></s1>
+		<s1 page="0392" title="ACERACEAE" author="Nayar, M. P.;Datta, Anukul"></s1>
+		<s1 page="0411" title="MELIANTHACEAE" author="Pant, P. C."></s1>
+		<s1 page="0413" title="STAPHYLEACEAE" author="Pant, P. C."></s1>
+		<s1 page="0419" title="SABIACEAE" author="Majumder, S. C."></s1>
+		<s1 page="0435" title="ANACARDIACEAE" author="Chandra, Dali;Mukherjee, S. K."></s1>
+		<s1 page="0511" title="CORIARIACEAE" author="Rau, M. A."></s1>
+		<s1 page="0515" title="MORINGACEAE" author="Uniyal, B. P."></s1>
+		<s1 page="0519" title="CONNARACEAE" author="Mondal, M. S."></s1>
+		<s1 page="0541" title="Index to botanical names" author=""></s1>
+		<s1 page="0563" title="Index to common names" author=""></s1>
+	</book>
+	<book bid="008">
+		<s1 page="0000af" title="Preface" author=""></s1>
+		<s1 page="0000ah" title="Contributors and Editors" author=""></s1>
+		<s1 page="0000ai" title="Abbreviations of Indian Languages" author=""></s1>
+		<s1 page="0000aj" title="List of illustrations" author=""></s1>
+		<s1 page="0001" title="ASTERACEAE" author=""></s1>
+		<s1 page="0003" title="ANTHEMIDEAE" author="Naithani, B. D."></s1>
+		<s1 page="0076" title="ASTEREAE" author="Hajra, P. K."></s1>
+		<s1 page="0147" title="CALENDULEAE" author="Rao, R. R."></s1>
+		<s1 page="0150" title="CARDUEAE" author="Hajra, P. K."></s1>
+		<s1 page="0226" title="CHCHORIEAE" author="Mamgain, S. K.;Rao, R. R."></s1>
+		<s1 page="0345" title="EUPATORIEAE" author="Uniyal, B. P."></s1>
+		<s1 page="0358" title="HELIANTHEAE" author="Chowdhery, H. J."></s1>
+		<s1 page="0433" title="Index to botanical names" author=""></s1>
+		<s1 page="0451" title="Index to common names" author=""></s1>
+	</book>
+	<book bid="009">
+		<s1 page="0000ag" title="Acknowledgements" author=""></s1>
+		<s1 page="0000ah" title="Contributors and Editors" author=""></s1>
+		<s1 page="0000ai" title="Abbreviations of Indian Languages" author=""></s1>
+		<s1 page="0000aj" title="List of illustrations" author=""></s1>
+		<s1 page="0001" title="INULEAE" author="Kumar, S.;Pant, P. C."></s1>
+		<s1 page="0163" title="MUTISIEAE" author="Rao, R. R."></s1>
+		<s1 page="0186" title="SENECIONEAE" author="Mathur, R."></s1>
+		<s1 page="0324" title="TAGETEAE" author="Rao, R. R."></s1>
+		<s1 page="0330" title="VERNONIEAE" author="Uniyal, B. P."></s1>
+		<s1 page="0395" title="Index to botanical names" author=""></s1>
+		<s1 page="0409" title="Index to common names" author=""></s1>
+	</book>
+</fli>

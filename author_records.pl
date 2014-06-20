@@ -1,0 +1,49 @@
+#!/usr/bin/perl
+
+$host = $ARGV[0];
+$db = $ARGV[1];
+$usr = $ARGV[2];
+$pwd = $ARGV[3];
+
+$type_code = '7';
+
+use DBI();
+
+open(IN,"bsi_records.xml") or die "can't open bsi_records.xml\n";
+
+my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
+
+$line = <IN>;
+
+while($line)
+{
+	if($line =~ /<author>(.*)<\/author>/)
+	{
+		$authorname = $1;
+		insert_authors($authorname);
+	}
+	$line = <IN>;
+}
+
+close(IN);
+$dbh->disconnect();
+
+
+sub insert_authors()
+{
+	my($authorname) = @_;
+
+	$authorname =~ s/'/\\'/g;
+	
+	my($sth,$ref,$sth1);
+	$sth = $dbh->prepare("select authid from author where authorname='$authorname'");
+	$sth->execute();
+	$ref=$sth->fetchrow_hashref();
+	if($sth->rows()==0)
+	{
+		$sth1=$dbh->prepare("insert into author values('$authorname','$type_code',null)");
+		$sth1->execute();
+		$sth1->finish();
+	}
+	$sth->finish();	
+}

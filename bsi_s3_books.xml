@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE s3 SYSTEM "s3.dtd">
+
+<s4>
+	<s1 title="Flora of Jowai" author="Balakrishnan, N. P." page="0001-0324" info="00:01:00:001" type="s3" date="00-00-1981"></s1>
+	<s1 title="Flora of Jowai" author="Balakrishnan, N. P." page="0001-0370" info="00:02:00:002" type="s3" date="00-00-1983"></s1>
+	<s1 title="Flora of Tonk District, Rajasthan" author="Shetty, B. V.;Pandey, R. P." page="0001-0264" info="00:00:00:003" type="s3" date="00-00-0000"></s1>
+	<s1 title="Flora of Banswara, Rajasthan" author="Singh, V." page="0001-0325" info="00:00:00:004" type="s3" date="00-00-1983"></s1>
+	<s1 title="Flora of Pachmarhi and Bori Reserves" author="Mukherjee, A. K." page="0001-0426" info="00:00:00:005" type="s3" date="00-04-1984"></s1>
+	<s1 title="Flora of Chamoli" author="Naithani, B. D." page="0001-0425" info="00:01:00:006" type="s3" date="00-09-1984"></s1>
+	<s1 title="Flora of Chamoli" author="Naithani, B. D." page="0001-0249" info="00:02:00:007" type="s3" date="00-02-1985"></s1>
+	<s1 title="Flora of Raipur, Durg and Rajnandgaon" author="Verma, D. M.;Pant, P. C.;Hanfi, M. I." page="0001-0566" info="00:00:00:008" type="s3" date="00-02-1985"></s1>
+	<s1 title="Flora of Courtallum" author="Nair, K. K. N.;Nayar, M. P." page="0001-0236" info="00:01:00:009" type="s3" date="00-12-1986"></s1>
+	<s1 title="Flora of Courtallum" author="Nair, K. K. N.;Nayar, M. P." page="0001-0278" info="00:02:00:010" type="s3" date="00-05-1987"></s1>
+	<s1 title="Flora of Nallamalais" author="Ellis, J. L." page="0001-0239" info="00:01:00:011" type="s3" date="00-02-1987"></s1>
+	<s1 title="Flora of Nallamalais" author="Ellis, J. L." page="0001-0275" info="00:02:00:012" type="s3" date="00-11-1990"></s1>
+	<s1 title="Flora of Akola District, Maharashtra" author="Kamble, S. Y.;Pradhan, S. G." page="0001-0361" info="00:00:00:013" type="s3" date="00-08-1988"></s1>
+	<s1 title="Flora of Cannanore" author="Ramachandran, V. S.;Nair, V. J." page="0001-0613" info="00:00:00:014" type="s3" date="12-05-1988"></s1>
+	<s1 title="Flora of Sindhudurg" author="Kulkarni, B. G." page="0001-0641" info="00:00:00:015" type="s3" date="00-02-1988"></s1>
+	<s1 title="Flora of Bilaspur district, Madhya Pradesh (Ranunculaceae to Convolvulaceae)" author="Panigrahi, G.;Murti, S. K." page="0001-0407" info="00:01:00:016" type="s3" date="00-03-1989"></s1>
+	<s1 title="Flora of Bilaspur district, Madhya Pradesh (Solanaceae to Poaceae)" author="Murti, S. K.;Panigrahi, G." page="0001-0522" info="00:00:00:017" type="s3" date="00-03-1999"></s1>
+	<s1 title="Flora of Palghat District Including Silent Valley National Park, Kerala" author="Vajravelu, E." page="0001-0675" info="00:00:00:018" type="s3" date="00-10-1990"></s1>
+	<s1 title="Flora of Mahabaleshwar and Adjoinings, Maharashtra (Ranunculaceae to Thunbergiaceae)" author="Deshpande, Sandhya;Sharma, B. D.;Nayar, M. P." page="0001-0445" info="00:01:00:019" type="s3" date="18-02-1993"></s1>
+	<s1 title="Flora of Mahabaleshwar and Adjoinings, Maharashtra (Acanthaceae to Poaceae)" author="Deshpande, Sandhya;Sharma, B. D.;Nayar, M. P." page="0001-0355" info="00:02:00:020" type="s3" date="00-02-1995"></s1>
+	<s1 title="Flora of Nasik District" author="Lakshminarasimhan, P.;Sharma, B. D." page="0001-0675" info="00:00:00:021" type="s3" date="23-09-1991"></s1>
+	<s1 title="Flora of Agra District" author="Sharma, A. K.;Dhakre, J. S." page="0001-0369" info="00:00:00:022" type="s3" date="00-02-1995"></s1>
+	<s1 title="Flora of Raigad District, Maharashtra State" author="Kothari, M. J.;Moorthy, S." page="0001-0651" info="00:00:00:023" type="s3" date="00-03-1993"></s1>
+	<s1 title="Flora of Yavatmal District, Maharashtra State" author="Karthikeyan, S.;Kumar, Anand" page="0001-0395" info="00:00:00:024" type="s3" date="00-00-0000"></s1>
+	<s1 title="Flora of Thiruvananthapuram, Kerala" author="Mohanan, M.;Henry, A. N." page="0001-0643" info="00:00:00:025" type="s3" date="00-00-1994"></s1>
+	<s1 title="Flora of West Champaran District, Bihar" author="Bhattacharyya, P. K.;Sarkar, Krishnendu" page="0001-0577" info="00:00:00:026" type="s3" date="00-06-1998"></s1>
+	<s1 title="The Flora of Khandala on the Western Ghats of India" author="Santapau, H." page="0001-0690" info="01:00:00:027" type="s3" date="00-00-1953"></s1>
+	<s1 title="Flora of Hazaribagh District, Bihar (Magnoliaceae to Oxalidaceae)" author="Paria, N. D.;Chattopadhyay, S. P." page="0001-0549" info="00:01:00:028" type="s3" date="00-03-2000"></s1>
+	<s1 title="Flora of Hazaribagh District, Bihar (Tropaeolaceae to Orchidaceae)" author="Paria, N. D.;Chattopadhyay, S. P." page="0001-0785" info="00:02:00:029" type="s3" date="00-10-2005"></s1>
+	<s1 title="Flora of Buldhana District, Maharashtra State" author="Diwakar, P. G.;Sharma, B. D." page="0001-0423" info="00:00:00:030" type="s3" date="01-01-2000"></s1>
+	<s1 title="Flora of Great Nicobar Island" author="Sinha, B. K." page="0001-0559" info="00:00:00:031" type="s3" date="15-08-1999"></s1>
+	<s1 title="Flora of Palamau District, Jharkhand" author="Sarma, T. K.;Sarkar, A. K." page="0001-0761" info="00:00:00:032" type="s3" date="00-01-2002"></s1>
+	<s1 title="The Flora of Khandala on the Western Ghats of India" author="Santapau, H." page="0001-0363" info="02:00:00:033" type="s3" date="00-03-1960"></s1>
+	<s1 title="The Flora of Khandala on the Western Ghats of India" author="Santapau, H." page="0001-0404" info="03:00:00:034" type="s3" date="00-03-1967"></s1>
+</s3>

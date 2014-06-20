@@ -1,0 +1,2747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE s4 SYSTEM "s4.dtd">
+
+<s4>
+	<book bid="001">
+		<s1 page="0000d" title="1. Acknowledgements"></s1>
+		<s1 page="0001" title="2. Introduction"></s1>
+		<s1 page="0003" title="3. Classification History"></s1>
+		<s1 page="0014" title="4. Key to the Indian genera"></s1>
+		<s1 page="0031" title="5. Enumeration of genera and species"></s1>
+		<s1 page="0138" title="6. Excluded species"></s1>
+		<s1 page="0143" title="7. Literature cited"></s1>
+		<s1 page="0171" title="8. Index"></s1>
+	</book>
+	<book bid="002">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0000g" title="Abbreviations"></s1>
+		<s1 page="0000h" title="List of Photographs"></s1>
+		<s1 page="0000i" title="Map"></s1>
+		<s1 page="0000j" title="Introduction"></s1>
+		<s1 page="0001" title="Tables"></s1>
+		<s1 page="0134" title="Photographs"></s1>
+		<s1 page="0135" title="References"></s1>
+		<s1 page="0141" title="Index to Botanical Names and Their Synonyms"></s1>
+		<s1 page="0151" title="Index to Common Names"></s1>
+		<s1 page="0159" title="Index to Local Names"></s1>
+	</book>
+	<book bid="003">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0020" title="Trees and Shrubs"></s1>
+		<s1 page="0183" title="Some Useful Literature"></s1>
+		<s1 page="0185" title="Index"></s1>
+	</book>
+	<book bid="004">
+		<s1 page="0000d" title="List of illustrations"></s1>
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0001" title="Chapter">
+			<s2 page="0001" title="1. Introduction&#8212;Physical Features&#8212;Climate"></s2>
+			<s2 page="0006" title="2. The Alpine Flora"></s2>
+			<s2 page="0009" title="3. The Alpine Habitats"></s2>
+			<s2 page="0015" title="4. Some Attractive Herbs of West Himalaya"></s2>
+			<s2 page="0039" title="5. Botanical Exploration in West Himalaya"></s2>
+			<s2 page="0043" title="6. Families of Flowering Plants"></s2>
+		</s1>
+		<s1 page="0207" title="References"></s1>
+		<s1 page="0211" title="Addenda"></s1>
+		<s1 page="0212" title="Glossary"></s1>
+		<s1 page="0219" title="Index"></s1>
+	</book>
+	<book bid="005">
+		<s1 page="0000e" title="Introduction"></s1>
+		<s1 page="0001" title="Cyperaceae of North East India"></s1>
+		<s1 page="0085" title="Bibliography"></s1>
+		<s1 page="0095" title="Index"></s1>
+	</book>
+	<book bid="006">
+		<s1 page="0001" title="Foreword"></s1>
+		<s1 page="0002" title="Preface"></s1>
+		<s1 page="0003" title="Introduction"></s1>
+		<s1 page="0008" title="Key to Genera"></s1>
+		<s1 page="0025" title="Description of species"></s1>
+		<s1 page="0167" title="Bibliography"></s1>
+		<s1 page="0171" title="Index"></s1>
+	</book>
+	<book bid="007">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0005" title="Enumeration"></s1>
+		<s1 page="0039" title="References"></s1>
+		<s1 page="0041" title="Index to Botanical names"></s1>
+	</book>
+	<book bid="008">
+		<s1 page="0000c" title="Preface"></s1>
+		<s1 page="0000e" title="List of Illustrations"></s1>
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="Geography and Climate"></s2>
+			<s2 page="0002" title="Orchid Vegetation"></s2>
+			<s2 page="0004" title="History of Orchid collection in India"></s2>
+			<s2 page="0005" title="Explorations and Orchid studies in Nagaland"></s2>
+			<s2 page="0006" title="New Orchid Reports"></s2>
+			<s2 page="0007" title="Excluded species"></s2>
+			<s2 page="0008" title="Statistical Analysis of Orchids"></s2>
+			<s2 page="0009" title="Distribution pattern of Orchid Species"></s2>
+			<s2 page="0011" title="Biology and Conservation of Orchids"></s2>
+			<s2 page="0012" title="Economic uses"></s2>
+		</s1>
+		<s1 page="0014" title="Orchidaceae"></s1>
+		<s1 page="0014" title="Key to the Genera"></s1>
+		<s1 page="0027" title="Enumeration of Orchid Species"></s1>
+		<s1 page="0285" title="Bibliography"></s1>
+		<s1 page="0299" title="Index to Botanical Names"></s1>
+	</book>
+	<book bid="009">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Collecting"></s1>
+		<s1 page="0003" title="Drying"></s1>
+		<s1 page="0003" title="Determination"></s1>
+		<s1 page="0004" title="Storage"></s1>
+		<s1 page="0005" title="Classification History"></s1>
+		<s1 page="0009" title="Ecology and Distribution"></s1>
+		<s1 page="0012" title="Wood Decay"></s1>
+		<s1 page="0015" title="Taxonomical Characters">
+			<s2 page="0015" title="Basidiocarp"></s2>
+			<s2 page="0018" title="Hymenophore"></s2>
+			<s2 page="0018" title="Context"></s2>
+			<s2 page="0019" title="Hyphae"></s2>
+			<s2 page="0020" title="Spores"></s2>
+			<s2 page="0020" title="Basidia"></s2>
+			<s2 page="0021" title="Cystidia and Cystidioles"></s2>
+			<s2 page="0021" title="Setae and Setal Hyphae"></s2>
+			<s2 page="0022" title="Chemical Features"></s2>
+		</s1>
+		<s1 page="0024" title="Hymenochaetaceae"></s1>
+		<s1 page="0024" title="Key to the Genera"></s1>
+		<s1 page="0206" title="Literature Cited"></s1>
+		<s1 page="0217" title="Index"></s1>
+	</book>
+	<book bid="010">
+		<s1 page="0001" title="I. Introduction"></s1>
+		<s1 page="0014" title="II. Meliolales"></s1>
+		<s1 page="0015" title="III. Meliolaceae"></s1>
+		<s1 page="0015" title="IV. Key to the genera"></s1>
+		<s1 page="0016" title="V. Key to the species"></s1>
+		<s1 page="0064" title="VI. !!Amazonia!!"></s1>
+		<s1 page="0077" title="VII. !!Appendiculella!!"></s1>
+		<s1 page="0079" title="VIII. !!Asteridiella!!"></s1>
+		<s1 page="0107" title="IX. !!Irenopsis!!"></s1>
+		<s1 page="0120" title="X. !!Meliola!!"></s1>
+		<s1 page="0343" title="XI. !!Prataprajella!!"></s1>
+		<s1 page="0347" title="XII. Species excludendae"></s1>
+		<s1 page="0347" title="XIII. References"></s1>
+		<s1 page="0358" title="XIV. Index to hosts"></s1>
+	</book>
+	<book bid="011">
+		<s1 page="0000g" title="Foreword"></s1>
+		<s1 page="0000h" title="Preface"></s1>
+		<s1 page="0000j" title="Acknowledgements"></s1>
+		<s1 page="0001" title="System of classification"></s1>
+		<s1 page="0007" title="Huperziaceae"></s1>
+		<s1 page="0009" title="Lycopodiaceae"></s1>
+		<s1 page="0011" title="Selaginellaceae"></s1>
+		<s1 page="0018" title="Isoetaceae"></s1>
+		<s1 page="0019" title="Equisetaceae"></s1>
+		<s1 page="0020" title="Psilotaceae"></s1>
+		<s1 page="0020" title="Helminthostachyaceae"></s1>
+		<s1 page="0021" title="Botrychyaceae"></s1>
+		<s1 page="0022" title="Ophioglossaceae"></s1>
+		<s1 page="0024" title="Angiopteridaceae"></s1>
+		<s1 page="0026" title="Marattiaceae"></s1>
+		<s1 page="0026" title="Christenseniaceae"></s1>
+		<s1 page="0027" title="Osmundaceae"></s1>
+		<s1 page="0027" title="Plagiogyriaceae"></s1>
+		<s1 page="0029" title="Gleicheniaceae"></s1>
+		<s1 page="0030" title="Dicranaopteridaceae"></s1>
+		<s1 page="0031" title="Grammitaceae"></s1>
+		<s1 page="0033" title="Loxogrammaceae"></s1>
+		<s1 page="0034" title="Polypodiaceae"></s1>
+		<s1 page="0057" title="Dipteridaceae"></s1>
+		<s1 page="0057" title="Platyceriaceae"></s1>
+		<s1 page="0058" title="Drynariaceae"></s1>
+		<s1 page="0058" title="Schizaeaceae"></s1>
+		<s1 page="0059" title="Anemiaceae"></s1>
+		<s1 page="0059" title="Lygodiaceae"></s1>
+		<s1 page="0061" title="Sinopteridaceae"></s1>
+		<s1 page="0063" title="Cheilanthaceae"></s1>
+		<s1 page="0066" title="Cryptogrammaceae"></s1>
+		<s1 page="0068" title="Actiniopteridaceae"></s1>
+		<s1 page="0068" title="Pteridaceae"></s1>
+		<s1 page="0073" title="Acrostichaceae"></s1>
+		<s1 page="0074" title="Adiantaceae"></s1>
+		<s1 page="0077" title="Hemionitidaceae"></s1>
+		<s1 page="0080" title="Antrophyaceae"></s1>
+		<s1 page="0081" title="Vittariaceae"></s1>
+		<s1 page="0083" title="Taenitidaceae"></s1>
+		<s1 page="0083" title="Parkeriaceae"></s1>
+		<s1 page="0084" title="Marsileaceae"></s1>
+		<s1 page="0085" title="Hymenophyllaceae"></s1>
+		<s1 page="0090" title="Hymenophyllopsidaceae"></s1>
+		<s1 page="0092" title="Dicksoniaceae"></s1>
+		<s1 page="0092" title="Cyatheaceae"></s1>
+		<s1 page="0094" title="Dennstaedtiaceae"></s1>
+		<s1 page="0097" title="Monachosoraceae"></s1>
+		<s1 page="0097" title="Hypolepidaceae"></s1>
+		<s1 page="0098" title="Pteridiaceae"></s1>
+		<s1 page="0098" title="Lindsaeaceae"></s1>
+		<s1 page="0102" title="Thelypteridaceae"></s1>
+		<s1 page="0116" title="Aspleniaceae"></s1>
+		<s1 page="0123" title="Onocleaceae"></s1>
+		<s1 page="0124" title="Woodsiaceae"></s1>
+		<s1 page="0124" title="Athyriaceae"></s1>
+		<s1 page="0137" title="Hypodemataceae"></s1>
+		<s1 page="0137" title="Aspidiaceae"></s1>
+		<s1 page="0145" title="Peranemataceae"></s1>
+		<s1 page="0146" title="Dryopteridaceae"></s1>
+		<s1 page="0161" title="Lomariopsidaceae"></s1>
+		<s1 page="0161" title="Bolbitidaceae"></s1>
+		<s1 page="0164" title="Elaphoglossaceae"></s1>
+		<s1 page="0166" title="Nephrolepidaceae"></s1>
+		<s1 page="0167" title="Oleandraceae"></s1>
+		<s1 page="0168" title="Davalliaceae"></s1>
+		<s1 page="0172" title="Gymnogrammitidaceae"></s1>
+		<s1 page="0172" title="Blechnaceae"></s1>
+		<s1 page="0173" title="Stenochlaenaceae"></s1>
+		<s1 page="0174" title="Azollaceae"></s1>
+		<s1 page="0174" title="Salviniaceae"></s1>
+		<s1 page="0175" title="Index to Genera"></s1>
+	</book>
+	<book bid="013">
+		<s1 page="0001" title="General Introduction"></s1>
+		<s1 page="0003" title="1. Taxonomy">
+			<s2 page="0003" title="1.1. Introduction">
+				<s3 page="0003" title="1.1.1. General Survey of Principal literature of the family Papaveraceae"></s3>
+				<s3 page="0004" title="1.1.2. Historical Review of the Taxonomic literature of the genera"></s3>
+			</s2>
+			<s2 page="0007" title="1.2. Procedure"></s2>
+			<s2 page="0008" title="1.3. Geographic distribution"></s2>
+			<s2 page="0009" title="1.4. General characters of the family Papaveraceae"></s2>
+			<s2 page="0010" title="1.5. Key to the genera"></s2>
+			<s2 page="0011" title="1.6. Taxonomic studies">
+				<s3 page="0011" title="Genus Argemone Linn."></s3>
+				<s3 page="0025" title="Genus Dicranostigma Hook. f. &amp; Thoms."></s3>
+				<s3 page="0027" title="Genus Eschscholtzia Cham."></s3>
+				<s3 page="0028" title="Genus Glaucium Miller"></s3>
+				<s3 page="0035" title="Genus Meconopsis Vig."></s3>
+				<s3 page="0094" title="Genus Papaver Linn."></s3>
+				<s3 page="0112" title="Genus Roemeria Medic."></s3>
+			</s2>
+		</s1>
+		<s1 page="0118" title="2. Pollen morphology">
+			<s2 page="0118" title="2.1. Introduction"></s2>
+			<s2 page="0119" title="2.2. Materials and Methods"></s2>
+			<s2 page="0122" title="2.3. Terminology"></s2>
+			<s2 page="0126" title="2.4. Results"></s2>
+			<s2 page="0132" title="2.5. Key to the taxa"></s2>
+			<s2 page="0135" title="2.6. Discussion"></s2>
+		</s1>
+		<s1 page="0139" title="3. Seed morphology">
+			<s2 page="0139" title="3.1. Introduction"></s2>
+			<s2 page="0140" title="3.2. Materials and Methods"></s2>
+			<s2 page="0140" title="3.3. Description"></s2>
+			<s2 page="0146" title="3.4. Discussion"></s2>
+		</s1>
+		<s1 page="0151" title="Taxonomic treatment of the genus Hypecoum">
+			<s2 page="0151" title="Introduction"></s2>
+			<s2 page="0151" title="Genus Hypecoum"></s2>
+			<s2 page="0156" title="Discussion"></s2>
+		</s1>
+		<s1 page="0158" title="Summary"></s1>
+		<s1 page="0159" title="Exsiccata"></s1>
+		<s1 page="0179" title="Bibliography"></s1>
+		<s1 page="0189" title="Index to Scientific names"></s1>
+		<s1 page="0192" title="Index to Local names"></s1>
+	</book>
+	<book bid="014">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0011" title="Dalbergia Linn. f."></s1>
+		<s1 page="0231" title="Selected Bibliography"></s1>
+		<s1 page="0241" title="Index"></s1>
+	</book>
+	<book bid="015">
+		<s1 page="0001" title="Enumeration"></s1>
+		<s1 page="0095" title="Index"></s1>
+	</book>
+	<book bid="016">
+		<s1 page="0000e" title="Introduction"></s1>
+		<s1 page="0001" title="Agavaceae"></s1>
+	</book>
+	<book bid="017">
+		<s1 page="0001" title="Introduction"></s1>
+	</book>
+	<book bid="018">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="The area of study"></s1>
+		<s1 page="0003" title="Species and infra-specific taxa reported from the area"></s1>
+		<s1 page="0004" title="Present work"></s1>
+		<s1 page="0007" title="Observations and discussions"></s1>
+		<s1 page="0007" title="Morphology and variations"></s1>
+		<s1 page="0017" title="Ecology"></s1>
+		<s1 page="0017" title="Phytogeography"></s1>
+		<s1 page="0018" title="Endemism"></s1>
+		<s1 page="0019" title="Chromosomes"></s1>
+		<s1 page="0020" title="Pollen"></s1>
+		<s1 page="0020" title="Characters used in the key"></s1>
+		<s1 page="0022" title="Taxa recognised in the work"></s1>
+		<s1 page="0023" title="Systematic Treatment"></s1>
+		<s1 page="0120" title="Selected Bibliography"></s1>
+		<s1 page="0130" title="Index to Collectors"></s1>
+		<s1 page="0140" title="Index to Genera, Species and Infra-Specific Taxa"></s1>
+	</book>
+	<book bid="019">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0000f" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0005" title="Chapter &#8212; I Morphology of Plams"></s1>
+		<s1 page="0015" title="Chapter &#8212; II Propagation of Palms"></s1>
+		<s1 page="0018" title="Chapter &#8212; III Palm culture &amp; Pests and Diseases"></s1>
+		<s1 page="0025" title="Chapter &#8212; IV Distribution of Palmae (Arecaceae)"></s1>
+		<s1 page="0029" title="Chapter &#8212; V Family : Palmae (Arecaceae)">
+			<s2 page="0030" title="Key to the Subfamilies"></s2>
+			<s2 page="0031" title="Subfamily : Coryphoideae"></s2>
+			<s2 page="0078" title="Subfamily : Calamoideae"></s2>
+			<s2 page="0092" title="Subfamily : Nypoideae"></s2>
+			<s2 page="0093" title="Subfamily : Ceroxyloideae"></s2>
+			<s2 page="0096" title="Subfamily : Arecoideae"></s2>
+		</s1>
+		<s1 page="0154" title="Glossary of botanical terms used"></s1>
+		<s1 page="0158" title="References"></s1>
+		<s1 page="0162" title="Index"></s1>
+	</book>
+	<book bid="020">
+		<s1 page="0000f" title="!!Foreword!!"></s1>
+		<s1 page="0000i" title="!!Preface!!"></s1>
+		<s1 page="0001" title="1. Floristic Diversity">
+			<s2 page="0001" title="Review Scope and Perspectives - J. R. Sharma, V. Mudgal, P. K. Hajra"></s2>
+		</s1>
+		<s1 page="0047" title="2. Cryptogams">
+			<s2 page="0047" title="Fresh Water Algae - P. S. N. Rao, S. L. Gupta"></s2>
+			<s2 page="0063" title="Marine Algae - P. S. N. Rao, V. Mudgal"></s2>
+			<s2 page="0091" title="Fungi - J. R. Sharma"></s2>
+			<s2 page="0151" title="Woodrotting Fungi - J. R. Sharma"></s2>
+			<s2 page="0195" title="Lichens - K. P. Singh, G. P. Sinha"></s2>
+			<s2 page="0235" title="Liverworts - D. K. Singh"></s2>
+			<s2 page="0301" title="Mosses - J. N. Vohra, M. N. Aziz"></s2>
+			<s2 page="0375" title="Pteridophytes - S. R. Ghosh, B. Ghosh"></s2>
+		</s1>
+		<s1 page="0443" title="3. Gymnosperms - K. P. Singh, V. Mudgal"></s1>
+	</book>
+	<book bid="021">
+		<s1 page="0000c" title="Message"></s1>
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0473" title="Andaman and Nicobar Islands - P. S. N. Roa, B. K. Sinha"></s1>
+		<s1 page="0525" title="Andhra Pradesh - V. Chandrasekaran, S. R. Srinivasan"></s1>
+		<s1 page="0547" title="Arunachal Pradesh - H. J. Chowdhery"></s1>
+		<s1 page="0615" title="Assam - A. K. Baishya"></s1>
+		<s1 page="0663" title="Bihar - M. Das, R. P. Bhattacharya, V. Mudgal"></s1>
+		<s1 page="0699" title="Chandigarh - Bipin Balodi, J. R. Sharma, B. P. Uniyal"></s1>
+		<s1 page="0715" title="Dadra and Nagar Haveli - N. P. Singh, P. P. Sharma"></s1>
+		<s1 page="0731" title="Daman and Diu - N. P. Singh, P. P. Sharma, P. G. Diwakar"></s1>
+		<s1 page="0745" title="Delhi - B. D. Naithani, B. P. Uniyal"></s1>
+		<s1 page="0757" title="Goa - N. P. Singh, M. J. Kothari"></s1>
+		<s1 page="0775" title="Gujrat - R. P. Pandey, V. Singh"></s1>
+		<s1 page="0807" title="Haryana - S. Kumar"></s1>
+		<s1 page="0845" title="Himachal Pradesh - H. J. Chowdhery"></s1>
+		<s1 page="0905" title="Jammu and Kashmir - D. K. Singh, B. P. Uniyal, R. Mathur"></s1>
+		<s1 page="0975" title="Karnataka - N. P. Singh, P. V. Prasanna, B. G. Kulkarni"></s1>
+		<s1 page="0997" title="Kerala - M. Mohanan, V. J. Nair"></s1>
+	</book>
+	<book bid="022">
+		<s1 page="1067" title="Lakshadweep - P. Bhargavan, V. J. Nair"></s1>
+		<s1 page="1087" title="Madhya Pradesh - D. M. Verma, V. Mudgal"></s1>
+		<s1 page="1113" title="Maharashtra - S. Karthikeyan, N. P. Singh, P. L. Narsimhan"></s1>
+		<s1 page="1153" title="Manipur - A. S. Chauhan"></s1>
+		<s1 page="1183" title="Meghalaya - K. Haridasan"></s1>
+		<s1 page="1217" title="Mizoram - K. P. Singh"></s1>
+		<s1 page="1259" title="Nagaland - T. M. Hynniewta"></s1>
+		<s1 page="1299" title="Orissa - A. K. Sahoo, D. D. Bahali, H. S. Mohapatra"></s1>
+		<s1 page="1343" title="Pondicherry - R. Rajan, P. Venu"></s1>
+		<s1 page="1363" title="Punjab - Paramjit Singh"></s1>
+		<s1 page="1383" title="Rajasthan - V. Singh, R. P. Pandey"></s1>
+		<s1 page="1419" title="Sikkim - Paramjit Singh, A. S. Chauhan"></s1>
+		<s1 page="1451" title="Tamil Nadu - V. Chithra, V. J. Nair"></s1>
+		<s1 page="1511" title="Tripura - D. B. Deb"></s1>
+		<s1 page="1529" title="Uttar Pradesh - B. P. Uniyal, K. K. Khanna, Bipin Balodi"></s1>
+		<s1 page="1575" title="West Bengal - R. K. Chakraverty, R. C. Srivastava, S. Mitra, Subhajit Bandyopadhyay, Subir Bandyopadhyay"></s1>
+	</book>
+	<book bid="023">
+		<s1 page="0000c" title="Preface"></s1>
+		<s1 page="0000f" title="Contributors"></s1>
+		<s1 page="1631" title="Angiosperms">
+			<s2 page="1631" title="Species Diversity in Indian Angiosperms - N. P. Singh, J. R. Sharma, K. P. Singh, V. Mudgal"></s2>
+			<s2 page="1675" title="Poaceae - V. J. Nair, Sharmila Thomas"></s2>
+			<s2 page="1735" title="Orchidaceae - K. P. Singh, S. Phukan, P. Bujarbarua"></s2>
+			<s2 page="1847" title="Leguminosae - M. Sanjappa"></s2>
+			<s2 page="1903" title="Asteraceae - D. K. Singh, Reshma Mathur"></s2>
+			<s2 page="1961" title="Rubiaceae - D. B. Deb"></s2>
+			<s2 page="1983" title="Cyperaceae - N. P. Singh, V. P. Prasad"></s2>
+			<s2 page="2027" title="Rosaceae - S. K. Murti"></s2>
+			<s2 page="2053" title="Euphorbiaceae - N. P. Balakrishnan"></s2>
+			<s2 page="2083" title="Acanthaceae - J. L. Ellis"></s2>
+			<s2 page="2089" title="Scrophulariaceae - Moonmoon Munshi, Saumen Gantait, M. S. Mondal"></s2>
+			<s2 page="2101" title="Apiaceae - P. K. Mukherjee"></s2>
+			<s2 page="2139" title="!!Impatiens!! - M. S. Swaminathan, K. Vivekananthan, V. J. Nair"></s2>
+			<s2 page="2159" title="!!Ficus!! - B. P. Uniyal, D. Basu"></s2>
+			<s2 page="2167" title="Rhododendrons - A. A. Mao, K. P. Singh, P. K. Hajra"></s2>
+			<s2 page="2203" title="Hedychiums - S. C. Srivastava"></s2>
+			<s2 page="2211" title="Bamboos - A. K. Banerjee"></s2>
+		</s1>
+		<s1 page="2227" title="Economic Botany">
+			<s2 page="2227" title="Agricultural Plants - D. K. Hore"></s2>
+			<s2 page="2269" title="Medicinal Plants - N. P. Singh, V. Mudgal, K. K. Khanna, S. C. Srivastava"></s2>
+		</s1>
+		<s1 page="2323" title="Ethnobotany">
+			<s2 page="2323" title="Ethnobotany - V. Mudgal, K. K. Khanna, D. C. Pal, A. K. Sahoo, M. K. Pathak"></s2>
+		</s1>
+	</book>
+	<book bid="024">
+		<s1 page="0000c" title="Preface"></s1>
+		<s1 page="0000f" title="Contributors"></s1>
+		<s1 page="2341" title="1. In-Situ Conservation">
+			<s2 page="2341" title="A. Protected Area Network - N. P. Singh, D. K. Singh"></s2>
+			<s2 page="2413" title="B. Biosphere Reserves">
+				<s3 page="2413" title="Dibru-Saikhowa - A. K. Baishya, P. J. Bora"></s3>
+				<s3 page="2457" title="Dihang-Dibang - V. Mudgal, M. R. Pathak, M. Bhaumik"></s3>
+				<s3 page="2495" title="Great Nicobar - N. P. Balakrishnan"></s3>
+				<s3 page="2543" title="Gulf of Mannar - P. Daniel, P. Umamaheswari"></s3>
+				<s3 page="2585" title="Kanchanjunga - D. Maity, A. S. Chauhan"></s3>
+				<s3 page="2627" title="Manas - P. K. Hajra, A. K. Baishya"></s3>
+				<s3 page="2647" title="Nanda Devi - B. Balodi, P. K. Hajra"></s3>
+				<s3 page="2671" title="Nilgiri - M. Mohanan, P. Daniel"></s3>
+				<s3 page="2729" title="Nokrek - J. N. Singh, K. P. Singh"></s3>
+				<s3 page="2749" title="Pachmarhi - K. K. Khanna, V. Mudgal"></s3>
+				<s3 page="2783" title="Similipal - L. K. Banerjee, S. K. Srivastava"></s3>
+				<s3 page="2801" title="Sundarbans - L. K. Banerjee"></s3>
+			</s2>
+			<s2 page="2833" title="C. Fragile ecosystems">
+				<s3 page="2833" title="Coastal Region - L. K. Banerjee"></s3>
+				<s3 page="2877" title="Kutch - M. J. Kothari, N. P. Singh"></s3>
+				<s3 page="2899" title="Mangroves - L. K. Banerjee"></s3>
+				<s3 page="2933" title="Wetlands - P. Venu, P. Daniel"></s3>
+			</s2>
+		</s1>
+		<s1 page="2981" title="2. Ex-Situ Conservation">
+			<s2 page="2981" title="Botanic Gardens - N. P. Singh, D. S. Pandey"></s2>
+			<s2 page="3003" title="Green House - D. S. Pandey, N. P. Singh"></s2>
+			<s2 page="3013" title="Tissue Culture - A. A. Mao, D. K. Singh, P. Tandon"></s2>
+		</s1>
+		<s1 page="3051" title="Miscellaneous">
+			<s2 page="3051" title="Herbarium - N. P. Singh, S. K. Murti, M. J. Kothari, K. P. Singh"></s2>
+		</s1>
+	</book>
+	<book bid="025">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0000f" title="Preface"></s1>
+		<s1 page="0000h" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Plants which have been reported from India">
+			<s2 page="0001" title="as new to science"></s2>
+			<s2 page="0471" title="as new records"></s2>
+		</s1>
+		<s1 page="0599" title="Index (Botanical names - arranged in alphabetical sequence)"></s1>
+		<s1 page="0614" title="Index (Botanical names - arranged under each family)"></s1>
+	</book>
+	<book bid="026">
+		<s1 page="0003" title="List of Plates"></s1>
+	</book>
+	<book bid="027">
+		<s1 page="0001" title="List of Plates"></s1>
+	</book>
+	<book bid="028">
+		<s1 page="0001" title="List of Plates"></s1>
+	</book>
+	<book bid="029">
+		<s1 page="0001" title="List of Plates"></s1>
+	</book>
+	<book bid="030">
+		<s1 page="0001" title="List of Plates"></s1>
+	</book>
+	<book bid="031">
+		<s1 page="0000j" title="Introduction"></s1>
+		<s1 page="0049" title="Chlorophyta">
+			<s2 page="0049" title="Ulvales">
+				<s3 page="0049" title="Ulvaceae">
+					<s4 page="0049" title="!!Ulva lactuca!! Linn."></s4>
+					<s4 page="0050" title="!!Ulva reticulata!! Forsk."></s4>
+				</s3>
+			</s2>
+			<s2 page="0042" title="Siphonocladales">
+				<s3 page="0042" title="Siphonocladaceae">
+					<s4 page="0042" title="!!Boergesenia forbesii!! (Harv.) Feldm."></s4>
+					<s4 page="0039" title="!!Chamaedoris auriculata!! Boergs."></s4>
+				</s3>
+				<s3 page="0040" title="Cladophoraceae">
+					<s4 page="0040" title="!!Chaetomorpha media!! (Ag.) Kütz."></s4>
+				</s3>
+			</s2>
+			<s2 page="0041" title="Siphonales">
+				<s3 page="0041" title="Bryopsidaceae">
+					<s4 page="0041" title="!!Pseudobryopsis mucronata!! Boergs."></s4>
+				</s3>
+				<s3 page="0045" title="Caulerpaceae">
+					<s4 page="0045" title="!!Caulerpa crassifolia!! (C. Ag.) J. Ag."></s4>
+					<s4 page="0046" title="!!Caulerpa scalpelliformis!! (R. Br.) Weber-van Bosse"></s4>
+					<s4 page="0047" title="!!Caulerpa serrulata!! (Forsk.) J. Ag. emend Boergs."></s4>
+					<s4 page="0048" title="!!Caulerpa sertularioides!! (Gmelin) Howe"></s4>
+				</s3>
+				<s3 page="0044" title="Codiaceae">
+					<s4 page="0044" title="!!Avrainvillea erecta!! (Berkel.) Gepp."></s4>
+					<s4 page="0043" title="!!Codium elongatum!! C. Ag."></s4>
+					<s4 page="0038" title="!!Tydemania expeditionis!! Weber-van Bosse"></s4>
+				</s3>
+			</s2>
+		</s1>
+		<s1 page="0024" title="Phaeophyta">
+			<s2 page="0024" title="Ectocarpales">
+				<s3 page="0024" title="Ectocarpaceae">
+					<s4 page="0024" title="!!Ectocarpus breviarticulatus!! J. Ag."></s4>
+				</s3>
+			</s2>
+			<s2 page="0030" title="Dictyotales">
+				<s3 page="0030" title="Dictyotaceae">
+					<s4 page="0030" title="!!Dictyota atomaria!! Hauck"></s4>
+					<s4 page="0031" title="!!Dictyota bartayresiana!! Lamour."></s4>
+					<s4 page="0034" title="!!Dictyopteris australis!! Sonder"></s4>
+					<s4 page="0035" title="!!Dictyopteris woodwardii!! (Br.) J. Ag."></s4>
+					<s4 page="0026" title="!!Padina tetrastromatica!! Hauck"></s4>
+					<s4 page="0033" title="!!Spathoglossum asperum!! J. Ag."></s4>
+					<s4 page="0032" title="!!Stoechospermum marginatum!! (Ag.) Kütz."></s4>
+				</s3>
+			</s2>
+			<s2 page="0025" title="Chordariales">
+				<s3 page="0025" title="Chordariaceae">
+					<s4 page="0025" title="!!Myriogloea sciurus!! (Harv.) Kuck."></s4>
+				</s3>
+			</s2>
+			<s2 page="0028" title="Dictyosiphonales">
+				<s3 page="0028" title="Punctariaceae">
+					<s4 page="0028" title="!!Colpomenia sinuosa!! (Roth) Derbes &amp; Solier"></s4>
+					<s4 page="0027" title="!!Hydroclathrus clathratus!! (Bory) Howe"></s4>
+					<s4 page="0029" title="!!Rosenvingea intricata!! (J. Ag.) Boergs."></s4>
+				</s3>
+			</s2>
+			<s2 page="0036" title="Fucales">
+				<s3 page="0036" title="Cystoseiraceae">
+					<s4 page="0036" title="!!Cystophyllum muricatum!! (Turn.) J. Ag."></s4>
+					<s4 page="0037" title="!!Hormophysa triquetra!! (C. Ag.) Kütz."></s4>
+				</s3>
+			</s2>
+		</s1>
+		<s1 page="0013" title="Rhodophyta">
+			<s2 page="0013" title="Nemalionales">
+				<s3 page="0013" title="Helminthocladiaceae">
+					<s4 page="0013" title="!!Helminthocladia clavadosii!! (Lamour.) Setch.">
+						<s5 page="0013" title="f. !!indica!! Desikachary"></s5>
+						<s5 page="0016" title="!!Liagora erecta!! Zeh."></s5>
+					</s4>
+				</s3>
+				<s3 page="0009" title="Chaetangiaceae">
+					<s4 page="0009" title="!!Scinaia furcellata!! (Turn.) Bivonia"></s4>
+					<s4 page="0010" title="!!Scinaia hatei!! Boergs."></s4>
+					<s4 page="0011" title="!!Scinaia indica!! Boergs."></s4>
+				</s3>
+				<s3 page="0006" title="Bonnemaisoniaceae">
+					<s4 page="0006" title="!!Asparagopsis taxiformis!! (Delile) Collins &amp; Harvey"></s4>
+				</s3>
+			</s2>
+			<s2 page="0051" title="Cryptonemiales">
+				<s3 page="0051" title="Corynomorphaceae">
+					<s4 page="0051" title="!!Corynomorpha prismatica!! (J. Ag.) J. Ag."></s4>
+				</s3>
+				<s3 page="0019" title="Grateloupiaceae">
+					<s4 page="0019" title="!!Grateloupia indica!! Boergs."></s4>
+					<s4 page="0020" title="!!Grateloupia lithophila!! Boergs."></s4>
+					<s4 page="0017" title="!!Halymenia porphyroides!! Boergs."></s4>
+					<s4 page="0018" title="!!Halymenia venusta!! Boergs."></s4>
+				</s3>
+				<s3 page="0014" title="Sebdeniaceae">
+					<s4 page="0014" title="!!Sebdenia polydactyla!! (Boergs.) Balakrishnan"></s4>
+				</s3>
+			</s2>
+			<s2 page="0015" title="Gigartinales">
+				<s3 page="0015" title="Solieriaceae">
+					<s4 page="0015" title="!!Solieria robusta!! (Grev.) Kylin"></s4>
+				</s3>
+			</s2>
+			<s2 page="0002" title="Rhodymeniales">
+				<s3 page="0002" title="Rhodymeniaceae">
+					<s4 page="0002" title="!!Botryocladia leptopoda!! (J. Ag.) Kylin"></s4>
+					<s4 page="0003" title="!!Botryocladia skottsbergii!! (Boergs.) Levr."></s4>
+					<s4 page="0008" title="!!Coelarthrum opuntia!! (J. Ag.) Boergs."></s4>
+					<s4 page="0022" title="!!Rhodymenia australis!! Sonder"></s4>
+					<s4 page="0023" title="!!Rhodymenia palmata!! Grev."></s4>
+				</s3>
+				<s3 page="0012" title="Champiaceae">
+					<s4 page="0012" title="!!Champia indica Boergs.!!"></s4>
+					<s4 page="0001" title="!!Gastroclonium iyengarii!! Srinivasan"></s4>
+				</s3>
+			</s2>
+			<s2 page="0021" title="Ceramiales">
+				<s3 page="0021" title="Delesseriaceae">
+					<s4 page="0021" title="!!Hypoglossum spathulatum!! Kütz."></s4>
+				</s3>
+				<s3 page="0005" title="Dasyaceae">
+					<s4 page="0005" title="!!Dictyurus purpurascens!! Bory"></s4>
+					<s4 page="0007" title="!!Heterosiphonia muelleri!! (Sond.) De Toni"></s4>
+				</s3>
+				<s3 page="0004" title="Rhodomelaceae">
+					<s4 page="0004" title="!!Neurymenia fraxinifolia!! (Mert.) J. Ag."></s4>
+				</s3>
+			</s2>
+		</s1>
+	</book>
+	<book bid="032">
+		<s1 page="0000f" title="प्राक्कथन"></s1>
+		<s1 page="0000g" title="आमुख"></s1>
+		<s1 page="0000i" title="कृतज्ञता"></s1>
+		<s1 page="0003" title="1. वनस्पति विविधता"></s1>
+		<s1 page="0017" title="2. क्षेत्रीय सन्दर्भ में">
+			<s2 page="0017" title="पूर्वी हिमालय"></s2>
+			<s2 page="0029" title="पूर्वोत्तर भारत"></s2>
+			<s2 page="0041" title="पश्चिमी हिमालय"></s2>
+			<s2 page="0055" title="गान्गेय क्षेत्र"></s2>
+			<s2 page="0069" title="मध्य भारत"></s2>
+			<s2 page="0085" title="पूर्वी घाट"></s2>
+			<s2 page="0095" title="पश्चिमी घाट"></s2>
+			<s2 page="0109b" title="दक्षिण के पठार"></s2>
+			<s2 page="0115" title="शुष्क क्षेत्र"></s2>
+			<s2 page="0129" title="अण्डमान एवं निकोबार द्वीप समूह"></s2>
+			<s2 page="0139" title="तदीय वनस्पति"></s2>
+			<s2 page="0147" title="वायुशिफ"></s2>
+			<s2 page="0157" title="कच्छा की मरुभूमि"></s2>
+		</s1>
+		<s1 page="0165" title="3. अपुष्पी पौधे">
+			<s2 page="0165" title="शैवाल"></s2>
+			<s2 page="0181" title="कवक"></s2>
+			<s2 page="0199" title="शैवाक"></s2>
+			<s2 page="0225" title="लिवरवर्ट"></s2>
+			<s2 page="0247" title="मॉस"></s2>
+			<s2 page="0267" title="पणागोदभिद"></s2>
+		</s1>
+		<s1 page="0285" title="4. अनावृत बीजी"></s1>
+		<s1 page="0301" title="5. पुष्पी पौधे">	
+			<s2 page="0301" title="जाति विविधता"></s2>
+			<s2 page="0319" title="प्रमुख कुल"></s2>
+			<s2 page="0359" title="वट"></s2>
+			<s2 page="0363" title="बांस"></s2>
+		</s1>
+		<s1 page="0369" title="6. नृवनस्पति">
+			<s2 page="0369" title="नृवनस्पति एवं वनस्पति विविधता"></s2>
+			<s2 page="0387" title="पशु आहार"></s2>
+		</s1>
+		<s1 page="0391" title="7. औषधीय पौधे"></s1>
+		<s1 page="0415" title="8. संरक्षण">
+			<s2 page="0415" title="सुन्दरवन जीव मण्डल रिजर्व"></s2>
+			<s2 page="0421" title="मन्नार की ख़ाड़ी जीवमण्डल आरक्षित क्षेत्र"></s2>
+			<s2 page="0437" title="ग्रेट निकोबार द्वीप जीव मण्डल आरक्षित क्षेत्र"></s2>
+			<s2 page="0447" title="दिहांग-दिबांग जीवमण्डल"></s2>
+			<s2 page="0457" title="राष्ट्रीय उद्यान एवं अभयारण्य"></s2>
+			<s2 page="0461" title="नमभूमि"></s2>
+			<s2 page="0473" title="वनस्पति उद्यान"></s2>
+			<s2 page="0485" title="हरित गृह"></s2>
+			<s2 page="0493" title="आर्किडेरियम"></s2>
+			<s2 page="0499" title="ऊतक संवर्धन"></s2>
+			<s2 page="0511" title="कृषीय पौधों की विविधता"></s2>
+			<s2 page="0515" title="विचित्र पौधे"></s2>
+			<s2 page="0521" title="जैव विविधता संरक्षण-अन्तर्राष्ट्रीय संदर्भ में"></s2>
+		</s1>
+		<s1 page="0529" title="9. महत्व एवं संभावनायें">
+			<s2 page="0529" title="जैव तकनीक"></s2>
+			<s2 page="0539" title="जैव विविधता एवं बौद्धिक सम्पदा अधिकार"></s2>
+			<s2 page="0545" title="सतत् विकास"></s2>
+		</s1>
+		<s1 page="0553" title="10. परिशिष्ट">
+			<s2 page="0553" title="संदर्भ सूची"></s2>
+			<s2 page="0563" title="हिन्दी अंग्रेजी शब्दावली"></s2>
+			<s2 page="0581" title="पौधो के वंश तथा जानि नामों की अनुक्रमणिका"></s2>
+			<s2 page="0709" title="राष्ट्रीय उद्यान एवं वन्य जीव अभयारण्य"></s2>
+			<s2 page="0727" title="जैव विविधता समझौता"></s2>
+			<s2 page="0751" title="वनस्पति विविधता से संबन्धित संस्थायें"></s2>
+		</s1>
+	</book>
+	<book bid="033">
+		<s1 page="0001" title="1. भारत में वनस्पति सर्वेक्षण"></s1>
+		<s1 page="0009" title="2. लद्दाख के पेड़ पौधे और् वातावरण के अनुसार उनका अनुकूलन"></s1>
+		<s1 page="0013" title="3. जम्मू व कश्मीर के वन और् वनस्पति"></s1>
+		<s1 page="0017" title="4. हिमाचल प्रदेश के वन और् वनस्पति"></s1>
+		<s1 page="0022" title="5. चमोली गढ़वाल में पाये जाने वाले उपयोगी पौधे"></s1>
+		<s1 page="0028" title="6. फूलों की घाटी का संरक्षण और् पेड़ पौधों के विषय  में कुछ विचार"></s1>
+		<s1 page="0032" title="7. राजस्थान के वन और् वनस्पति"></s1>
+		<s1 page="0039" title="8. उत्तर प्रदेश के वन और् वनस्पति"></s1>
+		<s1 page="0043" title="9. बिहार, उड़ीसा व पश्चिम बंगाल के मैदानी क्षेत्र के वन और् वनस्पति"></s1>
+		<s1 page="0050" title="10. सिक्किम के रोचक पौधे"></s1>
+		<s1 page="0053" title="11. अरुणाचल के वन और् वनस्पति"></s1>
+		<s1 page="0056" title="12. मध्य प्रदेश के वन और् वनस्पति"></s1>
+		<s1 page="0060" title="13. गुजरात के वन और वनस्पति"></s1>
+		<s1 page="0064" title="14. कर्नाटक के वन और् वनस्पति"></s1>
+		<s1 page="0068" title="15. तमिलनाडु के वन और् वनस्पति"></s1>
+		<s1 page="0073" title="16. अंडमान एवं निकोबार द्विप समूह के वन और् वनस्पति"></s1>
+		<s1 page="0077" title="17. भारत के अनावृत बीजी पादप"></s1>
+		<s1 page="0082" title="18. कुछ रोचक अपुष्पी पौधे&#8212;पर्णाग"></s1>
+		<s1 page="0086" title="19. भारतीय शैवाल्क की वर्तमान स्थिति, प्रत्याशा, कठिनाइयां और् महत्व"></s1>
+		<s1 page="0090" title="20. हमारे जीवन में अपुष्पी पौधों का महत्व &#8212; शैवाल"></s1>
+		<s1 page="0095" title="21. हमारे जीवन में अपुष्पी पौधों का महत्व &#8212; कवक"></s1>
+		<s1 page="0102" title="22. भारत में अपुष्पी पादप समूह-` लिवरवर्ट् स' की वर्तमान स्थिति"></s1>
+		<s1 page="0109" title="23. हमारे जीवन में अपुष्पी पौधों का महत्व&#8212;मॉस"></s1>
+		<s1 page="0116" title="24. औषधीय पौधों के मिश्रक व विस्थापक"></s1>
+		<s1 page="0123" title="25. गढ़वाल की नृवनस्पति"></s1>
+		<s1 page="0127" title="26. पौधों के वर्गीकरण में कोशिकानुवांशिकी के अध्ययन की उपयोगिता"></s1>
+		<s1 page="0132" title="27. पौधों के वर्गीकरण में रसायन विज्ञान का योगदान"></s1>
+		<s1 page="0137" title="28. भारत की वनस्पती सम्पदा-विविधता और पर्यावरण रक्षा में योगदान"></s1>
+		<s1 page="0140" title="29. मेघालय के पावन लघु वन"></s1>
+		<s1 page="0142" title="30. काह्ना राष्ट्रीय उद्यान"></s1>
+		<s1 page="0146" title="31. कौरबेट राष्ट्रीय उद्यान और उसकी वनस्पति"></s1>
+		<s1 page="0149" title="32. भारत के विलुप्त प्राय पौधे"></s1>
+		<s1 page="0153" title="33. भारत के सीमित क्षेत्री पौधे"></s1>
+		<s1 page="0156" title="34. राष्ट्रीय मरु उद्यान एवं मरुस्थल में पौधों को सुरक्षित रख़ने की संभावनयें"></s1>
+		<s1 page="0164" title="35. वन निधि संरक्षण एवं जन संचार विधि"></s1>
+		<s1 page="0170" title="36. भारत में नृवनस्पति विज्ञान का अध्ययन"></s1>
+		<s1 page="0174" title="37. भारन में पाये जाने वाले सालकुल के वृक्ष"></s1>
+		<s1 page="0177" title="38. भारत में गोधूमि कुल के उपयोगी पौधें"></s1>
+		<s1 page="0186" title="39. क्यू हर्बेरियम का भारतीय वनस्पति के उध्ययन में योगदान"></s1>
+		<s1 page="0193" title="40. भारतीय वनस्पति उद्यान"></s1>
+		<s1 page="0200" title="41. भारत में कुछ उपयोगी विदेशी पौधे"></s1>
+		<s1 page="0218" title="42. भारत में विदेशी ख़र पतवार"></s1>
+		<s1 page="0225" title="43. वनस्पति उद्यानों में लुप्त-प्राय पौधों का संरक्षण&#8212;घटपर्णी"></s1>
+		<s1 page="0229" title="परिशिष्ट">
+			<s2 page="0229" title="1. पौधों के वंश तथा जाति के नामों की अनुक्रमणिका"></s2>
+			<s2 page="0271" title="2. हिन्दी अंग्रेजी शब्दावली"></s2>
+			<s2 page="0277" title="3. संदर्भ-सूची"></s2>
+		</s1>
+	</book>
+	<book bid="034">
+		<s1 page="0001" title="1. भारतीय वनस्पति सर्वेक्षण, उत्तरी परिमण्डल, देहरादून : एक पूर्वावलोकन"></s1>
+		<s1 page="0010" title="2. पश्चिमी हिमालय : एक दृष्टि"></s1>
+		<s1 page="0023" title="3. पश्चिमी हिमालय में पादप सर्वेक्षण"></s1>
+		<s1 page="0029" title="4. पश्चिमी हिमालय में पादप सर्वेक्षण"></s1>
+		<s1 page="0034" title="5. पश्चिमी हिमालय का शीत मरुस्थल-वनस्पति एवं वानस्पतिक विविधता"></s1>
+		<s1 page="0039" title="6. जनपद पिथौरागढ़ (उ०प्र०) का वानस्पतिक"></s1>
+		<s1 page="0049" title="7. पश्चिमी हिमालय के अनावृतबीजी पादप"></s1>
+		<s1 page="0052" title="8. पश्चिमोत्तर हिमाल्य में एक रोचक किन्तु अल्प-ज्ञान अपुष्पी पादप समूह ``` ` लिवरवर्टस'' कि विविधता"></s1>
+		<s1 page="0056" title="9. पश्चिमी हिमालय के ` ` काष्ठ को विगलित'' करने वाले कवक (अफिल्लोफोरेल्स) व उनकी विविधता"></s1>
+		<s1 page="0062" title="10. नन्दा देवी जीवमण्डल सुरक्षित क्षेत्र एवं पर्यावरण संरक्षण"></s1>
+		<s1 page="0066" title="11. राष्ट्रीय उद्यान फूलों की घाटी एवं हेमकुण्ड की वनस्पति"></s1>
+		<s1 page="0074" title="12. पश्चिमी हिमालय की विषैली कुन्तु उपयोगी वनस्पति ` ` एकोनाइटमं'' "></s1>
+		<s1 page="0076" title="13. उत्तर पश्चिमी हिमालय के स्थानिक, विरल एवं आर्थिक रूप से उपयोगी पर्णाग (फर्न)"></s1>
+		<s1 page="0081" title="14. पौड़ी तथा ख़िर्शू (गढ़वाल) की अल्प परिचित वनस्पतियों का अध्ययन"></s1>
+		<s1 page="0084" title="15. पश्चिमी हिमाल्य के उपयोगी पौधे और उनका संरक्षण"></s1>
+		<s1 page="0088" title="16. ईधन के रूप में उपयोग किये जाने वाले पौधे"></s1>
+		<s1 page="0090" title="17. पौड़ी गढ़वाल क्षेत्र में पाई जाने वाली खरपतवार वनस्पतियों का आर्थिक महत्व"></s1>
+		<s1 page="0096" title="18. पश्चिमी हिमालय के कुछ खाद्योपयोगि ` ` खुम्ब'' (मशरुम)"></s1>
+		<s1 page="0098" title="19. फसली पौधों के स्वजात सम्बन्धी"></s1>
+		<s1 page="0100" title="20. वाल्मीकि रामायण में वन और वन्य जीवन"></s1>
+		<s1 page="0111" title="21. पश्चिमी हिमालय के कुछ संरक्षित क्षेत्र"></s1>
+		<s1 page="0118" title="22. पर्यावरण एवं प्राकृतिक सम्पदा का संरक्षण"></s1>
+		<s1 page="0121" title="23. प्रदूषण का पता लगाने में हरियोदिभदों का योगदान"></s1>
+		<s1 page="0123" title="24. कालिदासीय नाटकों में वन एवं"></s1>
+		<s1 page="0132" title="25. पर्यटक गतिविधियों द्वारा जम्मू-कश्मीर राज्य की वनस्पतिक सम्पदा का हास"></s1>
+		<s1 page="0139" title="26. ॠणी तेरे"></s1>
+	</book>
+	<book bid="035">
+		<s1 page="0000ad" title="Foreword"></s1>
+		<s1 page="0000ae" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0006" title="Physiography"></s1>
+		<s1 page="0010" title="Climate"></s1>
+		<s1 page="0012" title="Vegetation"></s1>
+		<s1 page="0017" title="Floristics and Phytogeography"></s1>
+		<s1 page="0023" title="Lichens"></s1>
+		<s1 page="0046" title="Hepaticeae (Bryophyta)"></s1>
+		<s1 page="0067" title="Pteridophytes"></s1>
+		<s1 page="0098" title="Gymnosperms"></s1>
+		<s1 page="0099" title="Angiosperms"></s1>
+		<s1 page="0357" title="Ethnobotanically Important Plants used by Different Tribals"></s1>
+		<s1 page="0367" title="Medicinal Plants"></s1>
+		<s1 page="0373" title="Wild Relatives of Cultivated Plants"></s1>
+		<s1 page="0374" title="Endemic Species"></s1>
+		<s1 page="0378" title="Rare and Interesting Plant Records"></s1>
+		<s1 page="0380" title="Fauna of the Proposed Biosphere Reserve"></s1>
+		<s1 page="0383" title="Threats and Conservation"></s1>
+		<s1 page="0385" title="Need for the Conservation of Ecosystem through the Biosphere Reserve in North-Eastern India"></s1>
+		<s1 page="0387" title="Selected Bibliography"></s1>
+		<s1 page="0389" title="Index to Botanical Names"></s1>
+	</book>
+	<book bid="036">
+		<s1 page="0000c" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Area and Topography"></s1>
+		<s1 page="0006" title="Climate"></s1>
+		<s1 page="0007" title="Vegetation">
+			<s2 page="0010" title="Vegetation of glacial moraine"></s2>
+			<s2 page="0011" title="Observations of the flora of Bugyals"></s2>
+		</s1>
+		<s1 page="0018" title="Utilitarian aspect of the flora">
+			<s2 page="0023" title="Ethnobotany"></s2>
+			<s2 page="0020" title="Analysis of the flora"></s2>
+			<s2 page="0030" title="Dicotyledones"></s2>
+			<s2 page="0339" title="Monocotyledones"></s2>
+			<s2 page="0406" title="Gymnosperms"></s2>
+			<s2 page="0415" title="Pteridophytes"></s2>
+			<s2 page="0439" title="Selected Bibliography"></s2>
+			<s2 page="0441" title="Index to Botanical Names"></s2>
+		</s1>
+	</book>
+	<book bid="037">
+		<s1 page="0007" title="Introduction"></s1>
+		<s1 page="0008" title="Location and Topography"></s1>
+		<s1 page="0008" title="Climate"></s1>
+		<s1 page="0009" title="Geology"></s1>
+		<s1 page="0009" title="Methodology and format"></s1>
+		<s1 page="0010" title="Map, Drawings &amp; Photographs"></s1>
+		<s1 page="0010" title="Vegetation types"></s1>
+		<s1 page="0010" title="General aspects of flora"></s1>
+		<s1 page="0020" title="Statistical analysis"></s1>
+		<s1 page="0022" title="Biotic factors"></s1>
+		<s1 page="0023" title="Analytical Catalogue to Families"></s1>
+		<s1 page="0035" title="Enumeration of the species"></s1>
+		<s1 page="0193" title="Selected bibliography"></s1>
+		<s1 page="0197" title="Index to local names"></s1>
+		<s1 page="0198" title="Index to popular english names of plants and families"></s1>
+		<s1 page="0200" title="Index to botanical names"></s1>
+		<s1 page="0224" title="Errata"></s1>
+	</book>
+	<book bid="038">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0007" title="Key to Angiospermic Plant Families"></s1>
+		<s1 page="0018" title="Key to Pteridophytic Plant Families"></s1>
+		<s1 page="0019" title="Systematic Treatment"></s1>
+		<s1 page="0173" title="References"></s1>
+		<s1 page="0175" title="Alphabetical Index to Families"></s1>
+		<s1 page="0177" title="Index to Genera and Species"></s1>
+		<s1 page="0190" title="Index to Local Names"></s1>
+	</book>
+	<book bid="039">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Area and Topography"></s1>
+		<s1 page="0003" title="Environment"></s1>
+		<s1 page="0004" title="Soil"></s1>
+		<s1 page="0005" title="Water Supply"></s1>
+		<s1 page="0005" title="Vegetation"></s1>
+		<s1 page="0009" title="Fauna"></s1>
+		<s1 page="0010" title="Distribution of Food Resources and Wild Animals in different Types of Vegetation"></s1>
+		<s1 page="0012" title="Habitat and food of Rhinoceros"></s1>
+		<s1 page="0013" title="Determination of food habit of Rhinoceros"></s1>
+		<s1 page="0013" title="Methods"></s1>
+		<s1 page="0015" title="Seasonal changes in food habit"></s1>
+		<s1 page="0017" title="Preference of grasslands by Rhinos"></s1>
+		<s1 page="0019" title="Enumeration and Ecological notes of Vascular Plants"></s1>
+		<s1 page="0068" title="Management"></s1>
+		<s1 page="0069" title="Threats to the Forest Resources"></s1>
+		<s1 page="0071" title="References"></s1>
+		<s1 page="0073" title="Appendix"></s1>
+	</book>
+	<book bid="040">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000e" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0006" title="Enumeration"></s1>
+		<s1 page="0145" title="Useful Plants"></s1>
+		<s1 page="0155" title="Rare and Interesting Plants"></s1>
+		<s1 page="0159" title="References"></s1>
+	</book>
+	<book bid="041">
+		<s1 page="0000f" title="!!Foreword!!"></s1>
+		<s1 page="0000g" title="!!Preface!!"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0009" title="Text"></s1>
+	</book>
+	<book bid="042">
+		<s1 page="0001" title="1. Introduction"></s1>
+		<s1 page="0001" title="2. Previous work"></s1>
+		<s1 page="0002" title="3. Area of study"></s1>
+		<s1 page="0005" title="4. Methodology"></s1>
+		<s1 page="0008" title="5. Systematic Treatment"></s1>
+		<s1 page="0059" title="6. Biomass Studies"></s1>
+		<s1 page="0070" title="7. Discussions &amp; Conclusions"></s1>
+		<s1 page="0076" title="8. References"></s1>
+		<s1 page="0079" title="9. Index"></s1>
+	</book>
+	<book bid="043">
+		<s1 page="0000g" title="Foreword"></s1>
+		<s1 page="0000h" title="Preface"></s1>
+		<s1 page="0000j" title="Acknowledgements"></s1>
+		<s1 page="0003" title="1. Introduction"></s1>
+		<s1 page="0011" title="2. Plant diversity in Agastyamalai Hills, Southern Western Ghats - R. Gopalan"></s1>
+		<s1 page="0025" title="3. Plant diversity in Nilgiri Biosphere Reserve - K. Vivekananthan, P. Daniel &amp; R. K. Premanath"></s1>
+		<s1 page="0065" title="4. Plant diversity in Namdapha Biosphere Reserve (proposed) Arunachal Pradesh - A. S. Chauhan"></s1>
+		<s1 page="0099" title="5. Plant diversity in Dibang Valley District, Arunachal Pradesh - H. J. Chowdhery"></s1>
+		<s1 page="0137" title="6. Plant diversity in Sikkim Himalaya - P. Singh &amp; A. S. Chauhan"></s1>
+		<s1 page="0165" title="Index"></s1>
+	</book>
+	<book bid="044">
+		<s1 page="0001" title="The Botany of Bihar and Orissa - Part II"></s1>
+	</book>
+	<book bid="045">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0003" title="The area of study"></s2>
+			<s2 page="0009" title="The tribal people of the area"></s2>
+			<s2 page="0020" title="Previous work"></s2>
+			<s2 page="0021" title="Present work"></s2>
+		</s1>
+		<s1 page="0026" title="Enumeration"></s1>
+		<s1 page="0152" title="A Utility-Based Classification of Ethnobotanical Data"></s1>
+		<s1 page="0210" title="Conclusions">
+			<s2 page="0213" title="Recommendations for the uplift of the Tribes"></s2>
+		</s1>
+		<s1 page="0215" title="Selected Bibliography"></s1>
+		<s1 page="0238" title="Index to Local Names"></s1>
+	</book>
+	<book bid="046">
+		<s1 page="0000d" title="Introduction"></s1>
+		<s1 page="0001" title="References"></s1>
+	</book>
+	<book bid="047">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0000f" title="Introduction"></s1>
+		<s1 page="0000g" title="Abbreviations"></s1>
+		<s1 page="0001" title="Enumeration of Selected Poisonous Plants"></s1>
+		<s1 page="0059" title="References"></s1>
+		<s1 page="0060" title="Appendix"></s1>
+		<s1 page="0063" title="List of Illustrations"></s1>
+		<s1 page="0064" title="List of Maps showning distribution"></s1>
+		<s1 page="0077" title="Index to Scientific names"></s1>
+		<s1 page="0080" title="Index to Local names"></s1>
+	</book>
+	<book bid="048">
+		<s1 page="0001" title="Introduction"></s1>
+	</book>
+	<book bid="049">
+		<s1 page="0000a" title="Economic Plants of India"></s1>
+	</book>
+	<book bid="050">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000e" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Enumeration of Plants for human consumption"></s1>
+		<s1 page="0147" title="References"></s1>
+		<s1 page="0149" title="Index to vernacular names"></s1>
+	</book>
+	<book bid="051">
+		<s1 page="0003" title="Foreword"></s1>
+		<s1 page="0005" title="Preface"></s1>
+		<s1 page="0007" title="Introduction"></s1>
+		<s1 page="0007" title="General background to the problem of threat to plant species"></s1>
+		<s1 page="0009" title="Rare species of plants, their categories &amp; definitions">
+			<s2 page="0009" title="Endangered"></s2>
+			<s2 page="0009" title="Vulnerable"></s2>
+			<s2 page="0009" title="Rare"></s2>
+			<s2 page="0009" title="Threatened"></s2>
+			<s2 page="0009" title="Out of danger"></s2>
+			<s2 page="0010" title="Indeterminate"></s2>
+		</s1>
+		<s1 page="0010" title="Main causes of threat to species"></s1>
+		<s1 page="0011" title="Areas vulnerable to rarity and extinction of species"></s1>
+		<s1 page="0012" title="Inventory of rare &amp; endangered species of Indian flora"></s1>
+		<s1 page="0012" title="Himalaya and Eastern India"></s1>
+		<s1 page="0039" title="Rajasthan and Gujarat"></s1>
+		<s1 page="0040" title="Gangetic Plain"></s1>
+		<s1 page="0040" title="Peninsular India"></s1>
+		<s1 page="0042" title="Andaman and Nicobar Islands"></s1>
+		<s1 page="0043" title="Work done in India on threatened species and their habitats"></s1>
+		<s1 page="0044" title="Gaps in our knowledge on rare and endangered Indian plants"></s1>
+		<s1 page="0045" title="Action taken to save the rarities of Indian flora"></s1>
+		<s1 page="0046" title="Future Programme of work in the Bot. Survey of India"></s1>
+		<s1 page="0046" title="Selected Bibliography"></s1>
+		<s1 page="0048" title="List of important species banned for export"></s1>
+		<s1 page="0013" title="List of Illustrations">
+			<s2 page="0013" title="!!Acanthephippium sylhetense!! Lindl"></s2>
+			<s2 page="0014" title="!!Angiopteris evecta!! Hoffm"></s2>
+			<s2 page="0015" title="!!Arachnanthe clarkei!! (Reichb. f.) Rolfe"></s2>
+			<s2 page="0016" title="!!Arundina graminifolia!! (D. Don) Hochr"></s2>
+			<s2 page="0017" title="!!Balanophora dioica!! R. Br."></s2>
+			<s2 page="0018" title="!!Brainea insignis!! Hook"></s2>
+			<s2 page="0021" title="!!Dendrobium densiflorum!! Wall. ex Lindl"></s2>
+			<s2 page="0023" title="!!Dischidia rafflesiana!! Wall"></s2>
+			<s2 page="0027" title="!!Nepenthes khasiana!! Hook. f."></s2>
+			<s2 page="0028" title="!!Paphiopedilum fairieanum!! (Lindl.) Pfitz."></s2>
+			<s2 page="0029" title="!!Paphiopedilum hirsutissimum!! (Lindl.) Pfitz."></s2>
+			<s2 page="0030" title="!!Paphiopedilum insigne!! (Wall.) Pfitz."></s2>
+			<s2 page="0031" title="!!Paphiopedilum villosum!! (Lindl.) Pfitz."></s2>
+			<s2 page="0032" title="!!Platycerium wallichii!! Hook."></s2>
+			<s2 page="0033" title="!!Pleione humilis!! D. Don"></s2>
+			<s2 page="0034" title="!!Podophyllum hexandrum!! Royle"></s2>
+			<s2 page="0036" title="!!Rhododendron santapaui!! Sastry !!et. al.!!"></s2>
+			<s2 page="0038" title="!!Vanda coerulea!! Griff"></s2>
+			<s2 page="0038" title="!!Vanilla pilifera!! Holtt"></s2>
+			<s2 page="0041" title="!!Frerea indica!! Dalz"></s2>
+		</s1>
+	</book>
+	<book bid="052">
+		<s1 page="0000h" title="Editors' note"></s1>
+		<s1 page="0000l" title="Recommendations &amp; Progress"></s1>
+		<s1 page="0000n" title="Inaugural address - By M. B. Raizada"></s1>
+		<s1 page="0000r" title="Key-Note Address - By S. K. Jain"></s1>
+		<s1 page="0001" title="Plants of North-Western Himalayas with restricted distribution&#8212;a Census - By P. K. Hajra"></s1>
+		<s1 page="0013" title="Rare flowering plants of Garhwal Himalaya - By A. K. Goel &amp; U. C. Bhattacharyya"></s1>
+		<s1 page="0018" title="Some remarkable features of endemism in Kashmir Himalayas - By Uppendra Dhar &amp; P. Kachroo"></s1>
+		<s1 page="0023" title="New observations on distribution of plants endemic to India - By P. C. Pant"></s1>
+		<s1 page="0025" title="Rare and little known taxa of !!Carex!! L. from N. W. Himalaya - By Neelam Juyal &amp; U. C. Bhattacharyya"></s1>
+		<s1 page="0028" title="!!Delphinium uncinatum!! Hook. f. &amp; Thoms. (Ranunculaceae) and !!Lilium wallichianum!! Schultes f. (Liliaceae)&#8212;two rare funds from Northwest Himalayas -By B. S. Aswal &amp; B. N. Mehrotra"></s1>
+		<s1 page="0031" title="Endemic species of Poaceae in N. W. Himalayas - By N. Bhargava"></s1>
+		<s1 page="0035" title="Is Sahastradhara a threatened Type locality&#63; - By P. K. Hajra"></s1>
+		<s1 page="0037" title="Exploitation and threat to survival of some high altitude plants in Garhwal Himalayas - By R. D. Gaur &amp; J. K. Semwal"></s1>
+		<s1 page="0040" title="Endangered medicinal and aromatic taxa of U. P. Himalaya - By N. C. Shah"></s1>
+		<s1 page="0050" title="Rare species with restricted distribution in South Gujarat - By G. L. Shah"></s1>
+		<s1 page="0055" title="A preliminary census of rare and threatened plants of Rajasthan - By R. P. Pandey, B. V. Shetty &amp; S. K. Malhotra"></s1>
+		<s1 page="0063" title="A census of rare and endemic flora of south-east Rajasthan - By Shiva Sharma"></s1>
+		<s1 page="0071" title="Observations on some rare or endangered endemics of south-eastern Kutch - By S. D. Sabnis &amp; K. S. S. Rao"></s1>
+		<s1 page="0078" title="Some rare plants of Madhya Pradesh - By B. K. Shukla"></s1>
+		<s1 page="0080" title="Rare and endemic flowering plants of Orissa - By H. O. Saxena &amp; Brahmam"></s1>
+		<s1 page="0091" title="Some threatened plants of Bengal Plains - By G. S. Giri &amp; M. P. Nayar"></s1>
+		<s1 page="0094" title="Threatened plants of Meghalaya&#8212;a plea for Conservation - By R. R. Rao &amp; K. Haridasan"></s1>
+		<s1 page="0104" title="A census of endemic Orchids of North-eastern India - By Sandhyajyoti Das &amp; N. C. Deori"></s1>
+		<s1 page="0110" title="Studies on the Flora of Balphakram Wildlife sanctuary in Meghalaya 2. Distributional remarks on certain rare and interesting plant species - By Y. Kumar &amp; R. R. Rao"></s1>
+		<s1 page="0116" title="Observations on extended distribution of new and rare taxa of North-eastern India with special reference to Arunachal Pradesh - By H. B. Naithani &amp; K. N. Bahadur"></s1>
+		<s1 page="0127" title="Notes on the little known taxa of !!Rhodiola!! L. from Sikkim and Assam - By N. B. Singh &amp; U. C. Bhattacharyya"></s1>
+		<s1 page="0131" title="Some noteworthy monocotyledonous species of Meghalaya, which are rare, endangered or endemic - By S. Myrthong &amp; R. R. Rao"></s1>
+		<s1 page="0138" title="Endemism in the Grass-Flora of North-Eastern India - By U. Shukla"></s1>
+		<s1 page="0142" title="Dwindling taxa of Meghalaya - By A. S. Chauhan"></s1>
+		<s1 page="0146" title="Some rare plants in Khasi and Jaintia Hills of Meghalaya - By S. K. Kataki"></s1>
+		<s1 page="0151" title="Rare and endemic species re-collected after fifty years or more from South India - By E. Vajravelu &amp; P. Bhargavan"></s1>
+		<s1 page="0157" title="Some rare plants of the Tamilnadu Carnatic - By K. M. Matthew, J. B. Britto &amp; N. Rani"></s1>
+		<s1 page="0163" title="Extended distribution of plant species on Tirupati Hills - By K. Narayana Rao &amp; K. Raja Reddy"></s1>
+		<s1 page="0167" title="Threatened plants of Tirupati and its environs - By K. Narayana Rao &amp; K. Raja Reddy"></s1>
+		<s1 page="0169" title="Observations on rare, imperfectly known and endemic plants in Sacred groves of western Maharashtra - By V. D. Vartak"></s1>
+		<s1 page="0179" title="Notes on some plants endemic to western India - By G. M. Oza"></s1>
+		<s1 page="0182" title="Observations on identities of some plants from Maharashtra - By S. M. Almeida"></s1>
+		<s1 page="0186" title="The Dwindling Plant Species of Andaman and Nicobar Islands - By N. P. Balakrishnan &amp; M. K. Vasudeva Rao"></s1>
+		<s1 page="0202" title="Distribution and collections of rare Umbellifers in India - By P. K. Mukherjee"></s1>
+		<s1 page="0207" title="New observations on distribution of plants endemic to India - By N. R. Mandal"></s1>
+		<s1 page="0213" title="Rare and endemic species of Indian Commelinaceae - By R. V. Kammathy"></s1>
+		<s1 page="0222" title="Rare and endemic species of !!Rhododendron!! in India&#8212;a preliminary study - By A. R. K. Sastry &amp; P. K. Hajra"></s1>
+		<s1 page="0232" title="Studies on Rare and endemic Legumes in the tribe Hedysareae - By A. Pramanik &amp; K. Thothathri"></s1>
+		<s1 page="0235" title="Endemic Species of !!Hedychium!! Koen. in India - By S. C. Srivastava"></s1>
+		<s1 page="0238" title="Endemic and Rare species of !!Calanthe!! R. Br. (Orchidaceae) in India - By S. R. Rathore"></s1>
+		<s1 page="0240" title="Endemic grasses of India with an emphasis on rare, indeterminate and extinct species - By S. Karthikeyan"></s1>
+		<s1 page="0251" title="Threatened species of Indian Araceae - By M. Sivadasan"></s1>
+		<s1 page="0256" title="Tribe Isachneae (family-Poaceae)-endemism and rarity in India - By Ved Prakash &amp; S. K. Jain"></s1>
+		<s1 page="0265" title="Rare bamboos of India - By K. N. Bahadur &amp; S. S. Jain"></s1>
+		<s1 page="0272" title="Some rare Gentians - By Sunita Agrawal"></s1>
+		<s1 page="0276" title="Notes on endangered species of !!Scleria!! in India - By Veena Chandra"></s1>
+		<s1 page="0279" title="Studies on endemism and rarity in the family Eriocaulaceae in India - By Ajay Mehrotra"></s1>
+		<s1 page="0283" title="A few highly exploited species needing special attention of conservationists - By S. S. R. Bennet &amp; R. C. Gaur"></s1>
+		<s1 page="0287" title="Distribution of wild relatives and related rare species of economic plants in India - By R. K. Arora &amp; E. Roshini Nayar"></s1>
+		<s1 page="0292" title="Rare and endemic taxa in the Botanical Garden and Arboreta of the Forest Research Institute, Dehra Dun - By P. C. Gupta &amp; M. N. Dakshini"></s1>
+		<s1 page="0296" title="Threatened plants of India - some considerations on native genetic resources - By R. K. Arora"></s1>
+		<s1 page="0303" title="Rare and endangered liverworts of India - By Ram Udar &amp; S. C. Srivastava"></s1>
+		<s1 page="0313" title="Threatened Bryophytes of Nainital - By Giri Bala Pant"></s1>
+		<s1 page="0318" title="Rare and endemic lichens in the Western ghats, South- Western India - By P. G. Patwardhan"></s1>
+		<s1 page="0323" title="Occurrence and distribution of some rare ferns in India - By Anukul Datta"></s1>
+		<s1 page="0328" title="Rare and interesting Pteridophytes of India&#8212;II - By R. D. Dixit"></s1>
+	</book>
+	<book bid="053">
+		<s1 page="0000g" title="Foreword"></s1>
+		<s1 page="0000h" title="Acknowledgements"></s1>
+		<s1 page="0001" title="1. General Characters of Endemics">
+			<s2 page="0001" title="1.1. The Concept of Endemism"></s2>
+			<s2 page="0002" title="1.2. Endemic Categories">
+				<s3 page="0003" title="1.2.1. Palaeoendemics"></s3>
+				<s3 page="0004" title="1.2.2. Neoendemics"></s3>
+				<s3 page="0004" title="1.2.3. Holoendemics"></s3>
+			</s2>
+			<s2 page="0005" title="1.3. Classification of Endemics based on Cytology"></s2>
+		</s1>
+		<s1 page="0006" title="2. Extinction of Species and Concept of Rarity in Plants">
+			<s2 page="0007" title="2.1. Extinction process"></s2>
+			<s2 page="0009" title="2.2. Concept of rarity of species"></s2>
+			<s2 page="0010" title="2.3. Threat value of species"></s2>
+			<s2 page="0012" title="2.4. Monitoring rare and threatened plants"></s2>
+			<s2 page="0013" title="2.5. Categories of species for conservation"></s2>
+			<s2 page="0013" title="2.6. The procedure of listing species"></s2>
+			<s2 page="0015" title="2.7. Base information for endangered or threatened species list"></s2>
+			<s2 page="0015" title="2.8. Strategies for conservation of rare or endangered species"></s2>
+			<s2 page="0016" title="2.9. On the road to extinction"></s2>
+			<s2 page="0016" title="2.10. Management strategies"></s2>
+		</s1>
+		<s1 page="0018" title="3. Endemism in Peninsular India at Generic Level">
+			<s2 page="0019" title="3.1. Age and dynamics of endemics">
+				<s3 page="0020" title="3.1.1. Predominance of arborescent/woody habit"></s3>
+				<s3 page="0022" title="3.1.2. Taxonomically isolated endemic genera"></s3>
+				<s3 page="0022" title="3.1.3. Possible evidence provided by fossils in relation to endemics"></s3>
+			</s2>
+			<s2 page="0023" title="3.2. Observations on selected endemic taxa"></s2>
+			<s2 page="0025" title="3.3. Enumeration of endemic genera of Peninsular India"></s2>
+		</s1>
+		<s1 page="0034" title="4. Endemic Components in the Vegetation of Eastern Ghats">
+			<s2 page="0034" title="4.1. The Northern E. Ghats"></s2>
+			<s2 page="0035" title="4.2. The Southern E. Ghats"></s2>
+			<s2 page="0037" title="4.3. Conservation needs of E. Ghats"></s2>
+			<s2 page="0037" title="4.4. Enumeration of endemic and rare taxa of E. Ghats"></s2>
+		</s1>
+		<s1 page="0046" title="5. Centres of Endemism in Peninsular India">
+			<s2 page="0046" title="5.1. Analysis of endemic taxa in Peninsular India"></s2>
+			<s2 page="0047" title="5.2. Centres of endemism"></s2>
+			<s2 page="0052" title="5.3. Dynamics of endemic species; Conservation in India"></s2>
+		</s1>
+		<s1 page="0055" title="Class : Magnoliopsida (Dicotyledons)"></s1>
+		<s1 page="0201" title="Class : Liliopsida (Monocotyledons)"></s1>
+		<s1 page="0255" title="References"></s1>
+		<s1 page="0262" title="Index to the families"></s1>
+	</book>
+	<book bid="054">
+		<s1 page="0001" title="The Indian Plant Red Data Book - I"></s1>
+	</book>
+	<book bid="055">
+		<s1 page="0000ae" title="Introduction"></s1>
+		<s1 page="0368" title="Index to the Plant Names of Red Data Sheets"></s1>
+	</book>
+	<book bid="056">
+		<s1 page="0000b" title="Preface"></s1>
+		<s1 page="0000c" title="Preface to the First Reprint"></s1>
+		<s1 page="0000d" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Red Data Book of Indian Plants"></s1>
+		<s1 page="0269" title="Index to Plant Names of Red Data Sheets - Vols. 1 &amp; 2"></s1>
+	</book>
+	<book bid="057">
+		<s1 page="0000c" title="Preface"></s1>
+		<s1 page="0000d" title="Preface to the First Reprint"></s1>
+		<s1 page="0000e" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Red Data Book of Indian Plants"></s1>
+		<s1 page="0272" title="Index to Plant Names of Red Data Sheets - Vols. 1, 2 &amp; 3."></s1>
+	</book>
+	<book bid="058">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Pteridophytes - General"></s1>
+		<s1 page="0005" title="References - Family-Wise"></s1>
+	</book>
+	<book bid="059">
+		<s1 page="0001" title="1. Introduction"></s1>
+		<s1 page="0001" title="2. Early history of the Botanical Survey of India"></s1>
+		<s1 page="0003" title="3. The Reorganisation of the Botanical Survey of India"></s1>
+		<s1 page="0007" title="4. Organisational set up of the Botanical Survey of India"></s1>
+		<s1 page="0008" title="5. Headquarters Organisation">
+			<s2 page="0008" title="5.1. Ecology Section"></s2>
+			<s2 page="0010" title="5.2. Plant Chemistry Section"></s2>
+			<s2 page="0012" title="5.3. Pharmacognosy Section"></s2>
+			<s2 page="0013" title="5.4. Cryptogamic Section"></s2>
+			<s2 page="0016" title="5.5. Flora Wing"></s2>
+		</s1>
+		<s1 page="0016" title="6. The Central National Herbarium"></s1>
+		<s1 page="0024" title="7. The Indian Botanic Garden"></s1>
+		<s1 page="0026" title="8. The Central Botanical Laboratory">
+			<s2 page="0026" title="8.1. Economic Botany Section"></s2>
+			<s2 page="0028" title="8.2. Cytology &amp; Cytogenetics Section"></s2>
+			<s2 page="0030" title="8.3. Plant Physiology &amp; Biochemistry Section"></s2>
+		</s1>
+		<s1 page="0032" title="9. The Industrial Section, Indian Museum"></s1>
+		<s1 page="0034" title="10. The Eastern Regional Circle, Shillong"></s1>
+		<s1 page="0038" title="11. The Northern Regional Circle, Dehra Dun"></s1>
+		<s1 page="0041" title="12. The Southern Regional Circle, Coimbatore"></s1>
+		<s1 page="0044" title="13. The Western Regional Circle, Pune"></s1>
+		<s1 page="0048" title="14. The Central Regional Circle, Allahabad"></s1>
+		<s1 page="0049" title="15. The Andaman &amp; Nicobar Circle, Port Blair"></s1>
+		<s1 page="0050" title="16. The Arid Zone Circle, Jodhpur"></s1>
+		<s1 page="0051" title="17. The Sikkim Himalayan Circle, Gangtok"></s1>
+		<s1 page="0051" title="18. The Arunachal Field Station, New Itanagar"></s1>
+		<s1 page="0051" title="19. The Publication Section"></s1>
+		<s1 page="0053" title="20. The Library &amp; Documentation Section">
+			<s2 page="0053" title="20.1. Library Unit"></s2>
+			<s2 page="0054" title="20.2. Documentation Unit"></s2>
+		</s1>
+		<s1 page="0054" title="21. The Artist &amp; Photography Section"></s1>
+		<s1 page="0054" title="22. The Technical Section"></s1>
+		<s1 page="0055" title="23. References"></s1>
+	</book>
+	<book bid="060">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Part-I - General References"></s1>
+		<s1 page="0022" title="Part-II - Bhutan"></s1>
+		<s1 page="0027" title="Part-III - Nepal"></s1>
+		<s1 page="0047" title="Part-IV - Sikkim"></s1>
+		<s1 page="0059" title="Part-V - Tibet"></s1>
+	</book>
+	<book bid="061">
+		<s1 page="0001" title="1. Types of Taxa based on Forrest's Collections at CAL - K. Ramamurthy and U. P. Sammaddar"></s1>
+		<s1 page="0027" title="2. Elmer's Philippine and Bornean Collections and their Type Material at Central National Herbarium (CAL) - Anukul Datta, B. B. Pramanick and M. P. Nayar"></s1>
+	</book>
+	<book bid="062">
+		<s1 page="0001" title="Type Collections in the Central National Herbarium"></s1>
+	</book>
+	<book bid="063">
+		<s1 page="0000f" title="Foreword"></s1>
+		<s1 page="0000h" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0005" title="Families in alphabetical sequence : Acanthaceae to Crypteroniaceae"></s1>
+		<s1 page="0447" title="Index to Families"></s1>
+		<s1 page="0449" title="Index to Genera"></s1>
+	</book>
+	<book bid="064">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0004" title="Families in alphabetical sequence : Cucurbitaceae to Juncaginaceae"></s1>
+	</book>
+	<book bid="065">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0004" title="Families in alphabetical sequence : Labiatae to Lythraceae"></s1>
+	</book>
+	<book bid="066">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0004" title="Families in alphabetical sequence : Magnoliaceae to Orchidaceae"></s1>
+	</book>
+	<book bid="067">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0004" title="Families in alphabetical sequence : Orobanchaceae to Polygonaceae"></s1>
+	</book>
+	<book bid="068">
+		<s1 page="0000f" title="Foreword"></s1>
+		<s1 page="0000g" title="Preface"></s1>
+		<s1 page="0000i" title="Introductory Note"></s1>
+		<s1 page="0000j" title="Authors' preface"></s1>
+		<s1 page="0000k" title="Acknowledgements"></s1>
+		<s1 page="0000m" title="About the book"></s1>
+		<s1 page="0000o" title="Introduction"></s1>
+		<s1 page="0000w" title="Key to the Abbreviations of reference books"></s1>
+		<s1 page="0001" title="Text">
+			<s2 page="0421" title="Appendix 1 Cytological status of genera and species in each family of the Indian subcontinent"></s2>
+			<s2 page="0424" title="Appendix 2 List of genera and number of species in the Indian subcontinent not screened for chromosome number"></s2>
+			<s2 page="0436" title="Appendix 3 Cytological status of the monotypic genera in the Indian subcontinent"></s2>
+			<s2 page="0446" title="Appendix 4 Cytological status of monotypic families in the Indian subcontinent"></s2>
+			<s2 page="0448" title="Appendix 5 Cytological status of the species in endemic genera of the Indian subcontinent"></s2>
+		</s1>
+		<s1 page="0453" title="Index"></s1>
+	</book>
+	<book bid="069">
+		<s1 page="0465" title="Text">
+			<s2 page="0667" title="Appendix 1 Cytological status of genera and species in each family of the Indian subcontinent"></s2>
+			<s2 page="0668" title="Appendix 2 List of genera and number of species in the Indian subcontinent not screened for chromosome number"></s2>
+			<s2 page="0671" title="Appendix 3 Cytological status of the monotypic genera in Indian Subcontinent"></s2>
+			<s2 page="0674" title="Appendix 4 Cytological status of the monotypic families in the Indian subcontinent"></s2>
+			<s2 page="0675" title="Appendix 5 Cytological status of the species in endemic genera of the Indian subcontinent"></s2>
+		</s1>
+		<s1 page="0677" title="Bibliography"></s1>
+		<s1 page="1079" title="Index"></s1>
+	</book>
+	<book bid="070">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0000g" title="Preface"></s1>
+		<s1 page="0000i" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Net work of Arboreta&#8212;Tree culture&#8212;Trees, wooden Dinosaurs of our age - M. P. Nayar"></s1>
+		<s1 page="0013" title="The Botanic Gardens of Adelaide - Brian Morley"></s1>
+		<s1 page="0021" title="The History and present role of Pisa Botanical Gardens - F. Garbari"></s1>
+		<s1 page="0028" title="The Botanical Collection of the Austrian Federal Gardens, Vienna - Ing. W. Ludwig"></s1>
+		<s1 page="0033" title="Durham University Botanic Garden - D. Boulter &amp; S. Ansdell"></s1>
+		<s1 page="0036" title="The Botanical Gardens in Copenhagen - Jette Dahl Moller"></s1>
+		<s1 page="0038" title="Munich Botanical Garden - Franz Schotz &amp; Josef Bogner"></s1>
+		<s1 page="0058" title="The Botanic Garden of the Jagellonian University in Krakow (Cracow), Poland - Kazimierz Szczepanek"></s1>
+		<s1 page="0066" title="A State-of-the-art report of the Botanic Garden Berlin-Dahlem - Hartmut Ern"></s1>
+		<s1 page="0074" title="Kornik Arboretum - Jakub Dolatowski"></s1>
+		<s1 page="0078" title="Alpine Botanical Garden Schynige Platte - Bernese Oberland &amp; W. O. Gigon"></s1>
+		<s1 page="0095" title="The Royal Horticultural Society's Garden - P. J. Maudsley"></s1>
+		<s1 page="0098" title="Brookgreen Gardens,&#8212;A Society for Southeastern Flora and Fauna - Gurdon L. Tarbox, Jr. &amp; Robin Salmon"></s1>
+		<s1 page="0103" title="The main Botanical Garden, USSR Academy of Sciences, Moscow, USSR - L. N. Andreev"></s1>
+		<s1 page="0113" title="Washington's hidden treasure&#8212;The U.S. National Arboretum - Erik A. Neumann"></s1>
+		<s1 page="0120" title="The experience and directions of introduction of plants in the Botanical Gardens of Kazakhstan - M. A. Proskuryakov"></s1>
+		<s1 page="0124" title="The Botanical Garden of the Academy of Sciences of the Latvian SSR - R. Cinovskis"></s1>
+		<s1 page="0129" title="Glasgow Botanic Gardens : History and present day work in Education and Conservation - Eric W. Curtis"></s1>
+		<s1 page="0135" title="Botanic Gardens in the Southern Urals - E. V. Kutcherov"></s1>
+		<s1 page="0139" title="South China Botanic Garden The Largest sub-tropical Botanic Garden in China - Chen-Zi Tang"></s1>
+		<s1 page="0144" title="Central Republic Botanical Garden of the Ukraine - A. M. Grodzinsky"></s1>
+		<s1 page="0159" title="The importance of Botanic Gardens for the preservation of plants endangered or threatened by extinction - F. Ebel, S. Rauschert E. Weinert in collaboration with H. G. Fuhrmann &amp; F. Kummel"></s1>
+		<s1 page="0166" title="The Botanic Garden of Giessen&#8212;The oldest University Garden in the Federal Republic of Germany - Gerhard Gottsberger"></s1>
+		<s1 page="0172" title="Kings Park and Botanic Garden - P. R. Wyeherley"></s1>
+		<s1 page="0178" title="Royal Botanic Gardens, Hamilton, Canada - A. P. Paterson"></s1>
+		<s1 page="0189" title="Green Treasure of the Gourd-shaped Peninsula, an Introduction of tropical Botanic Garden Xishuangbanna - Xu Zaifu"></s1>
+		<s1 page="0199" title="The Central Botanical Garden of the Academy of Sciences of the Georgian SSR - M. A. Gogolishvili"></s1>
+		<s1 page="0204" title="The Tropical Botanic Garden and Research Institute, Trivandrum, India- A. Abraham"></s1>
+		<s1 page="0214" title="Royal Botanic Gardens, Peradeniya - D. B. Sumithraarachchi"></s1>
+		<s1 page="0217" title="The New York Botanical Garden - Ghillean T. Prance"></s1>
+		<s1 page="0235" title="The Cordoba Botanical Garden (Andalusia&#8212;Spain) - J. E. Hernandez Bermejo &amp; Dra. M. Clemente Munoz"></s1>
+		<s1 page="0242" title="Cruickshank Botanic Garden : University of Aberdeen - C. C. Wilcock"></s1>
+		<s1 page="0246" title="The Botanic Garden, Aarhus - Kai Larsen &amp; Ivan Nielsen"></s1>
+		<s1 page="0250" title="Indian Botanic Garden : Early history and its future role in Plant Conservation - M. P. Nayar &amp; R. K. Chakraverty"></s1>
+		<s1 page="0269" title="List of Contributors"></s1>
+	</book>
+	<book bid="071">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0006" title="Abbreviations and symbols used in the text"></s1>
+	</book>
+	<book bid="072">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Monitoring Flora of Fragil Ecosystem and Vulnerable Areas"></s1>
+	</book>
+	<book bid="073">
+		<s1 page="0001" title="Key Works of Floristics of India"></s1>
+	</book>
+	<book bid="074">
+		<s1 page="0001" title="Preamble"></s1>
+		<s1 page="0001" title="Herbarium"></s1>
+		<s1 page="0002" title="Botanical Collection"></s1>
+	</book>
+	<book bid="075">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000e" title="A few words"></s1>
+		<s1 page="0000h" title="Programmes"></s1>
+		<s1 page="0000i" title="Messages"></s1>
+		<s1 page="0001" title="Proceedings : Inaugural Ceremony"></s1>
+		<s1 page="0003" title="Address of welcome by Dr. M. P. Nayar"></s1>
+		<s1 page="0006" title="Speech delivered by Dr. U. C. Bhattacharyya"></s1>
+		<s1 page="0007" title="Inaugural address by Dr. (Smt.) Asima Chatterjee"></s1>
+		<s1 page="0008" title="Speech delivered by Prof. M. M. Chakrabarty"></s1>
+		<s1 page="0011" title="Speech delivered by Shri U. P. Samaddar"></s1>
+		<s1 page="0013" title="Vote of thanks presented by Dr. B. D. Sharma"></s1>
+		<s1 page="0015" title="Indian Botanic Garden : some significant milestones"></s1>
+		<s1 page="0026" title="Public awareness campaigns"></s1>
+		<s1 page="0026" title="Sit and Draw competition"></s1>
+		<s1 page="0027" title="Exhibition with waste plant parts of the Indian Botanic Garden"></s1>
+		<s1 page="0027" title="Inaugural address by Dr. M. P. Nayar"></s1>
+		<s1 page="0028" title="Proceedings : Seminar on ``Man, Plant &amp; City''"></s1>
+		<s1 page="0029" title="Speech of Shri Z. R. Ansari, Hon'ble Minister, Ministry of Environment and Forests, Govt. of India"></s1>
+		<s1 page="0033" title="Speech on ``Man, Plant &amp; City'' delivered by Shri Hiren Dasgupta"></s1>
+		<s1 page="0041" title="Summing up of the Seminar by Dr. M. P. Nayar"></s1>
+		<s1 page="0042" title="Recommendations of the Seminar"></s1>
+		<s1 page="0045" title="Scientific papers presented in the Seminar"></s1>
+		<s1 page="0110" title="Important Visitors"></s1>
+		<s1 page="0112" title="Organising Committee : Bicentenary Celebration"></s1>
+		<s1 page="0116" title="Participants in various programmes"></s1>
+	</book>
+	<book bid="076">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0000f" title="Acknowledgements"></s1>
+		<s1 page="0000g" title="List of Tables"></s1>
+		<s1 page="0000h" title="List of Figures"></s1>
+		<s1 page="0000j" title="Table I: Summary of the work carried out in this programme"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0006" title="A review on the earlier literature"></s1>
+		<s1 page="0019" title="Plant distribution along the Sampling Belt"></s1>
+		<s1 page="0039" title="Plant distribution along various sites"></s1>
+		<s1 page="0051" title="Plant distribution versus soil copper"></s1>
+		<s1 page="0058" title="Biogeochemistry"></s1>
+		<s1 page="0083" title="Discussion"></s1>
+		<s1 page="0101" title="Accumulator plants"></s1>
+		<s1 page="0192" title="Summary"></s1>
+		<s1 page="0198" title="References"></s1>
+	</book>
+	<book bid="077">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0000f" title="Acknowledgement"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Methods adopted in the present study"></s1>
+		<s1 page="0003" title="Scope of the present Study and review of literature"></s1>
+		<s1 page="0005" title="Phytogeographical notes and fossil records"></s1>
+		<s1 page="0007" title="Materials"></s1>
+		<s1 page="0007" title="Morphological characters of the Genera studied"></s1>
+		<s1 page="0012" title="Observation and discussion : Aconogonum (Meissn.) Reich."></s1>
+		<s1 page="0013" title="Afrobrunnichia Hutch. &amp; Dalziel"></s1>
+		<s1 page="0014" title="Atraphaxis Linn."></s1>
+		<s1 page="0014" title="Bistorta Mill."></s1>
+		<s1 page="0015" title="Calligonum Linn."></s1>
+		<s1 page="0016" title="Chorizanthe R. Br. ex. Benth."></s1>
+		<s1 page="0017" title="Emex Neck ex champdera"></s1>
+		<s1 page="0017" title="Eriogonum Michx."></s1>
+		<s1 page="0018" title="Fagopyrum Mill."></s1>
+		<s1 page="0019" title="Fallopia Adans."></s1>
+		<s1 page="0020" title="Koenigia Linn."></s1>
+		<s1 page="0021" title="Muehlenbeckia Meissn."></s1>
+		<s1 page="0022" title="Oxyria Hill."></s1>
+		<s1 page="0022" title="Persicaria Mill."></s1>
+		<s1 page="0025" title="Polygonella Michx."></s1>
+		<s1 page="0025" title="Polygonum Linn. (s. str.)"></s1>
+		<s1 page="0027" title="Pteropyrum Jaub. &amp; Spach."></s1>
+		<s1 page="0028" title="Reynourtria Houtt."></s1>
+		<s1 page="0028" title="Rheum Linn."></s1>
+		<s1 page="0029" title="Rumex Linn."></s1>
+		<s1 page="0030" title="Triplaris Loefl. ex. L."></s1>
+		<s1 page="0032" title="General pollen morphological characters of the family polygonaceae and palynological findings"></s1>
+		<s1 page="0035" title="Discussion on Polygonum Linn. (s. lat.)"></s1>
+		<s1 page="0036" title="Palynological findings"></s1>
+		<s1 page="0037" title="Evolutionary trend in pollen morphology in the family polygonaceae"></s1>
+		<s1 page="0039" title="Different disciplines of botany in better understanding of the classification and relationship of the family : Anatomical and epidermal evidences"></s1>
+		<s1 page="0042" title="Cytological evidences"></s1>
+		<s1 page="0043" title="Embryological evidences"></s1>
+		<s1 page="0043" title="Phytochemical evidences"></s1>
+		<s1 page="0043" title="Palynological evidences"></s1>
+		<s1 page="0044" title="Correlation of pollen morphology with taxonomical and other evidences and conclusion"></s1>
+		<s1 page="0061" title="Materials studied"></s1>
+		<s1 page="0086" title="References"></s1>
+		<s1 page="0095" title="Glossary of pollen morphological terms used"></s1>
+		<s1 page="0099" title="Index"></s1>
+	</book>
+	<book bid="078">
+		<s1 page="0000c" title="Foreword"></s1>
+		<s1 page="0001" title="Introduction:">
+			<s2 page="0001" title="Previous works"></s2>
+			<s2 page="0003" title="Historical background"></s2>
+			<s2 page="0003" title="Habitat"></s2>
+			<s2 page="0005" title="Physical feature"></s2>
+			<s2 page="0005" title="Language"></s2>
+			<s2 page="0005" title="Demographic profile"></s2>
+			<s2 page="0006" title="Culture"></s2>
+			<s2 page="0006" title="Social life"></s2>
+			<s2 page="0007" title="Education"></s2>
+			<s2 page="0007" title="Agriculture"></s2>
+			<s2 page="0007" title="Food habit"></s2>
+			<s2 page="0008" title="Economy and trade practices"></s2>
+			<s2 page="0009" title="Religious and magico-religious belief"></s2>
+			<s2 page="0009" title="Taboo and Totems/Conservation practice"></s2>
+			<s2 page="0010" title="Common diseases among the Totos"></s2>
+			<s2 page="0010" title="Attitude towards disease and treatment"></s2>
+			<s2 page="0011" title="Toto pharmacology"></s2>
+		</s1>
+		<s1 page="0019" title="Account of Ethnobotanical Uses"></s1>
+		<s1 page="0131" title="Appendix A: Terms describing therapeutic properties"></s1>
+		<s1 page="0133" title="Appendix B: Index to uses"></s1>
+		<s1 page="0137" title="Appendix C: Index to local names with corresponding botanical names"></s1>
+		<s1 page="0143" title="Appendix D: Index to families"></s1>
+		<s1 page="0147" title="Reference"></s1>
+	</book>
+	<book bid="079">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0000f" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Resources of the Study Area">
+			<s2 page="0001" title="Introduction"></s2>
+			<s2 page="0002" title="Climate"></s2>
+			<s2 page="0007" title="Geomorphological Features"></s2>
+			<s2 page="0008" title="Soils"></s2>
+			<s2 page="0009" title="Riverine System"></s2>
+			<s2 page="0011" title="Estuarine complex"></s2>
+		</s1>
+		<s1 page="0013" title="Structural Characteristics of Vegatation">
+			<s2 page="0014" title="Vegetation belts and Sampling"></s2>
+			<s2 page="0049" title="Analysis of Flora"></s2>
+			<s2 page="0051" title="Comparison of the Floras of the Mahanadi Delta with those of the Sunderbans"></s2>
+			<s2 page="0058" title="Strand Vegetation"></s2>
+			<s2 page="0060" title="Estuarine Vegetation"></s2>
+			<s2 page="0067" title="Discussion and Conclusion"></s2>
+		</s1>
+		<s1 page="0075" title="Flora"></s1>
+		<s1 page="0075" title="Systematic Treatment">
+			<s2 page="0075" title="Key to Families"></s2>
+			<s2 page="0086" title="Families"></s2>
+			<s2 page="0292" title="References"></s2>
+		</s1>
+		<s1 page="0301" title="Index"></s1>
+	</book>
+	<book bid="080">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="Geography"></s2>
+			<s2 page="0002" title="Climate"></s2>
+			<s2 page="0003" title="Terrain and drainage system"></s2>
+			<s2 page="0003" title="Geology"></s2>
+			<s2 page="0004" title="Wildlife"></s2>
+			<s2 page="0005" title="Vegetation"></s2>
+			<s2 page="0012" title="Aquatic plants"></s2>
+			<s2 page="0014" title="Plant resources"></s2>
+			<s2 page="0019" title="Floristic analysis"></s2>
+		</s1>
+		<s1 page="0022" title="Taxonomic account">
+			<s2 page="0022" title="Key to the families"></s2>
+			<s2 page="0037" title="Enumeration (Ranunculaceae to Poaceae)"></s2>
+		</s1>
+		<s1 page="0379" title="Management Strategies for the Indravati Tiger Reserve"></s1>
+		<s1 page="0361" title="References"></s1>
+	</book>
+	<book bid="081">
+		<s1 page="0000c" title="Foreword"></s1>
+		<s1 page="0000d" title="Preface"></s1>
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="Area and Drainage System"></s2>
+			<s2 page="0007" title="Physical Features"></s2>
+			<s2 page="0008" title="Geology"></s2>
+			<s2 page="0011" title="Soil"></s2>
+			<s2 page="0012" title="Climate"></s2>
+			<s2 page="0016" title="Vegetation"></s2>
+			<s2 page="0033" title="Floristic Diversity"></s2>
+			<s2 page="0056" title="Agriculture and Cultivation of Plants"></s2>
+			<s2 page="0062" title="Survival Strategies of Cold Desert Plants"></s2>
+			<s2 page="0067" title="Introduced Phytodiversity"></s2>
+			<s2 page="0068" title="Phytogeographical Affinities"></s2>
+			<s2 page="0081" title="Earlier Botanical Work"></s2>
+			<s2 page="0083" title="Materials and Methods and Style of Presentation of Flora"></s2>
+		</s1>
+		<s1 page="0086" title="Taxonomical Treatment"></s1>
+		<s1 page="0423" title="References"></s1>
+		<s1 page="0441" title="Index"></s1>
+	</book>
+	<book bid="082">
+		<s1 page="0000ac" title="Foreword"></s1>
+		<s1 page="0000ae" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Review of Literature">
+			<s2 page="0003" title="Taxonomy"></s2>
+			<s2 page="0004" title="Phenology &amp; Pollination"></s2>
+			<s2 page="0005" title="Ecology"></s2>
+			<s2 page="0005" title="Cytology"></s2>
+			<s2 page="0006" title="Palynology"></s2>
+			<s2 page="0007" title="Anatomy"></s2>
+			<s2 page="0009" title="Embryology"></s2>
+			<s2 page="0010" title="Phytochemistry"></s2>
+			<s2 page="0011" title="Paleobotany"></s2>
+			<s2 page="0011" title="Economic uses"></s2>
+		</s1>
+		<s1 page="0013" title="Synopsis of the Present Monograph"></s1>
+		<s1 page="0014" title="Abbreviations"></s1>
+		<s1 page="0015" title="Classification">
+			<s2 page="0020" title="Family !!Ebenaceae!! R. Br."></s2>
+			<s2 page="0021" title="Key to the genera"></s2>
+			<s2 page="0022" title="Genus !!Diospyros!! L."></s2>
+			<s2 page="0023" title="Key to the sections"></s2>
+			<s2 page="0027" title="Artificial key to the species"></s2>
+		</s1>
+		<s1 page="0037" title="Enumeration of the Species"></s1>
+		<s1 page="0249" title="Species Dubiae"></s1>
+		<s1 page="0251" title="Phytogeographical Aspects"></s1>
+		<s1 page="0256" title="Phylogenetic Affinities"></s1>
+		<s1 page="0260" title="Phenetic Affinities"></s1>
+		<s1 page="0270" title="Conservation"></s1>
+		<s1 page="0272" title="References"></s1>
+		<s1 page="0294" title="Index to the Photographs"></s1>
+		<s1 page="0296" title="Index to the Figures"></s1>
+		<s1 page="0298" title="Index to the Distributional Sketch Maps"></s1>
+		<s1 page="0300" title="Index to the Scientific Names"></s1>
+		<s1 page="0317" title="Index to the Vernacular Names"></s1>
+		<s1 page="0323" title="Index to the English Names"></s1>
+	</book>
+	<book bid="083">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000f" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Justification and Objectives"></s1>
+		<s1 page="0005" title="Geographical Position and Topography"></s1>
+		<s1 page="0009" title="Geology and Soils"></s1>
+		<s1 page="0011" title="Water Resources"></s1>
+		<s1 page="0012" title="Climate"></s1>
+		<s1 page="0015" title="Methodology"></s1>
+		<s1 page="0017" title="Floral Diversity">
+			<s2 page="0026" title="Present Status of Knowledge"></s2>
+			<s2 page="0027" title="Vegetation Types"></s2>
+			<s2 page="0032" title="Key to the Families"></s2>
+			<s2 page="0035" title="Enumeration of Species"></s2>
+			<s2 page="0196" title="Floral Composition&#8212;A Statistical Analysis"></s2>
+			<s2 page="0199" title="Phytogeographical Assessment"></s2>
+			<s2 page="0201" title="Biological Spectrum"></s2>
+			<s2 page="0205" title="Bioperspective Potential"></s2>
+			<s2 page="0227" title="Threats to Biodiversity"></s2>
+			<s2 page="0236" title="Conservation and Management Strategies"></s2>
+		</s1>
+		<s1 page="0243" title="Faunal Diversity">
+			<s2 page="0245" title="Review of Literature"></s2>
+			<s2 page="0248" title="Enumeration of Species">
+				<s3 page="0248" title="Invertebrates">
+					<s4 page="0248" title="Nematoda"></s4>
+					<s4 page="0249" title="Mollusca"></s4>
+					<s4 page="0249" title="Arthropoda"></s4>
+				</s3>
+				<s3 page="0255" title="Vertebrates">
+					<s4 page="0255" title="Amphibia"></s4>
+					<s4 page="0255" title="Reptilia"></s4>
+					<s4 page="0258" title="Aves"></s4>
+					<s4 page="0263" title="Mammalia"></s4>
+				</s3>
+			</s2>
+			<s2 page="0267" title="Statistical Synopsis"></s2>
+			<s2 page="0275" title="Conservation and Management"></s2>
+			<s2 page="0281" title="Plant-Animal Relationship"></s2>
+		</s1>
+		<s1 page="0285" title="References"></s1>
+		<s1 page="0303" title="Index to the Local Names - Flora"></s1>
+		<s1 page="0305" title="Index to the Botanical Names"></s1>
+		<s1 page="0327" title="Index to the Local Names - Fauna"></s1>
+		<s1 page="0328" title="Index to the English Names - Fauna"></s1>
+		<s1 page="0330" title="Index to the Zoological Names"></s1>
+		<s1 page="0341" title="Index to the Photographs"></s1>
+		<s1 page="0343" title="Index to the Figures"></s1>
+	</book>
+	<book bid="084">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0004" title="Work done in India and Kumaon Himalaya"></s1>
+		<s1 page="0005" title="Economic Importance"></s1>
+		<s1 page="0007" title="Technical terms"></s1>
+		<s1 page="0021" title="Methodology"></s1>
+		<s1 page="0029" title="Study Area"></s1>
+		<s1 page="0034" title="Abbreviations"></s1>
+		<s1 page="0035" title="Family Russulaceae"></s1>
+		<s1 page="0036" title="Genus !!Lactarius!!">
+			<s2 page="0038" title="Subgenus !!Lactariopsis!!"></s2>
+			<s2 page="0043" title="Subgenus !!Lactarius!!"></s2>
+			<s2 page="0051" title="Subgenus !!Lactifluus!!"></s2>
+			<s2 page="0068" title="Subgenus !!Piperites!!"></s2>
+			<s2 page="0099" title="Subgenus !!Plinthogali!!"></s2>
+			<s2 page="0112" title="Subgenus !!Russularia!!"></s2>
+		</s1>
+		<s1 page="0123" title="Genus !!Russula!!">
+			<s2 page="0125" title="Subgenus !!Amoenula!!"></s2>
+			<s2 page="0133" title="Subgenus !!Compactae!!"></s2>
+			<s2 page="0151" title="Subgenus !!Heterophyllidia!!"></s2>
+			<s2 page="0166" title="Subgenus !!Incrustatula!!"></s2>
+			<s2 page="0176" title="Subgenus !!Ingratula!!"></s2>
+			<s2 page="0193" title="Subgenus !!Russula!!"></s2>
+		</s1>
+		<s1 page="0222" title="Ecological Studies"></s1>
+		<s1 page="0231" title="References"></s1>
+		<s1 page="0250" title="Index"></s1>
+	</book>
+	<book bid="085">
+		<s1 page="0000c" title="Foreword"></s1>
+		<s1 page="0000d" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0009" title="Collection, preservation and methods of studying the fresh water algae"></s1>
+		<s1 page="0012" title="Chlorophyceae"></s1>
+		<s1 page="0153" title="Xanthophyceae"></s1>
+		<s1 page="0160" title="Bacillariophyceae"></s1>
+		<s1 page="0195" title="Dinophyceae"></s1>
+		<s1 page="0198" title="Euglenineae"></s1>
+		<s1 page="0210" title="Rhodophyceae"></s1>
+		<s1 page="0214" title="Myxophyceae"></s1>
+		<s1 page="0265" title="Selected bibliography"></s1>
+		<s1 page="0287" title="Index to botanical names"></s1>
+		<s1 page="0298" title="Index to plates"></s1>
+	</book>
+	<book bid="086">
+		<s1 page="0000c" title="Acknowledgements"></s1>
+		<s1 page="0000e" title="List of Photographs"></s1>
+		<s1 page="0000f" title="List of Tables"></s1>
+		<s1 page="0000h" title="List of Maps"></s1>
+		<s1 page="0000h" title="List of Graphs"></s1>
+		<s1 page="0000h" title="List of Diagrams"></s1>
+		<s1 page="0001" title="I. Introduction">
+			<s2 page="0001" title="Physiography"></s2>
+			<s2 page="0005" title="Drainage System"></s2>
+			<s2 page="0006" title="Geology and Soil"></s2>
+			<s2 page="0012" title="Climate"></s2>
+		</s1>
+		<s1 page="0029" title="II. Past and Present Work">
+			<s2 page="0029" title="Past Work"></s2>
+			<s2 page="0031" title="Reasons for Undertaking"></s2>
+			<s2 page="0031" title="The Present Work"></s2>
+			<s2 page="0032" title="Material and Methods"></s2>
+		</s1>
+		<s1 page="0035" title="III. Vegetation"></s1>
+		<s1 page="0055" title="IV. IUCN Revised Red Data Categories"></s1>
+		<s1 page="0063" title="V. Enumeration of Endemic and Threatened Taxa"></s1>
+		<s1 page="0329" title="VI. Information Regarding International Trade Practices of Some Plants"></s1>
+		<s1 page="0347" title="VII. Discussion"></s1>
+		<s1 page="0391" title="VIII. Conclusion"></s1>
+		<s1 page="0395" title="References"></s1>
+		<s1 page="0405" title="List of Abbreviations"></s1>
+		<s1 page="0407" title="Index to Local Names"></s1>
+		<s1 page="0409" title="Index to Botanical Names"></s1>
+	</book>
+	<book bid="087">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0005" title="Ethnobotany-Aims &amp; Objectives"></s2>
+			<s2 page="0006" title="General note including reasons for undertaking the present work"></s2>
+			<s2 page="0007" title="Present work"></s2>
+		</s1>
+		<s1 page="0008" title="Review of Literature"></s1>
+		<s1 page="0011" title="Topography">
+			<s2 page="0011" title="Location &amp; Boundaries"></s2>
+			<s2 page="0015" title="Drainage"></s2>
+			<s2 page="0015" title="Geology &amp; Soil"></s2>
+		</s1>
+		<s1 page="0016" title="Climate"></s1>
+		<s1 page="0019" title="Vegetation"></s1>
+		<s1 page="0026" title="Tribals"></s1>
+		<s1 page="0039" title="Ethno-Musico-Botany"></s1>
+		<s1 page="0050" title="Methodology"></s1>
+		<s1 page="0054" title="Abbreviations"></s1>
+		<s1 page="0055" title="Enumeration"></s1>
+		<s1 page="0242" title="Discussion &amp; Conclusion"></s1>
+		<s1 page="0289" title="References"></s1>
+		<s1 page="0309" title="Index to Botanical Names"></s1>
+		<s1 page="0319" title="Index to Local Names"></s1>
+	</book>
+	<book bid="088">
+		<s1 page="0001" title="Foreword"></s1>
+		<s1 page="0002" title="Acknowledgements"></s1>
+		<s1 page="0003" title="Preface"></s1>
+		<s1 page="0004" title="Index to Photographs [Plates - A, B, C, D, E, F, G, H]"></s1>
+		<s1 page="0005" title="Introduction, Management, History &amp; General Note"></s1>
+		<s1 page="0012" title="Geology, Geography and Climate"></s1>
+		<s1 page="0021" title="A Short Historical Note with Pst Botanical Work, Present work and Reasons for Undertaking the Project"></s1>
+		<s1 page="0024" title="Tribals"></s1>
+		<s1 page="0026" title="Forest Fauna"></s1>
+		<s1 page="0033" title="Forest Types"></s1>
+		<s1 page="0039" title="Hydrophytes, Epiphytes &amp; Parasites"></s1>
+		<s1 page="0042" title="Weeds of the National park"></s1>
+		<s1 page="0044" title="Monsoon Flora"></s1>
+		<s1 page="0047" title="Floristic Analysis"></s1>
+		<s1 page="0049" title="Medicinal Plants"></s1>
+		<s1 page="0055" title="Economic and Poisonous Plants"></s1>
+		<s1 page="0060" title="Plants of Horticultural Importance"></s1>
+		<s1 page="0062" title="RET Species"></s1>
+		<s1 page="0066" title="Conclusions"></s1>
+		<s1 page="0070" title="Abbreviations"></s1>
+		<s1 page="0072" title="Systematic Enumeration"></s1>
+		<s1 page="0749" title="Bibliography"></s1>
+		<s1 page="0766" title="Index to Botanical Names"></s1>
+		<s1 page="0807" title="Index to Local Names"></s1>
+	</book>
+	<book bid="089">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="Topography"></s2>
+			<s2 page="0002" title="Geology &amp; Soil"></s2>
+			<s2 page="0003" title="Climate"></s2>
+			<s2 page="0004" title="Lichenological Collections and Publications in Sikkim"></s2>
+			<s2 page="0004" title="Material and Methods"></s2>
+			<s2 page="0006" title="Presentation"></s2>
+			<s2 page="0006" title="Lichen Vegetation"></s2>
+			<s2 page="0011" title="Uses"></s2>
+			<s2 page="0012" title="Discussion and Conclusion"></s2>
+		</s1>
+		<s1 page="0015" title="Taxonomic Treatment"></s1>
+		<s1 page="0248" title="References"></s1>
+		<s1 page="0251" title="Index"></s1>
+	</book>
+	<book bid="090">
+		<s1 page="0001" title="I Introduction"></s1>
+		<s1 page="0002" title="II Materialis and Methods"></s1>
+		<s1 page="0004" title="III Topography and Physiognomy"></s1>
+		<s1 page="0007" title="IV Vegetation types"></s1>
+		<s1 page="0011" title="V Factors Affecting the Mangrove Vegetation"></s1>
+		<s1 page="0012" title="VI Natural and Artificial Regeneration"></s1>
+		<s1 page="0016" title="VII Utilization of Mangroves and Conservation"></s1>
+		<s1 page="0019" title="VIII Statistical Analysis on the Mangrove Flora and Conclusions"></s1>
+		<s1 page="0027" title="IX Enumeration of Plants"></s1>
+		<s1 page="0147" title="Bibliography"></s1>
+		<s1 page="0155" title="Index to Families"></s1>
+	</book>
+	<book bid="091">
+		<s1 page="0000c" title="प्राक्क्थन"></s1>
+		<s1 page="0000d" title="आमुख"></s1>
+		<s1 page="0001" title="परिचय एवं इतिहास"></s1>
+		<s1 page="0006" title="वर्गीकरण एवं शैलियॉ"></s1>
+		<s1 page="0009" title="आवश्यक औजार"></s1>
+		<s1 page="0010" title="पात्र एवं मिट्टी"></s1>
+		<s1 page="0013" title="पौध"></s1>
+		<s1 page="0013" title="रोपण"></s1>
+		<s1 page="0017" title="प्रजातियों का चुनाव"></s1>
+		<s1 page="0021" title="बोन्साई-तकनीक"></s1>
+		<s1 page="0034" title="विभिन्न प्रकार के बोन्साई उगाने की तकनीक"></s1>
+		<s1 page="0055" title="बोन्साई का रख-रखाव"></s1>
+		<s1 page="0060" title="विभिन्न ॠतुओं में बोन्साई से सम्बंधित कार्य"></s1>
+		<s1 page="0063" title="कीट तथा रोग"></s1>
+	</book>
+	<book bid="092">
+		<s1 page="0001" title="Artificial Key to the Genera of Orchidaceae"></s1>
+		<s1 page="0238" title="Bibliography"></s1>
+		<s1 page="0240" title="Index of Scientific Names"></s1>
+		<s1 page="0245" title="List of Agents for the Sale of Government of India Publications"></s1>
+	</book>
+	<book bid="093">
+		<s1 page="0000b" title="Foreword"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+	</book>
+	<book bid="094">
+		<s1 page="0001" title="List of Plates"></s1>
+	</book>
+	<book bid="095">
+		<s1 page="0000j" title="Introduction"></s1>
+		<s1 page="0053" title="Cyanophyta">
+			<s2 page="0053" title="Pleurocapsales">
+				<s3 page="0053" title="Hyellaceae">
+					<s4 page="0053" title="!!Hyella caespitosa!! Born. et Flah."></s4>
+				</s3>
+			</s2>
+		</s1>
+		<s1 page="0051" title="Chlorophyta">
+			<s2 page="0051" title="Ulvales">
+				<s3 page="0051" title="Ulvaceae">
+					<s4 page="0051" title="!!Enteromorpha compressa!! (L.) Grev."></s4>
+					<s4 page="0050" title="!!Enteromorpha intestinalis!! (L.) Link. f. !!cornucopiae!! (Lyngb.) J. Ag."></s4>
+					<s4 page="0049" title="!!Ulva fasciata!!"></s4>
+				</s3>
+			</s2>
+			<s2 page="0052" title="Chaetophorales">
+				<s3 page="0052" title="Chaetophoraceae">
+					<s4 page="0052" title="!!Phaeophila dendroides!! (Crouan) Batters"></s4>
+				</s3>
+			</s2>
+			<s2 page="0047" title="Dasycladales">
+				<s3 page="0047" title="Dasycladaceae">
+					<s4 page="0047" title="!!Acetabularia crenulata!! Lamx. var. !!monodisca!! Boergs."></s4>
+				</s3>
+			</s2>
+			<s2 page="0037" title="Siphonocladales">
+				<s3 page="0037" title="Valoniaceae">
+					<s4 page="0037" title="!!Dictyosphaeria cavernosa!! (Forsk.) Boergs."></s4>
+					<s4 page="0036" title="!!Valoniopsis pachynema!! (Martens) Boergs."></s4>
+				</s3>
+			</s2>
+			<s2 page="0048" title="Siphonales">
+				<s3 page="0048" title="Bryopsidaceae">
+					<s4 page="0048" title="!!Bryopsis plumosa!! (Huds.) C. Ag. var. !!pennata!! (Lam.) Boergs."></s4>
+				</s3>
+				<s3 page="0045" title="Caulerpaceae">
+					<s4 page="0045" title="!!Caulerpa corynephora!! Montagne"></s4>
+					<s4 page="0046" title="!!Caulerpa cupressoides!! (Vahl) Weber-van-Bosse"></s4>
+					<s4 page="0041" title="!!Caulerpa peltata!! (Turn.) Lamour."></s4>
+					<s4 page="0042" title="!!Caulerpa racemosa!! (Forsk.) Weber-van-Bosse"></s4>
+					<s4 page="0044" title="!!Caulerpa taxifolia!! (Vahl) Ag."></s4>
+					<s4 page="0043" title="!!Caulerpa verticillata!! J. Ag. f. !!verticillata!!"></s4>
+				</s3>
+				<s3 page="0032" title="Codiaceae">
+					<s4 page="0032" title="!!Codium dwarkense!! Boergs."></s4>
+					<s4 page="0033" title="!!Codium iyengarii!! Boergs."></s4>
+					<s4 page="0031" title="!!Codium tomentosum!! (Hudson) Stack."></s4>
+					<s4 page="0038" title="!!Halimeda macroloba!! Decsne."></s4>
+					<s4 page="0040" title="!!Halimeda opuntia!! (L.) Lamour."></s4>
+					<s4 page="0039" title="!!Halimeda tuna!! (Ell. &amp; Sol.) Lamour."></s4>
+					<s4 page="0035" title="!!Udotea flabellum!! (Ell. &amp; Sol.) Howe"></s4>
+					<s4 page="0034" title="!!Udotea indica!! A. &amp; E. S. Gepp."></s4>
+				</s3>
+			</s2>
+		</s1>
+		<s1 page="0023" title="Phaeophyta">
+			<s2 page="0023" title="Dictyotales">
+				<s3 page="0023" title="Dictyotaceae">
+					<s4 page="0023" title="!!Dictyota ciliata!! J. Ag."></s4>
+					<s4 page="0024" title="!!Dictyota dichotoma!! (Huds.) Lamour. f. !!implexa!! (Lamour.) J. Ag."></s4>
+					<s4 page="0022" title="!!Padina commersonii!! Bory"></s4>
+					<s4 page="0021" title="!!Padina pavonia!! (L.) Lamour."></s4>
+					<s4 page="0025" title="!!Zonaria latissima!! Kütz."></s4>
+				</s3>
+			</s2>
+			<s2 page="0019" title="Chordariales">
+				<s3 page="0019" title="Spermatochnaceae">
+					<s4 page="0019" title="!!Nemacystus decipiens!! (Sur.) Kuck."></s4>
+				</s3>
+			</s2>
+			<s2 page="0020" title="Dictyosiphonales">
+				<s3 page="0020" title="Chnoosporaceae">
+					<s4 page="0020" title="!!Chnoospora fastigiata!! J. Ag. var. !!pacifica!! J. Ag."></s4>
+				</s3>
+			</s2>
+			<s2 page="0029" title="Fucales">
+				<s3 page="0029" title="Sargassaceae">
+					<s4 page="0029" title="!!Sargassum duplicatum!! J. Ag."></s4>
+					<s4 page="0026" title="!!Sargassum polycystum!! C. Ag."></s4>
+					<s4 page="0027" title="!!Sargassum swartzii!! (Turn.) C. Ag."></s4>
+					<s4 page="0028" title="!!Sargassum wightii!! Grev."></s4>
+					<s4 page="0030" title="!!Turbinaria ornata!! J. Ag."></s4>
+				</s3>
+			</s2>
+		</s1>
+		<s1 page="0010" title="Rhodophyta">
+			<s2 page="0010" title="Bangiales">
+				<s3 page="0010" title="Bangiaceae">
+					<s4 page="0010" title="!!Porphyra tenera!! Kjellm."></s4>
+				</s3>
+			</s2>
+			<s2 page="0018" title="Nemalionales">
+				<s3 page="0018" title="Helminthocladiaceae">
+					<s4 page="0018" title="!!Dermonema frappieri!! (Mont. et Millard) Boergs."></s4>
+				</s3>
+			</s2>
+			<s2 page="0003" title="Cryptonemiales">
+				<s3 page="0003" title="Cryptonemiaceae">
+					<s4 page="0003" title="!!Halymenia ceylanica!! Harv."></s4>
+					<s4 page="0002" title="!!Halymenia floresia!! (Clem.) Ag."></s4>
+					<s4 page="0012" title="!!Grateloupia comorinii!! Boergs."></s4>
+					<s4 page="0013" title="!!Grateloupia filicina!! (Wulfen) C. Ag."></s4>
+				</s3>
+				<s3 page="0007" title="Rhizophyllidaceae">
+					<s4 page="0007" title="!!Desmia hornemanni!! Lyngb."></s4>
+				</s3>
+				<s3 page="0011" title="Corallinaceae">
+					<s4 page="0011" title="!!Amphiroa anceps!! (Lamk.) Decsne."></s4>
+				</s3>
+			</s2>
+			<s2 page="0017" title="Gigartinales">
+				<s3 page="0017" title="Gracilariaceae">
+					<s4 page="0017" title="!!Gracilaria corticata!! J. Ag."></s4>
+					<s4 page="0014" title="!!Gracilaria fergusonii!! J. Ag."></s4>
+					<s4 page="0016" title="!!Gracilaria pygmaea!! Boergs."></s4>
+					<s4 page="0015" title="!!Gracilaria verrucosa!! (Huds.) Papenfuss"></s4>
+				</s3>
+			</s2>
+			<s2 page="0005" title="Ceramiales">
+				<s3 page="0005" title="Ceramiaceae">
+					<s4 page="0005" title="!!Griffithsia flabelliformis!! Harv."></s4>
+				</s3>
+				<s3 page="0008" title="Rhodomelaceae">
+					<s4 page="0008" title="!!Acanthophora delilie!! Lamour."></s4>
+					<s4 page="0004" title="!!Enantiocladia prolifera!! (Grev.) Falkenb."></s4>
+					<s4 page="0009" title="!!Laurencia pedicularioides!! Boergs."></s4>
+					<s4 page="0001" title="!!Lophocladia lallemandi!! (Mont.) Schmitz."></s4>
+					<s4 page="0006" title="!!Polysiphonia variegata!! (Ag.) Zan."></s4>
+				</s3>
+			</s2>
+			<s2 page="0054" title="Bacillariophyta"></s2>
+			<s2 page="0055" title="Bibliography"></s2>
+			<s2 page="0058" title="Corrigenda"></s2>
+		</s1>
+	</book>
+	<book bid="096">
+		<s1 page="0000ad" title="Introduction"></s1>
+		<s1 page="0000ar" title="Acknowledgements"></s1>
+		<s1 page="0000as" title="Photo Plates"></s1>
+		<s1 page="0001" title="Acanthaceae"></s1>
+		<s1 page="0062" title="Aceraceae"></s1>
+		<s1 page="0065" title="Actinidiaceae"></s1>
+		<s1 page="0066" title="Adoxaceae"></s1>
+		<s1 page="0066" title="Aizoaceae"></s1>
+		<s1 page="0067" title="Alangiaceae"></s1>
+		<s1 page="0068" title="Amaranthaceae"></s1>
+		<s1 page="0077" title="Anacardiaceae"></s1>
+		<s1 page="0084" title="Ancistrocladaceae"></s1>
+		<s1 page="0085" title="Annonaceae"></s1>
+		<s1 page="0098" title="Apiaceae [Umbelliferae]"></s1>
+		<s1 page="0127" title="Apocynaceae"></s1>
+		<s1 page="0142" title="Aquifoliaceae"></s1>
+		<s1 page="0145" title="Araliaceae"></s1>
+		<s1 page="0154" title="Aristolochiaceae"></s1>
+		<s1 page="0157" title="Asclepiadaceae"></s1>
+		<s1 page="0184" title="Asteraceae [Compositae]"></s1>
+		<s1 page="0299" title="Avicenniaceae"></s1>
+		<s1 page="0300" title="Index"></s1>
+		<s1 page="0364" title="List of New Names and New Combinations Proposed"></s1>
+	</book>
+	<book bid="097">
+		<s1 page="0007" title="Preface"></s1>
+		<s1 page="0009" title="Introduction"></s1>
+		<s1 page="0017" title="Enumeration of the Plants of Purandhar"></s1>
+		<s1 page="0144" title="Appendix I"></s1>
+		<s1 page="0147" title="Bibliography"></s1>
+		<s1 page="0149" title="Index of Scientific Names"></s1>
+	</book>
+	<book bid="098">
+		<s1 page="0001" title="Chapter I : From the Beginning to the Middle of Wallich's Service">
+			<s2 page="0001" title="I. Introduction"></s2>
+			<s2 page="0004" title="II. Garcia da Orta and others of the 16th century"></s2>
+			<s2 page="0006" title="III. The Dutch take a hand"></s2>
+			<s2 page="0008" title="IV. London takes a hand"></s2>
+			<s2 page="0010" title="V. Benefactors, Botanists and Collectors"></s2>
+			<s2 page="0011" title="VI. The student's discusion by an atrocious uminspired nomenclature"></s2>
+			<s2 page="0012" title="VII. A new approach in Madras"></s2>
+			<s2 page="0014" title="VIII. Benefactors"></s2>
+			<s2 page="0015" title="IX. On the activity of the Madras Botanists very praise-worthy in its simple honesty"></s2>
+			<s2 page="0019" title="X. Contemporaries in Pondicherry and in Ceylon"></s2>
+			<s2 page="0021" title="XI. Calcutta to the front"></s2>
+			<s2 page="0029" title="XII. The unsatisfied allure of the Himalaya"></s2>
+			<s2 page="0031" title="XIII. The Surveyors"></s2>
+			<s2 page="0032" title="XIV. Wallich and Royle from 1821 to 1828"></s2>
+			<s2 page="0034" title="XV. Peninsular India and Ceylon over the same period"></s2>
+			<s2 page="0037" title="XVI. Wallich's great bid for help in Europe"></s2>
+			<s2 page="0039" title="XVII. The opening of the way to Kashmir"></s2>
+		</s1>
+		<s1 page="0041" title="Chapter II : The Advances, and in Particular the Plant Collecting of the Thirties and Forties of the 19th Century">
+			<s2 page="0041" title="I. Introduction"></s2>
+			<s2 page="0044" title="II. William Carey and his connections"></s2>
+			<s2 page="0046" title="III. The unobstrusive leadership of Robert Wight"></s2>
+			<s2 page="0053" title="IV. Further collecting in Southern India"></s2>
+			<s2 page="0056" title="V. `The Assam Delegation' to enquire into the possibility of a tea-industry in north-eastern India"></s2>
+			<s2 page="0063" title="VI. Griffith's further service"></s2>
+			<s2 page="0066" title="VII. Wallich's second period of service and the destruction of the First Calcutta Botanic Garden"></s2>
+			<s2 page="0072" title="VIII. Griffith as a botanist"></s2>
+			<s2 page="0074" title="IX. The interior of northern India"></s2>
+			<s2 page="0074" title="X. Edgeworth, the first Ecologist"></s2>
+			<s2 page="0075" title="XI. Three botanical explorers of Kashmir who were allowed entry during the life of Ranjit Singh"></s2>
+			<s2 page="0077" title="XII. Penetration of the Himalaya between the rivers Sutlej and Kali"></s2>
+			<s2 page="0082" title="XIII. Three attempts to examine the Himalayan flora in depth"></s2>
+			<s2 page="0086" title="XIV. Western India"></s2>
+			<s2 page="0088" title="XV. Wight's immediate successors in Madras"></s2>
+			<s2 page="0088" title="XVI. Mosses studied but Lower Cryptograms await further development of the microscope"></s2>
+			<s2 page="0090" title="XVII. Fellowship as an aid to individual effort"></s2>
+			<s2 page="0091" title="XVIII. Retrospective"></s2>
+		</s1>
+		<s1 page="0093" title="Chapter III : At the Middle of the 19th Century">
+			<s2 page="0093" title="I. The East India Company and Botany"></s2>
+			<s2 page="0094" title="II. The botanists whose activities connect the second chapter with this chapter"></s2>
+			<s2 page="0102" title="III. Botanic gardens&#8212;the Botanist's first caravanserais"></s2>
+			<s2 page="0108" title="IV. Gardens added from 1830 using botanical taxonomy to serve their purposes"></s2>
+			<s2 page="0110" title="V. Horticulture in alliance"></s2>
+			<s2 page="0113" title="VI. The larger Museums in India and their growth in educational value"></s2>
+		</s1>
+		<s1 page="0120" title="Chapter IV : The Royal Gardens at Kew Begin to Guide the Direction of Botany in India">
+			<s2 page="0120" title="I. Retrospective"></s2>
+			<s2 page="0122" title="II. The growth of Kew that made it the place for the international assimilation of Indian studies"></s2>
+			<s2 page="0123" title="III. The great collections of Sir Joseph Hooker and Dr. Thomas Thomson link Kew and India together : that which Kew regards as specific limitations passes to India, to India's great advantage"></s2>
+			<s2 page="0125" title="IV. Hooker makes the best possible use of the hold-up of his Flora Indica"></s2>
+			<s2 page="0126" title="V. General William Munro (1818-1880)"></s2>
+			<s2 page="0126" title="VI. Hugh Falconer, Superintendent of the Saharanpur, Garden 1832 to 1841, and Superintendent of the Calcutta Garden, 1848 to 1855"></s2>
+			<s2 page="0128" title="VII. Thomas Thomson (1817-1878)"></s2>
+			<s2 page="0129" title="VIII. Thomas Anderson, the last of the Superintendents of the Second Calcutta Botanic Garden"></s2>
+			<s2 page="0134" title="IX. Chronology of the introduction of Cinchona into India"></s2>
+			<s2 page="0137" title="X. On the botanical side of Pharmacology"></s2>
+			<s2 page="0139" title="XI. C. A. Barber (1861&#8212;1933)"></s2>
+			<s2 page="0139" title="XII. The Mungpu Community"></s2>
+			<s2 page="0141" title="XIII. Further collections of the end of the century"></s2>
+		</s1>
+		<s1 page="0143" title="Chapter V : The Undertaking of Two Great Enterprises, the Flora of the Higher Plants and the Forest Service">
+			<s2 page="0143" title="I. A text-book for the taxonomy of Indian flowering plants"></s2>
+			<s2 page="0144" title="II. The India Office realises the prior need of a flora"></s2>
+			<s2 page="0144" title="III. Charles Baron Clarke (1832-1908)"></s2>
+			<s2 page="0147" title="IV. Hooker's helpers and progress with Flora of British India"></s2>
+			<s2 page="0147" title="V. Sir George Campbell endeavours to promote the teaching of Botany with a unforeseen result"></s2>
+			<s2 page="0149" title="VI. The Saharanpur Garden during the time of the second Calcutta Garden, and after"></s2>
+			<s2 page="0151" title="VII. Prairie Fires"></s2>
+			<s2 page="0154" title="VIII. Safeguarding the growth of teak in Burma"></s2>
+			<s2 page="0155" title="IX. Teak in the peninsula of India"></s2>
+			<s2 page="0157" title="X. Two illustrations of Silviculture as applied ecology"></s2>
+			<s2 page="0158" title="XI. The Indian Forest Service had three stages"></s2>
+			<s2 page="0158" title="XII. Sir Dietrich Brandis and those under him in the Forest Service who were botanically-minded"></s2>
+			<s2 page="0167" title="XIII. The third Calcutta Garden : the Garden of Sir George King and Sir David Prain"></s2>
+		</s1>
+		<s1 page="0174" title="Chapter VI : The Publication of Hooker's Flora of British India and What its Publication Released">
+			<s2 page="0174" title="I. The publication of Hooker's Flora of British India releases floras of divisional or sub-areas"></s2>
+			<s2 page="0177" title="II. Cooper's Hill and a more favourable outlook in India towards Botany"></s2>
+			<s2 page="0180" title="III. Vascular Cryptogams over the half century"></s2>
+			<s2 page="0183" title="IV. The microscope is greatly improved and Botany profits in understanding the Lower Plants; Effective collecting of them begins in Ceylon"></s2>
+			<s2 page="0185" title="V. A great step forward in the botanic laboratory though very hesitatingly taken"></s2>
+			<s2 page="0188" title="VI. By whose botanizing came the recognition of an unlike flora towards the Persian Gulf"></s2>
+			<s2 page="0189" title="VII. Behind the Persian flora is the Afghan Flora"></s2>
+			<s2 page="0190" title="VIII. Ascertaining what the Himalaya shuts out from India"></s2>
+			<s2 page="0195" title="IX. The floras of Further India and the way in which a knowledge of them grew"></s2>
+			<s2 page="0198" title="X. Sir Joseph Hooker exposes in a new way some of the phyto-geographic past of India"></s2>
+			<s2 page="0203" title="XI. Planning in Ceylon"></s2>
+			<s2 page="0207" title="XII. A great stride forward comes through the Universities"></s2>
+		</s1>
+		<s1 page="0208" title="Chapter VII : An Epilogue">
+			<s2 page="0208" title="I. General Review"></s2>
+			<s2 page="0209" title="II. Man and the Pleistocene Ice Age"></s2>
+			<s2 page="0210" title="III. Domestication of the Dog"></s2>
+			<s2 page="0210" title="IV. Domestication of the Sheep"></s2>
+			<s2 page="0211" title="V. Man's first appearance"></s2>
+			<s2 page="0214" title="VI. 7,000 to 3,000 B. C."></s2>
+			<s2 page="0215" title="VII. The potter discovers copper"></s2>
+			<s2 page="0216" title="VIII. Letters"></s2>
+			<s2 page="0217" title="IX. Public granaries"></s2>
+			<s2 page="0217" title="X. The thirteenth century B. C."></s2>
+			<s2 page="0218" title="XI. The Shepherd"></s2>
+			<s2 page="0219" title="XII. Expansion"></s2>
+			<s2 page="0220" title="XIII. A possible course of events"></s2>
+			<s2 page="0224" title="XIV. North Temperate East Asia"></s2>
+			<s2 page="0224" title="XV. Tropical South-East Asia"></s2>
+			<s2 page="0228" title="XVI. Why it was that the Greeks were those to whom the origin of Botany is attributed"></s2>
+			<s2 page="0229" title="XVII. Botany in Europe during the Renaissance and later"></s2>
+			<s2 page="0232" title="Summary"></s2>
+			<s2 page="0233" title="Acknowledgments"></s2>
+		</s1>
+	</book>	
+	<book bid="099">
+		<s1 page="0000c" title="Foreword"></s1>
+		<s1 page="0000d" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0044" title="Systematic Treatment"></s1>
+		<s1 page="0606" title="Threats to Biodiversity"></s1>
+		<s1 page="0608" title="Suggestions for Conservation"></s1>
+		<s1 page="0610" title="Points for Further Research"></s1>
+		<s1 page="0612" title="Appendix-I"></s1>
+		<s1 page="0624" title="Bibliography"></s1>
+		<s1 page="0657" title="Index to Scientific Names"></s1>
+		<s1 page="0684" title="Index to Tamil Names"></s1>
+	</book>
+	<book bid="100">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0004" title="Botanic Gardens&#8212;Objectives &amp; functions"></s1>
+		<s1 page="0006" title="Requirements of Botanic Gardens"></s1>
+		<s1 page="0009" title="A. Government Gardens">
+			<s2 page="0010" title="Indian Botanic Garden (Calcutta), Howrah"></s2>
+			<s2 page="0014" title="National Orchidarium and Botanic Garden, `Woodlands', Botanical Survey of Indian, Eastern Circle, Shillong"></s2>
+			<s2 page="0013" title="Experimental Gardens, Botanical Survey of Indian"></s2>
+			<s2 page="0015" title="Barapani Experimental Garden, Botanical Survey of India, Eastern Circle, Shillong"></s2>
+			<s2 page="0016" title="Experimental Garden, Botanical Survey of India, Western Circle, Pune"></s2>
+			<s2 page="0017" title="Experimental Garden, Botanical Survey of India, Northern Circle, Dehra Dun"></s2>
+			<s2 page="0018" title="National Orchidarium and Experimental Garden, Botanical Survey of India, Southern Circle, Yercaud"></s2>
+			<s2 page="0019" title="Experimental Garden, Botanical Survey of India, Central Circle, Allahabad"></s2>
+			<s2 page="0020" title="Experimental Garden, Botanical Survey of India, Andaman and Nicobar Circle, Port Blair"></s2>
+			<s2 page="0021" title="Experimental Garden, Botanical Survey of India, Arunachal Field Station, Itanagar"></s2>
+			<s2 page="0022" title="Government Garden (Motilal Nehru, Park), Allahabad"></s2>
+			<s2 page="0023" title="Ram Bagh, Amritsar"></s2>
+			<s2 page="0024" title="Lalbagh Garden, Bangalore"></s2>
+			<s2 page="0026" title="State Botanical Garden, Barang"></s2>
+			<s2 page="0027" title="State Horticultural Farm, Burliar"></s2>
+			<s2 page="0028" title="Government Gardens, Eden Gardens, Calcutta"></s2>
+			<s2 page="0030" title="Government Gardens, Chaubattia"></s2>
+			<s2 page="0031" title="Narendra Narayan Park, Cooch Behar"></s2>
+			<s2 page="0032" title="Sim's Park, Coonoor"></s2>
+			<s2 page="0034" title="Pomological Station, Coonoor"></s2>
+			<s2 page="0035" title="Lloyd Botanic Garden, Darjeeling"></s2>
+			<s2 page="0036" title="Botanical Garden, Forest Research Institure and Colleges, Dehra Dun"></s2>
+			<s2 page="0038" title="State Horticultural Farm, Kallar"></s2>
+			<s2 page="0039" title="The Bryant Park, Kodaikanal"></s2>
+			<s2 page="0040" title="State Horticultural Research Station, Krishnanagar"></s2>
+			<s2 page="0042" title="Botanic Garden, National Botanical Research Institute, Lucknow"></s2>
+			<s2 page="0044" title="Government Botanic Gardens, Ootacamund (Udhagamandalam)"></s2>
+			<s2 page="0047" title="The Botanical Garden, Pondicherry"></s2>
+			<s2 page="0048" title="Jawaharlal Nehru Botanic Garden, Rumtek, Sikkim"></s2>
+			<s2 page="0049" title="Horticultural Experiment and Training Centre, Saharanpur"></s2>
+			<s2 page="0051" title="Botanic Garden, Orchid Research and Development Centre, Tippi, Bhalukpong"></s2>
+			<s2 page="0053" title="Government Botanic Gardens, Trivandrum"></s2>
+			<s2 page="0054" title="Botanical Gardens, Waghai&#8212;Dangs"></s2>
+		</s1>
+		<s1 page="0055" title="B. Parks and Gardens of Public and Academic Interest">
+			<s2 page="0057" title="Botanical Garden, Agra College, Agra"></s2>
+			<s2 page="0058" title="The Retreat Botanical Garden, Shahibag, Ahmedabad"></s2>
+			<s2 page="0059" title="Sri Chamarajendra Park (Cubbon Park), Bangalore"></s2>
+			<s2 page="0062" title="Jawahar Kunj Garden, Barrackpore"></s2>
+			<s2 page="0063" title="Garden Complex, BHEL, Bhopal"></s2>
+			<s2 page="0064" title="Veermata Jijabai Bhosle Udyan and Pranisangrahalaya, Bombay"></s2>
+			<s2 page="0065" title="The Agri-Horticultural Society of Indian, Calcutta"></s2>
+			<s2 page="0067" title="Assembly House Garden, Calcutta"></s2>
+			<s2 page="0069" title="Bidhan Sishu Udyan, Calcutta"></s2>
+			<s2 page="0071" title="Deshbandhu Park, Calcutta"></s2>
+			<s2 page="0072" title="Jatindra Mohan Park, Calcutta"></s2>
+			<s2 page="0074" title="Jheel Meel Safari Park, Calcutta"></s2>
+			<s2 page="0076" title="National Library Garden, Calcutta"></s2>
+			<s2 page="0077" title="Raj Bhavan Garden, Calcutta"></s2>
+			<s2 page="0079" title="Tollygunge Club Garden, Calcutta"></s2>
+			<s2 page="0081" title="Victoria Memorial Garden, Calcutta"></s2>
+			<s2 page="0083" title="Botanic Garden, Darjeeling Government College, Darjeeling"></s2>
+			<s2 page="0084" title="Padmaja Naidu Himalayan Zoological Park, Darjeeling"></s2>
+			<s2 page="0086" title="Botanical Garden, National Bureau of Plant Genetic Resources (NBPGR), Horticulture Section, Delhi"></s2>
+			<s2 page="0087" title="Jubilee Park, Jamshedpur"></s2>
+			<s2 page="0089" title="TELCO Garden and Nursery, Jamshedpur"></s2>
+			<s2 page="0090" title="Botanic Garden, Central Arid Zone Research Institute, Jodhpur"></s2>
+			<s2 page="0091" title="Ganga Niwas Garden, Jodhpur"></s2>
+			<s2 page="0092" title="Mandore Garden, Jodhpur"></s2>
+			<s2 page="0094" title="Nehru Park, Jodhpur"></s2>
+			<s2 page="0095" title="Umaid Garden, Jodhpur"></s2>
+			<s2 page="0097" title="Gardens of the Kashmir Valleys: Shalimar Gardens, Srinagar">
+				<s3 page="0098" title="Nishat Bagh, Srinagar"></s3>
+				<s3 page="0099" title="Chashma-e-Shahi Garden, Srinagar"></s3>
+			</s2>
+			<s2 page="0100" title="Botanic Garden, Central Drug Research Institute, Lucknow"></s2>
+			<s2 page="0101" title="Agri-Horticultural Society, Madras"></s2>
+			<s2 page="0102" title="Pampavana, Munirabad"></s2>
+			<s2 page="0103" title="Curzon Park and Nishat Baugh of Mysore City"></s2>
+			<s2 page="0105" title="Brindavan Gardens, Mysore"></s2>
+			<s2 page="0107" title="Buddha Jayanti Park, New Delhi"></s2>
+			<s2 page="0108" title="Lodi Garden, New Delhi"></s2>
+			<s2 page="0110" title="Nehru Park, New Delhi"></s2>
+			<s2 page="0111" title="The Rashtrapati Bhavan Garden, New Delhi"></s2>
+			<s2 page="0112" title="Talkatora Garden, New Delhi"></s2>
+			<s2 page="0114" title="Mughal Garden, Pinjore"></s2>
+			<s2 page="0115" title="Botanical Garden, Bihar Agricultural College, Sabour"></s2>
+			<s2 page="0116" title="Raj Bhavan Garden, Sikkim"></s2>
+			<s2 page="0117" title="Gandhi Park, Sirohi"></s2>
+			<s2 page="0118" title="Tropical Botanic Garden, Trivandrum"></s2>
+			<s2 page="0120" title="A few other Gardens of Public and Academic interest in different States and Union Territories">
+				<s3 page="0120" title="Assam"></s3>
+				<s3 page="0120" title="Delhi"></s3>
+				<s3 page="0121" title="Himachal Pradesh"></s3>
+				<s3 page="0121" title="Kerala"></s3>
+				<s3 page="0122" title="Maharashtra"></s3>
+				<s3 page="0123" title="Meghalaya"></s3>
+				<s3 page="0123" title="Rajasthan"></s3>
+				<s3 page="0124" title="Tamil Nadu"></s3>
+				<s3 page="0126" title="Uttar Pradesh"></s3>
+				<s3 page="0126" title="West Bengal"></s3>
+			</s2>
+		</s1>
+		<s1 page="0133" title="C. University Botanic Gardens">
+			<s2 page="0136" title="Aligarh Muslim University Botanic Garden, Aligarh"></s2>
+			<s2 page="0135" title="Gujarat University USSC Botanic Garden, Ahmedabad"></s2>
+			<s2 page="0137" title="Kulbhaskar Ashram Post Graduate College Botanic Garden, Allahabad"></s2>
+			<s2 page="0139" title="Roxburgh Botanic Garden, University of Allahabad, Allahabad"></s2>
+			<s2 page="0140" title="Botanical Garden, Guru Nanak Dev University, Amritsar"></s2>
+			<s2 page="0141" title="Botanica Garden, Marathwada University, Aurangabad"></s2>
+			<s2 page="0143" title="Botanical Garden, Gandhi Krishi Vigyana Kendra, Bangalore"></s2>
+			<s2 page="0144" title="Maharaja Sayajirao University, Botanical Garden, Baroda"></s2>
+			<s2 page="0145" title="Botanical Garden, Post Graduate Department of Botany, Bhagalpur University"></s2>
+			<s2 page="0146" title="Utkal University Botanic Garden, Bhubaneswar"></s2>
+			<s2 page="0147" title="Magadh University Botanical Garden, Bodh Gaya"></s2>
+			<s2 page="0148" title="Burdwan University Botanic Garden, Burdwan"></s2>
+			<s2 page="0149" title="Experimental cum Botanic Garden, Department of Botany, University of Calcutta, Calcutta"></s2>
+			<s2 page="0150" title="Calicut University Botanical Garden, Calicut"></s2>
+			<s2 page="0151" title="Panjab University Botanical Garden, Chandigarh"></s2>
+			<s2 page="0152" title="University Botanic Gardens, Tamil Nadu Agricultural University (TNAU), Coimbatore"></s2>
+			<s2 page="0153" title="Botanic Garden, Bidhan Chandra Krishi Viswavidyalaya (BCKV), North Bengal Campus, Cooch Behar"></s2>
+			<s2 page="0154" title="Botanical Garden, Delhi University, Delhi"></s2>
+			<s2 page="0155" title="Botanical Garden (Motibag), Gujarat Agricultural University, Junagadh"></s2>
+			<s2 page="0156" title="Hortus Maduraiensis Mu. Va. Botanical Garden"></s2>
+			<s2 page="0157" title="Botanical Garden, Meerut University, Meerut"></s2>
+			<s2 page="0158" title="Botanic Gardens, Punjabi University, Patiala"></s2>
+			<s2 page="0160" title="Botanic Garden, University of Poona"></s2>
+			<s2 page="0161" title="Botanical Gardens, Department of Biosciences, Ravi Sankar University, Raipur"></s2>
+		</s1>
+	</book>
+	<book bid="101">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Definitions of Categories/Status International Union for Conservation of Nature and Natural Resources&#8212;Threatened Plants Committee"></s1>
+		<s1 page="0006" title="Proforma for the IUCN Plant Red Data Book"></s1>
+		<s1 page="0008" title="Enumeration - Peninsular India"></s1>
+	</book>
+	<book bid="102">
+		<s1 page="0001" title="Tiger Reserves">
+			<s2 page="0001" title="Bandipur National Park"></s2>
+			<s2 page="0003" title="Buxa Tiger Reserve"></s2>
+			<s2 page="0005" title="Corbett National Park"></s2>
+			<s2 page="0009" title="Indravati National Park"></s2>
+			<s2 page="0011" title="Kanha National Park"></s2>
+			<s2 page="0015" title="Manas Tiger Reserve"></s2>
+			<s2 page="0019" title="Melghat Tiger Reserve"></s2>
+			<s2 page="0023" title="Nagarjuna Sagar Srisailam Sanctuary"></s2>
+			<s2 page="0026" title="Namdapha Wild Life Sanctuary"></s2>
+			<s2 page="0030" title="Palamau Tiger Reserve"></s2>
+			<s2 page="0032" title="Periyar National Park"></s2>
+			<s2 page="0034" title="Ranthambore National Park"></s2>
+			<s2 page="0038" title="Similipal National Park"></s2>
+			<s2 page="0040" title="Sundarban Tiger Reserve"></s2>
+		</s1>
+		<s1 page="0045" title="Other Tiger Habitats">
+			<s2 page="0045" title="Bori Wild Life Sanctuary"></s2>
+			<s2 page="0047" title="Darrah Wild Life Sanctuary"></s2>
+			<s2 page="0050" title="Dudhwa National Park"></s2>
+			<s2 page="0055" title="Kaziranga National Park"></s2>
+			<s2 page="0057" title="Mudumalai Wild Life Sanctuary"></s2>
+			<s2 page="0060" title="Nagzira Wild Life Sanctuary"></s2>
+			<s2 page="0062" title="Nawegaon National Park"></s2>
+			<s2 page="0064" title="Neyyar Wild Life Sanctuary"></s2>
+			<s2 page="0068" title="Pakhal Wild Life Sanctuary"></s2>
+			<s2 page="0070" title="Bibliography"></s2>
+		</s1>
+	</book>
+	<book bid="103">
+		<s1 page="0002" title="A Contribution to the Botany of Nanda Devi National Park in Uttar Pradesh, India"></s1>
+		<s1 page="0009" title="Enumeration"></s1>
+	</book>
+	<book bid="104">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0093" title="References"></s1>
+	</book>
+	<book bid="105">
+		<s1 page="0004" title="Foreword"></s1>
+		<s1 page="0005" title="Preface"></s1>
+		<s1 page="0006" title="Introduction">
+			<s2 page="0006" title="Distribution in India"></s2>
+			<s2 page="0007" title="Conservation measures"></s2>
+			<s2 page="0007" title="Cultivation note"></s2>
+			<s2 page="0007" title="Generic description"></s2>
+			<s2 page="0011" title="Key to the species">
+				<s3 page="0012" title="!!Paphiopedilum venustum!! (Wall. ex Sims) Pfitz."></s3>
+				<s3 page="0013" title="!!Paphiopedilum insigne!! (Wall. ex Lindl.) Pfitz."></s3>
+				<s3 page="0014" title="!!Paphiopedilum villosum!! (Lindl.) Stein"></s3>
+				<s3 page="0015" title="!!Paphiopedilum druryi!! (Bedd.) Stein"></s3>
+				<s3 page="0016" title="!!Paphiopedilum hirsutissimum!! (Lindl.) Stein"></s3>
+				<s3 page="0017" title="!!Paphiopedilum spicerianum!! (Reichb. f.) Pfitz."></s3>
+				<s3 page="0018" title="!!Paphiopedilum fairieanum!! (Lindl.) Stein"></s3>
+				<s3 page="0019" title="!!Cypripedium elegans!! Reichb. f."></s3>
+				<s3 page="0020" title="!!Cypripedium tibeticum!! King ex Rolfe"></s3>
+				<s3 page="0021" title="!!Cypripedium cordigerum!! D. Don"></s3>
+				<s3 page="0022" title="!!Cypripedium hilmalaicum!! Rolfe"></s3>
+			</s2>
+		</s1>
+		<s1 page="0023" title="Selected References"></s1>
+		<s1 page="0024" title="About the project POSSCEF"></s1>
+	</book>
+	<book bid="106">
+		<s1 page="0001" title="Dudhwal National Park"></s1>
+	</book>
+	<book bid="107">
+		<s1 page="0001" title="A Preliminary Inventory of Orchidaceae in India"></s1>
+		<s1 page="0131" title="Bibliography"></s1>
+	</book>
+	<book bid="108">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0000f" title="Acknowledgements"></s1>
+		<s1 page="0000i" title="I. Introduction">
+			<s2 page="0000i" title="1. Biodiversity and Conservation"></s2>
+			<s2 page="0000j" title="2. Conservation of Biodiversity"></s2>
+			<s2 page="0000k" title="3. International Organisations for Biodiversity Conservation">
+				<s3 page="0000k" title="3A. International Union for Conservation of Nature and Natural Resources (IUCN)"></s3>
+				<s3 page="0000k" title="3B. Species Survival Commission"></s3>
+				<s3 page="0000l" title="3C. Convention on International Trade in Endangered Species of Wild Flora and Fauna (CITES)"></s3>
+				<s3 page="0000l" title="3D. Trade Records Analysis of Fauna and Flora in Commerce (TRAFFIC)"></s3>
+				<s3 page="0000l" title="3E. Convention of Biological Diversity (CBD)"></s3>
+				<s3 page="0000m" title="3F. World Wide Fund for Nature (WWF)"></s3>
+				<s3 page="0000m" title="3G. World Conservation Monitoring Center (WCMC)"></s3>
+			</s2>
+			<s2 page="0000m" title="4. Contributors to the 1997 IUCN Red List of Threatened Plants"></s2>
+			<s2 page="0000m" title="5. Authentic Reference Documents on Diodiversity Conservation">
+				<s3 page="0000m" title="5A. Red Lists and Red Data Books of Threatened Species"></s3>
+				<s3 page="0000n" title="5B. Red Data Books"></s3>
+				<s3 page="0000o" title="5C. Cites Appendices"></s3>
+			</s2>
+			<s2 page="0000o" title="6. System of Categories of Threatened Species">
+				<s3 page="0000o" title="6A. Pre-1994 Categories of Threatened Plants"></s3>
+				<s3 page="0000p" title="6B. IUCN 1994 Red List Categories"></s3>
+				<s3 page="0000q" title="6C. Cites Appendices"></s3>
+			</s2>
+			<s2 page="0000r" title="7. Threat Status of Indian Vascular Plant Species">
+				<s3 page="0000r" title="7A. Threat Status at the Global and Indian Levels"></s3>
+				<s3 page="0000r" title="7B. Degree of Threat to Genera and Species in Different Families in India"></s3>
+			</s2>
+			<s2 page="0000s" title="8. Reading the Lists"></s2>
+			<s2 page="0000t" title="9. References"></s2>
+		</s1>
+		<s1 page="0001" title="II. List of Threatened Species of Vascular Plants in India"></s1>
+		<s1 page="0132" title="III. References (to literature entries in the list)"></s1>
+	</book>
+	<book bid="109">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0118" title="Conservation and Management of Andhra Pradesh Mangals"></s1>
+		<s1 page="0126" title="Index"></s1>
+	</book>
+	<book bid="110">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0005" title="Physiography of Indian Coast">
+			<s2 page="0005" title="Gujarat Coast"></s2>
+			<s2 page="0005" title="West Coast"></s2>
+			<s2 page="0007" title="East Coast"></s2>
+		</s1>
+		<s1 page="0008" title="Geomorphology of Indian Coast">
+			<s2 page="0008" title="Off-Shore Geomorphology"></s2>
+			<s2 page="0010" title="On-Shore Geomorphology"></s2>
+			<s2 page="0012" title="Coast Land Geomorphology"></s2>
+		</s1>
+		<s1 page="0013" title="General Topography of the Coastal Zone">
+			<s2 page="0016" title="Classification of Coastal Zones in India"></s2>
+		</s1>
+		<s1 page="0017" title="Geology of Indian Coast">
+			<s2 page="0018" title="Erosional and Depositional Land-Forms of Indian Coastal Zone"></s2>
+			<s2 page="0018" title="Depositional Land-Forms Or Coastal Dune Formation"></s2>
+		</s1>
+		<s1 page="0020" title="Climate of Indian Coast">
+			<s2 page="0022" title="Climate and Soil of Gujarat Coast"></s2>
+			<s2 page="0022" title="Climate and Soil of West Coast"></s2>
+			<s2 page="0027" title="Climate and Soil of East Coast"></s2>
+			<s2 page="0028a" title="Diagramatic view of Salinity, D.O., Nitrate &amp; Phosphate"></s2>
+			<s2 page="0029" title="Climate and Soil of Lakshadweep Islands"></s2>
+			<s2 page="0030" title="Climate and Soil of Bay Islands"></s2>
+		</s1>
+		<s1 page="0031" title="Potentiality of Indian Coast, Shore and Off-Shore Regions">
+			<s2 page="0031" title="Application of Coast Zone"></s2>
+			<s2 page="0031" title="Application of Shore Zone"></s2>
+			<s2 page="0031" title="Application of Beach Zone"></s2>
+			<s2 page="0032" title="Potentiality of Sand Dunes"></s2>
+			<s2 page="0032" title="Importance of Beach Terrace"></s2>
+			<s2 page="0032" title="Importance of Littoral Concretes"></s2>
+			<s2 page="0032" title="Importance of Low Level Laterite and Teris"></s2>
+			<s2 page="0032" title="Application of Off Shore Zone"></s2>
+		</s1>
+		<s1 page="0034" title="Habitat and Plant Communities of the Indian Coast">
+			<s2 page="0035" title="Outline of the Plant Zonation and Classification of Coastal Plant Communities in India"></s2>
+		</s1>
+		<s1 page="0037" title="Classification of Coastal Plant Communities">
+			<s2 page="0037" title="Dry Coastal Plant Community"></s2>
+			<s2 page="0040" title="Plant Communities of the Coastal States"></s2>
+			<s2 page="0044" title="Wet Coastal Plant Community"></s2>
+			<s2 page="0044" title="Phytoplankton in the Indian Coast"></s2>
+			<s2 page="0049" title="Mangroves of the Indian Coast"></s2>
+			<s2 page="0077" title="Salt Marshes of the Indian Coast"></s2>
+			<s2 page="0078" title="Marine Coral Strand of the Indian Coast"></s2>
+			<s2 page="0080" title="Seagrasses of the Indian Coast"></s2>
+			<s2 page="0086" title="Sea Weeds of the Indian Coast"></s2>
+			<s2 page="0096" title="Distribution of Algal Flora along the Indian Coast"></s2>
+			<s2 page="0112" title="Fungal Flora of the Indian Coast"></s2>
+			<s2 page="0112" title="Lichen Flora of Costal India"></s2>
+		</s1>
+		<s1 page="0116" title="Some of the Important Habitats in the Wet Coastal System">
+			<s2 page="0116" title="Lakshadweep Islands"></s2>
+			<s2 page="0117" title="Coastal Lagoon&#8212;Lake Chilka"></s2>
+			<s2 page="0118" title="Rann of Kuchchh&#8212;A Coastal Desert"></s2>
+			<s2 page="0119" title="Oceanic Groups of Islands&#8212;Andaman and Nicobar"></s2>
+			<s2 page="0120" title="Dry Coastal Plant Communities of Andaman Islands"></s2>
+			<s2 page="0121" title="Wet Coastal Plant Communities of Andaman Islands"></s2>
+			<s2 page="0122" title="Inland Flora of Andaman Islands"></s2>
+		</s1>
+		<s1 page="0123" title="Assessment of Plant Communities in Different Coastal Zones">
+			<s2 page="0123" title="Main Plant Communities of Gujarat Coast"></s2>
+			<s2 page="0131" title="Sand Strand Plant Communities of Konkan Coast"></s2>
+			<s2 page="0133" title="Sand Strant Plant Communities of Malabar Coast"></s2>
+			<s2 page="0135" title="Sand Strand Plant Communities of Coromandel&#8212;Circar Coast"></s2>
+			<s2 page="0138" title="Plant Communities of Rocky Strand"></s2>
+			<s2 page="0140" title="Wet Coastal Plant Communities in East Coast"></s2>
+		</s1>
+		<s1 page="0142" title="The Offshore Region of Indian Coastal System (Exclusive Economic Zone)"></s1>
+		<s1 page="0146" title="Coastal Livelihood"></s1>
+		<s1 page="0149" title="History of Coastal Flora in India"></s1>
+		<s1 page="152a" title="Special Adaptation of Coastal Plants in India"></s1>
+		<s1 page="0153" title="Flora of Indian Coast">
+			<s2 page="0153" title="Dilleneaceae"></s2>
+			<s2 page="0427" title="Poaceae"></s2>
+		</s1>
+		<s1 page="0428" title="Addition to the Coastal Flora in India">
+			<s2 page="0428" title="Ranunculaceae"></s2>
+			<s2 page="0463" title="Poaceae"></s2>
+		</s1>
+		<s1 page="0465" title="Assessment of Coastal Plant Communities In India"></s1>
+		<s1 page="0468" title="List of Sea Weeds Reported from the Indian Coast"></s1>
+		<s1 page="0478" title="Threat to Coastal Ecosystem in India"></s1>
+		<s1 page="0489" title="Management"></s1>
+		<s1 page="0496" title="Management Strategies, Future Proposal and Approaches Towards the Conservation of Coastal Areas in India"></s1>
+		<s1 page="0501" title="References"></s1>
+		<s1 page="0511" title="Index"></s1>
+	</book>
+	<book bid="111">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0023" title="Analysis"></s1>
+		<s1 page="0023" title="Ranunculaceae"></s1>
+		<s1 page="0026" title="Dilleniaceae"></s1>
+		<s1 page="0026" title="Magnoliaceae"></s1>
+		<s1 page="0027" title="Annonaceae"></s1>
+		<s1 page="0030" title="Menispermaceae"></s1>
+		<s1 page="0032" title="Berberidaceae"></s1>
+		<s1 page="0033" title="Nymphaeaceae"></s1>
+		<s1 page="0034" title="Nelumbonaceae"></s1>
+		<s1 page="0034" title="Papaveraceae"></s1>
+		<s1 page="0035" title="Fumariaceae"></s1>
+		<s1 page="0035" title="Brassicaceae"></s1>
+		<s1 page="0041" title="Capparaceae"></s1>
+		<s1 page="0043" title="Violaceae"></s1>
+		<s1 page="0045" title="Bixaceae"></s1>
+		<s1 page="0045" title="Cochlospermaceae"></s1>
+		<s1 page="0045" title="Flacourtiaceae"></s1>
+		<s1 page="0047" title="Pittosporaceae"></s1>
+		<s1 page="0048" title="Polygalaceae"></s1>
+		<s1 page="0050" title="Caryophyllaceae"></s1>
+		<s1 page="0053" title="Portulacaceae"></s1>
+		<s1 page="0054" title="Tamaricaceae"></s1>
+		<s1 page="0055" title="Elatinaceae"></s1>
+		<s1 page="0055" title="Hypericaceae"></s1>
+		<s1 page="0056" title="Clusiaceae"></s1>
+		<s1 page="0057" title="Theaceae"></s1>
+		<s1 page="0057" title="Dipterocarpaceae"></s1>
+		<s1 page="0058" title="Malvaceae"></s1>
+		<s1 page="0071" title="Bombacaceae"></s1>
+		<s1 page="0072" title="Sterculiaceae"></s1>
+		<s1 page="0077" title="Tiliaceae"></s1>
+		<s1 page="0083" title="Elaeocarpaceae"></s1>
+		<s1 page="0084" title="Linaceae"></s1>
+		<s1 page="0084" title="Erythroxylaceae"></s1>
+		<s1 page="0084" title="Malpighiaceae"></s1>
+		<s1 page="0086" title="Zygophyllaceae"></s1>
+		<s1 page="0087" title="Geraniaceae"></s1>
+		<s1 page="0087" title="Tropaeolaceae"></s1>
+		<s1 page="0087" title="Oxalidaceae"></s1>
+		<s1 page="0088" title="Averrhoaceae"></s1>
+		<s1 page="0089" title="Balsaminaceae"></s1>
+		<s1 page="0089" title="Rutaceae"></s1>
+		<s1 page="0094" title="Simaroubaceae"></s1>
+		<s1 page="0094" title="Balanitaceae"></s1>
+		<s1 page="0095" title="Ochnaceae"></s1>
+		<s1 page="0095" title="Burseraceae"></s1>
+		<s1 page="0096" title="Meliaceae"></s1>
+		<s1 page="0101" title="Olacaceae"></s1>
+		<s1 page="0101" title="Opiliaceae"></s1>
+		<s1 page="0102" title="Icacinaceae"></s1>
+		<s1 page="0102" title="Aquifoliaceae"></s1>
+		<s1 page="0102" title="Celastraceae"></s1>
+		<s1 page="0104" title="Siphonodontaceae"></s1>
+		<s1 page="0104" title="Hippocrateaceae"></s1>
+		<s1 page="0105" title="Rhamnaceae"></s1>
+		<s1 page="0109" title="Vitaceae"></s1>
+		<s1 page="0113" title="Leeaceae"></s1>
+		<s1 page="0115" title="Sapindaceae"></s1>
+		<s1 page="0116" title="Sabiaceae"></s1>
+		<s1 page="0117" title="Anacardiaceae"></s1>
+		<s1 page="0119" title="Moringaceae"></s1>
+		<s1 page="0119" title="Fabaceae"></s1>
+		<s1 page="0166" title="Caesalpiniaceae"></s1>
+		<s1 page="0177" title="Mimosaceae"></s1>
+		<s1 page="0185" title="Rosaceae"></s1>
+		<s1 page="0189" title="Vahliaceae"></s1>
+		<s1 page="0190" title="Crassulaceae"></s1>
+		<s1 page="0191" title="Droseraceae"></s1>
+		<s1 page="0192" title="Haloragidaceae"></s1>
+		<s1 page="0193" title="Callitrichaceae"></s1>
+		<s1 page="0193" title="Rhizophoraceae"></s1>
+		<s1 page="0193" title="Combretaceae"></s1>
+		<s1 page="0197" title="Myrtaceae"></s1>
+		<s1 page="0202" title="Lecythidaceae"></s1>
+		<s1 page="0203" title="Melastomataceae"></s1>
+		<s1 page="0205" title="Lythraceae"></s1>
+		<s1 page="0209" title="Punicaceae"></s1>
+		<s1 page="0210" title="Onagraceae"></s1>
+		<s1 page="0211" title="Trapaceae"></s1>
+		<s1 page="0211" title="Turneraceae"></s1>
+		<s1 page="0211" title="Passifloraceae"></s1>
+		<s1 page="0212" title="Caricaceae"></s1>
+		<s1 page="0212" title="Cucurbitaceae"></s1>
+		<s1 page="0220" title="Begoniaceae"></s1>
+		<s1 page="0221" title="Cactaceae"></s1>
+		<s1 page="0222" title="Aizoaceae"></s1>
+		<s1 page="0223" title="Molluginaceae"></s1>
+		<s1 page="0224" title="Apiaceae"></s1>
+		<s1 page="0230" title="Araliaceae"></s1>
+		<s1 page="0232" title="Alangiaceae"></s1>
+		<s1 page="0232" title="Rubiaceae"></s1>
+		<s1 page="0250" title="Asteraceae"></s1>
+		<s1 page="0282" title="Stylidiaceae"></s1>
+		<s1 page="0283" title="Campanulaceae"></s1>
+		<s1 page="0283" title="Lobeliaceae"></s1>
+		<s1 page="0284" title="Sphenocleaceae"></s1>
+		<s1 page="0286" title="Vacciniaceae"></s1>
+		<s1 page="0286" title="Plumbaginaceae"></s1>
+		<s1 page="0287" title="Primulaceae"></s1>
+		<s1 page="0288" title="Myrsinaceae"></s1>
+		<s1 page="0289" title="Theophrastaceae"></s1>
+		<s1 page="0289" title="Sapotaceae"></s1>
+		<s1 page="0291" title="Ebenaceae"></s1>
+		<s1 page="0293" title="Symplocaceae"></s1>
+		<s1 page="0294" title="Oleaceae"></s1>
+		<s1 page="0299" title="Salvadoraceae"></s1>
+		<s1 page="0299" title="Apocynaceae"></s1>
+		<s1 page="0306" title="Asclepiadaceae"></s1>
+		<s1 page="0315" title="Loganiaceae"></s1>
+		<s1 page="0317" title="Buddlejaceae"></s1>
+		<s1 page="0317" title="Gentianaceae"></s1>
+		<s1 page="0321" title="Menyanthaceae"></s1>
+		<s1 page="0321" title="Polemoniaceae"></s1>
+		<s1 page="0322" title="Hydrophyllaceae"></s1>
+		<s1 page="0322" title="Boraginaceae"></s1>
+		<s1 page="0328" title="Convolvulaceae"></s1>
+		<s1 page="0341" title="Cuscutaceae"></s1>
+		<s1 page="0342" title="Solanaceae"></s1>
+		<s1 page="0349" title="Scrophulariaceae"></s1>
+		<s1 page="0364" title="Orobanchaceae"></s1>
+		<s1 page="0366" title="Lentibulariaceae"></s1>
+		<s1 page="0368" title="Gesneriaceae"></s1>
+		<s1 page="0369" title="Bignoniaceae"></s1>
+		<s1 page="0376" title="Pedaliaceae"></s1>
+		<s1 page="0377" title="Acanthaceae"></s1>
+		<s1 page="0397" title="Verbenaceae"></s1>
+		<s1 page="0407" title="Lamiaceae"></s1>
+		<s1 page="0423" title="Plantaginaceae"></s1>
+		<s1 page="0424" title="Nyctaginaceae"></s1>
+		<s1 page="0425" title="Amaranthaceae"></s1>
+		<s1 page="0432" title="Chenopodiaceae"></s1>
+		<s1 page="0433" title="Basellaceae"></s1>
+		<s1 page="0434" title="Phytolaccaceae"></s1>
+		<s1 page="0434" title="Polygonaceae"></s1>
+		<s1 page="0439" title="Aristolochiaceae"></s1>
+		<s1 page="0440" title="Piperaceae"></s1>
+		<s1 page="0441" title="Lauraceae"></s1>
+		<s1 page="0445" title="Proteaceae"></s1>
+		<s1 page="0446" title="Loranthaceae"></s1>
+		<s1 page="0447" title="Santalaceae"></s1>
+		<s1 page="0448" title="Balanophoraceae"></s1>
+		<s1 page="0448" title="Euphorbiaceae"></s1>
+		<s1 page="0469" title="Urticaceae"></s1>
+		<s1 page="0473" title="Ulmaceae"></s1>
+		<s1 page="0474" title="Cannabaceae"></s1>
+		<s1 page="0475" title="Moraceae"></s1>
+		<s1 page="0483" title="Casuarinaceae"></s1>
+		<s1 page="0483" title="Salicaceae"></s1>
+		<s1 page="0484" title="Ceratophyllaceae"></s1>
+		<s1 page="0484" title="Hydrocharitaceae"></s1>
+		<s1 page="0486" title="Burmanniaceae"></s1>
+		<s1 page="0486" title="Orchidaceae"></s1>
+		<s1 page="0505" title="Zingiberaceae"></s1>
+		<s1 page="0514" title="Costaceae"></s1>
+		<s1 page="0514" title="Marantaceae"></s1>
+		<s1 page="0515" title="Musaceae"></s1>
+		<s1 page="0515" title="Strelitziaceae"></s1>
+		<s1 page="0516" title="Cannaceae"></s1>
+		<s1 page="0516" title="Bromeliaceae"></s1>
+		<s1 page="0516" title="Iridaceae"></s1>
+		<s1 page="0517" title="Amaryllidaceae"></s1>
+		<s1 page="0519" title="Hypoxidaceae"></s1>
+		<s1 page="0520" title="Agavaceae"></s1>
+		<s1 page="0521" title="Taccaceae"></s1>
+		<s1 page="0522" title="Dioscoreaceae"></s1>
+		<s1 page="0525" title="Liliaceae"></s1>
+		<s1 page="0531" title="Pontederiaceae"></s1>
+		<s1 page="0531" title="Xyridaceae"></s1>
+		<s1 page="0532" title="Commelinaceae"></s1>
+		<s1 page="0537" title="Flagellariaceae"></s1>
+		<s1 page="0537" title="Juncaceae"></s1>
+		<s1 page="0537" title="Arecaceae"></s1>
+		<s1 page="0541" title="Pandanaceae"></s1>
+		<s1 page="0541" title="Cyclanthaceae"></s1>
+		<s1 page="0542" title="Typhaceae"></s1>
+		<s1 page="0542" title="Araceae"></s1>
+		<s1 page="0549" title="Lemnaceae"></s1>
+		<s1 page="0550" title="Alismataceae"></s1>
+		<s1 page="0552" title="Limnocharitaceae"></s1>
+		<s1 page="0552" title="Najadaceae"></s1>
+		<s1 page="0553" title="Aponogetonaceae"></s1>
+		<s1 page="0554" title="Potamogetonaceae"></s1>
+		<s1 page="0555" title="Ruppiaceae"></s1>
+		<s1 page="0555" title="Zannichelliaceae"></s1>
+		<s1 page="0556" title="Eriocaulaceae"></s1>
+		<s1 page="0558" title="Cyperaceae"></s1>
+		<s1 page="0587" title="Poaceae"></s1>
+		<s1 page="0663" title="Bibliography"></s1>
+		<s1 page="0681" title="Index">
+			<s2 page="0681" title="1. Botanical Names"></s2>
+			<s2 page="0775" title="2. Local Names"></s2>
+		</s1>
+	</book>
+	<book bid="112">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Morphological characters"></s1>
+		<s1 page="0021" title="Genus Hedyotis L."></s1>
+		<s1 page="0029" title="Key to the sections and species"></s1>
+		<s1 page="0038" title="Description of sections and species"></s1>
+		<s1 page="0181" title="Plates of Pollen grains"></s1>
+		<s1 page="0195" title="Appendix - I : Micro Characters of Pollen Grains"></s1>
+		<s1 page="0203" title="References"></s1>
+		<s1 page="0207" title="Index to names"></s1>
+	</book>
+	<book bid="113">
+		<s1 page="0000c" title="Foreword"></s1>
+		<s1 page="0000d" title="Preface"></s1>
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="Geographical location"></s2>
+			<s2 page="0003" title="Topographical and physical features"></s2>
+			<s2 page="0003" title="Drainage"></s2>
+			<s2 page="0003" title="Geology and soil"></s2>
+			<s2 page="0004" title="Climate"></s2>
+			<s2 page="0005" title="People"></s2>
+			<s2 page="0005" title="Fauna"></s2>
+			<s2 page="0006" title="Vegetation"></s2>
+			<s2 page="0006" title="Adaptation of vegetation to the extreme climate"></s2>
+			<s2 page="0008" title="Reproductive strategies"></s2>
+			<s2 page="0009" title="Specialized habits as survival strategy"></s2>
+			<s2 page="0009" title="Introduced phytodiversity"></s2>
+			<s2 page="0009" title="Cultigens"></s2>
+			<s2 page="0010" title="Medicinal and other economic plants"></s2>
+			<s2 page="0011" title="Wild relatives of cultivated plants"></s2>
+			<s2 page="0011" title="Endemic plants"></s2>
+			<s2 page="0011" title="Threatened plants"></s2>
+			<s2 page="0012" title="Biotic and natural interferences"></s2>
+			<s2 page="0012" title="Previous botanical explorations"></s2>
+			<s2 page="0013" title="Floristic analysis"></s2>
+			<s2 page="0015" title="Phytogeographical analysis"></s2>
+			<s2 page="0015" title="Conservation"></s2>
+		</s1>
+		<s1 page="0017" title="Materials and Methods">
+			<s2 page="0017" title="Field survey, collection and preservation"></s2>
+			<s2 page="0017" title="Identification"></s2>
+			<s2 page="0017" title="Ethnobotanical information"></s2>
+			<s2 page="0018" title="Presentation style"></s2>
+		</s1>
+		<s1 page="0020" title="Key to the Groups and Families"></s1>
+		<s1 page="0025" title="Systematic Enumeration"></s1>
+		<s1 page="0270" title="References"></s1>
+		<s1 page="0281" title="Index to Vernacular Names"></s1>
+		<s1 page="0285" title="Index to Botanical Names"></s1>
+	</book>
+	<book bid="114">
+		<s1 page="0001" title="I. Introduction"></s1>
+		<s1 page="0017" title="II. Artificial Guide to the Genera"></s1>
+		<s1 page="0105" title="III. Summary of the Natural System"></s1>
+		<s1 page="0123" title="IV. Bengal Plants :&#8212;">
+			<s2 page="0123" title="!!A. Phanerogamia :!!">
+				<s3 page="0123" title="I. Thalamiflorae"></s3>
+				<s3 page="0253" title="II. Calyciflorae"></s3>
+				<s3 page="0399" title="III. Corolliflorae"></s3>
+				<s3 page="0643" title="IV. Incompletae"></s3>
+				<s3 page="0743" title="V. Gymnospermeae"></s3>
+				<s3 page="0746" title="VI. Monocotyledones"></s3>
+			</s2>
+			<s2 page="0933" title="!!B. Cryptogamia :!!">
+				<s3 page="0933" title="VII. Filices"></s3>
+				<s3 page="0955" title="VIII. Rhizocarpeae"></s3>
+				<s3 page="0957" title="IX. Equisetineae"></s3>
+				<s3 page="0958" title="X. Lycopodineae"></s3>
+			</s2>
+		</s1>
+		<s1 page="0961" title="V. Appendix"></s1>
+		<s1 page="0969" title="Index"></s1>
+	</book>
+	<book bid="115">
+		<s1 page="0491" title="IV. Bengal Plants"></s1>
+		<s1 page="0961" title="V. Appendix"></s1>
+		<s1 page="0969" title="Index"></s1>
+	</book>
+	<book bid="116">
+		<s1 page="0825" title="The Botany of Bihar and Orissa"></s1>
+		<s1 page="1287" title="Appendix I."></s1>
+		<s1 page="1307" title="Appendix II. Additamenta"></s1>
+		<s1 page="1315" title="Index"></s1>
+	</book>
+	<book bid="117">
+		<s1 page="0001" title="Flora of Bombay"></s1>
+		<s1 page="0613" title="Index of Genera, Species and Synonyms"></s1>
+		<s1 page="0628" title="Index to Vernacular Names"></s1>
+	</book>
+	<book bid="118">
+		<s1 page="0001" title="Flora of Bombay"></s1>
+		<s1 page="0597" title="Index of Orders, Genera, Species and Synonyms"></s1>
+		<s1 page="0613" title="Index to Vernacular Names"></s1>
+	</book>
+	<book bid="119">
+		<s1 page="0411" title="Flora of Madras"></s1>
+	</book>
+	<book bid="120">
+		<s1 page="0001" title="Part I">
+			<s2 page="0000e" title="Preface"></s2>
+			<s2 page="0000k" title="Table of Contents"></s2>
+			<s2 page="0001" title="Introduction">
+				<s3 page="0001" title="Chap. I. Area and Boundaries"></s3>
+				<s3 page="0001" title="Chap. II. Topography and Geology"></s3>
+				<s3 page="0019" title="Chap. III. Climate (with Rainfall map)"></s3>
+				<s3 page="0028" title="Chap. IV. General Character of the Flora and Botanical Formation"></s3>
+				<s3 page="0071" title="Chap. V. Special Notes on Hazaribagh and Monghyr (from other authors)"></s3>
+				<s3 page="0077" title="Chap. VI. Classification">
+					<s4 page="0077" title="General Principles and Data"></s4>
+					<s4 page="0080" title="Pteridophyta"></s4>
+					<s4 page="0081" title="Supermophyta"></s4>
+					<s4 page="0086" title="Conspectus of Orders and Families">
+						<s5 page="0086" title="Pteridophyta"></s5>
+						<s5 page="0090" title="Gymnosperms"></s5>
+						<s5 page="0092" title="Angiosperms :&#8212;">
+							<s6 page="0092" title="Dicotyledons"></s6>
+							<s6 page="0147" title="Monocotyledons"></s6>
+						</s5>
+					</s4>
+				</s3>
+			</s2>
+			<s2 page="0158" title="Abbreviations and Signs"></s2>
+			<s2 page="0161" title="Glossary of Botanical Terms Used"></s2>
+			<s2 page="0186" title="Table of Corresponding English and Metric Lengths"></s2>
+			<s2 page="0187" title="Index to Part I"></s2>
+		</s1>
+		<s1 page="0003" title="Parts II&#8212;VI The Flora">
+			<s2 page="0003" title="Dicotyledons :&#8212;">
+				<s3 page="0003" title="Thalamiflorae (with Euphorbiaceae, Callitrichaceae, Aizoaceae and Samydaceae)"></s3>
+				<s3 page="0155" title="Disciflorae"></s3>
+				<s3 page="0235" title="Calyciflorae"></s3>
+				<s3 page="0439" title="Gamopetalae"></s3>
+				<s3 page="0793" title="Monochlamvdeae"></s3>
+			</s2>
+			<s2 page="0884" title="Monocotyledons"></s2>
+			<s2 page="1235" title="Vascular Cryptogams"></s2>
+			<s2 page="1281" title="Gymnosperms"></s2>
+			<s2 page="1287" title="Appendices :&#8212;">
+				<s3 page="1287" title="I. List of Plants collected by Buchanan-Hamilton in Bihar now in the Wallichian Herbarium at Kew"></s3>
+				<s3 page="1307" title="II. Additamenta : Description of Species Omitted"></s3>
+			</s2>
+			<s2 page="1315" title="Index to Parts II-VI"></s2>
+		</s1>
+	</book>
+	<book bid="121">
+		<s1 page="0943" title="Flora of Mardas"></s1>
+		<s1 page="1071" title="Flora of Mardas"></s1>
+		<s1 page="1173" title="Flora of Mardas"></s1>
+		<s1 page="1291" title="Addenda"></s1>
+		<s1 page="1311" title="Index to Botanical Names"></s1>
+		<s1 page="1373" title="Index to Vernacular Names"></s1>
+	</book>
+	<book bid="122">
+		<s1 page="0001" title="Flora of Bombay"></s1>
+		<s1 page="0098" title="Excluded Species"></s1>
+		<s1 page="0577" title="General Index to Orders, Genera, Species and Synonyms"></s1>
+		<s1 page="0637" title="General Index to Vernacular Names"></s1>
+	</book>
+	<book bid="123">
+		<s1 page="0000ac" title="Preface to the Re-printed Edition"></s1>
+		<s1 page="0000ad" title="Foreword"></s1>
+		<s1 page="0000ae" title="Preface"></s1>
+		<s1 page="0000ag" title="Contents of the Whole Work"></s1>
+		<s1 page="0000ah" title="Author's Note"></s1>
+		<s1 page="0000aj" title="Notes on Part XI"></s1>
+		<s1 page="0000ak" title="General Description of the Flora"></s1>
+		<s1 page="0000ap" title="Abbreviations and Signs, Including Bibliography"></s1>
+		<s1 page="0000as" title="Glossary of Botanical Terms Used"></s1>
+		<s1 page="0000bf" title="Artificial Key to the Families"></s1>
+		<s1 page="0001" title="Flora"></s1>
+		<s1 page="1291" title="Addenda"></s1>
+		<s1 page="1311" title="Index to Botanical Names"></s1>
+		<s1 page="1373" title="Index to Vernacular Names"></s1>
+	</book>
+	<book bid="124">
+		<s1 page="0235" title="The Botany of Bihar and Orissa"></s1>
+		<s1 page="0439" title="Division II.&#8212;Gamopetalae"></s1>
+		<s1 page="0793" title="Division III.&#8212;Apetalae"></s1>
+	</book>
+	<book bid="125">
+		<s1 page="0001" title="Flora of the Upper Gangetic Plain and of the Adjacent Siwalik and Sub-Himalayan Tracts"></s1>
+		<s1 page="0127" title="Flora of the Upper Gangetic Plain and of the Adjacent Siwalik and Sub-Himalayan Tracts"></s1>
+		<s1 page="0259" title="Flora of the Upper Gangetic Plain and of the Adjacent Siwalik and Sub-Himalayan Tracts &#8212; Class II. Gymnosperms"></s1>
+		<s1 page="0349" title="Flora of the Upper Gangetic Plain and of the Adjacent Siwalik and Sub-Himalayan Tracts"></s1>
+		<s1 page="0419" title="Index to Natural Orders, Genera and Species"></s1>
+		<s1 page="0461" title="Index of Local Names"></s1>
+	</book>
+</s4>

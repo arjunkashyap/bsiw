@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE s2 SYSTEM "s2.dtd">
+
+<s2>
+	<book bid="001">
+		<s1 page="0000af" title="Foreword"></s1>
+		<s1 page="0000ag" title="Preface"></s1>
+		<s1 page="0001" title="Introdution"></s1>
+		<s1 page="0041" title="Ranunculaceae to Dipsacaceae"></s1>
+		<s1 page="0623" title="Selected Bibliography"></s1>
+		<s1 page="0637" title="Index of Botanical names"></s1>
+		<s1 page="0685" title="Index of Local names"></s1>
+	</book>
+	<book bid="002">
+		<s1 page="0001" title="ASTERACEAE"></s1>
+		<s1 page="0054" title="CAMPANULACEAE"></s1>
+		<s1 page="0057" title="ERICACEAE"></s1>
+		<s1 page="0099" title="PLUMBAGINACEAE"></s1>
+		<s1 page="0100" title="PRIMULACEAE"></s1>
+		<s1 page="0112" title="MYRSINACEAE"></s1>
+		<s1 page="0129" title="SAPOTACEAE"></s1>
+		<s1 page="0132" title="EBENACEAE"></s1>
+		<s1 page="0134" title="STYRACACEAE"></s1>
+		<s1 page="0135" title="SYMPLOCACEAE"></s1>
+		<s1 page="0141" title="OLEACEAE"></s1>
+		<s1 page="0151" title="APOCYNACEAE"></s1>
+		<s1 page="0163" title="ASCLEPIADACEAE"></s1>
+		<s1 page="0175" title="LOGANIACEAE"></s1>
+		<s1 page="0177" title="BUDDLEJACEAE"></s1>
+		<s1 page="0179" title="GENTIANACEAE"></s1>
+		<s1 page="0185" title="HYDROPHYLLACEAE"></s1>
+		<s1 page="0185" title="BORAGINACEAE"></s1>
+		<s1 page="0191" title="CONVOLVULACEAE"></s1>
+		<s1 page="0197" title="CUSCUTACEAE"></s1>
+		<s1 page="0198" title="SOLANACEAE"></s1>
+		<s1 page="0209" title="SCROPHULARIACEAE"></s1>
+		<s1 page="0222" title="OROBANCHACEAE"></s1>
+		<s1 page="0222" title="LENTIBULARIACEAE"></s1>
+		<s1 page="0223" title="GESNERIACEAE"></s1>
+		<s1 page="0235" title="BIGNONIACEAE"></s1>
+		<s1 page="0239" title="PEDALIACEAE"></s1>
+		<s1 page="0239" title="ACANTHACEAE"></s1>
+		<s1 page="0259" title="VERBENACEAE"></s1>
+		<s1 page="0275" title="LAMIACEAE"></s1>
+		<s1 page="0299" title="PLANTAGINACEAE"></s1>
+		<s1 page="0299" title="NYCTAGINACEAE"></s1>
+		<s1 page="0300" title="AMARANTHACEAE"></s1>
+		<s1 page="0305" title="CHENOPODIACEAE"></s1>
+		<s1 page="0306" title="PHYTOLACCACEAE"></s1>
+		<s1 page="0306" title="POLYGONACEAE"></s1>
+		<s1 page="0318" title="PODOSTEMACEAE"></s1>
+		<s1 page="0318" title="RAFFLESIACEAE"></s1>
+		<s1 page="0319" title="VRISTOLOCHIACEAE"></s1>
+		<s1 page="0320" title="PIPERACEAE"></s1>
+		<s1 page="0328" title="SAURURACEAE"></s1>
+		<s1 page="0328" title="CHLORANTHACEAE"></s1>
+		<s1 page="0329" title="MYRISTICACEAE"></s1>
+		<s1 page="0331" title="LAURACEAE"></s1>
+		<s1 page="0346" title="PROTEACEAE"></s1>
+		<s1 page="0346" title="THYMELAEACEAE"></s1>
+		<s1 page="0350" title="ELAEAGNACEAE"></s1>
+		<s1 page="0352" title="LORANTHACEAE"></s1>
+		<s1 page="0358" title="SANTALACEAE"></s1>
+		<s1 page="0359" title="BALANOPHORACEAE"></s1>
+		<s1 page="0360" title="EUPHORBIACEAE"></s1>
+		<s1 page="0386" title="ULMACEAE"></s1>
+		<s1 page="0388" title="CANNABACEAE"></s1>
+		<s1 page="0388" title="MORACEAE"></s1>
+		<s1 page="0407" title="URTICACEAE"></s1>
+		<s1 page="0424" title="JUGLANDACEAE"></s1>
+		<s1 page="0425" title="MYRICACEAE"></s1>
+		<s1 page="0426" title="BETULACEAE"></s1>
+		<s1 page="0427" title="FAGACEAE"></s1>
+		<s1 page="0434" title="SALICACEAE"></s1>
+		<s1 page="0436" title="CERATOPHYLLACEAE"></s1>
+		<s1 page="0437" title="Index to Botanical Names"></s1>
+		<s1 page="0486" title="Index to Local Names"></s1>
+	</book>
+	<book bid="003">
+		<s1 page="0001" title="HYDROCHARITACEAE"></s1>
+		<s1 page="0001" title="ORCHIDACEAE"></s1>
+		<s1 page="0169" title="ZINGIBERACEAE"></s1>
+		<s1 page="0183" title="MARANTACEAE"></s1>
+		<s1 page="0184" title="MUSACEAE"></s1>
+		<s1 page="0186" title="CANNACEAE"></s1>
+		<s1 page="0186" title="IRIDACEAE"></s1>
+		<s1 page="0187" title="TACCACEAE"></s1>
+		<s1 page="0187" title="DIOSCOREACEAE"></s1>
+		<s1 page="0193" title="STEMONACEAE"></s1>
+		<s1 page="0193" title="AGAVACEAE"></s1>
+		<s1 page="0193" title="LILIACEAE"></s1>
+		<s1 page="0207" title="SMILACACEAE"></s1>
+		<s1 page="0211" title="PONTEDERIACEAE"></s1>
+		<s1 page="0212" title="COMMELINACEAE"></s1>
+		<s1 page="0220" title="JUNCACEAE"></s1>
+		<s1 page="0222" title="ARECACEAE"></s1>
+		<s1 page="0227" title="PANDANACEAE"></s1>
+		<s1 page="0227" title="ARACEAE"></s1>
+		<s1 page="0241" title="LEMNACEAE"></s1>
+		<s1 page="0242" title="BUTOMACEAE"></s1>
+		<s1 page="0243" title="POTAMOGETONACEAE"></s1>
+		<s1 page="0244" title="ERIOCAULACEAE"></s1>
+		<s1 page="0245" title="CYPERACEAE"></s1>
+		<s1 page="0271" title="POACEAE"></s1>
+		<s1 page="0313" title="Index to Botanical Names"></s1>
+	</book>
+	<book bid="004">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000f" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Enumeration"></s1>
+		<s1 page="0637" title="Bibliography"></s1>
+		<s1 page="0749" title="Addenda &amp; Corrigenda"></s1>
+		<s1 page="0761" title="Emendanda"></s1>
+		<s1 page="0763" title="Index to Botanical Names"></s1>
+		<s1 page="0791" title="Index to Marathi Names"></s1>
+	</book>
+	<book bid="005">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0000g" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Introductory Chapters for the Flora of Maharashtra State"></s1>
+		<s1 page="0134" title="Key to Families"></s1>
+		<s1 page="0151" title="Ranunculaceae"></s1>
+		<s1 page="0851" title="Index to Botanical Names"></s1>
+		<s1 page="0881" title="Index to Vernacular/Common Names"></s1>
+		<s1 page="0889" title="Addenda &amp; Corrigenda"></s1>
+		<s1 page="0893" title="Emendanda"></s1>
+	</book>
+	<book bid="006">
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0000f" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Systematic Enumeration"></s1>
+		<s1 page="0953" title="Addenda &amp; Corrigenda"></s1>
+		<s1 page="1011" title="Index to Botanical Names"></s1>
+		<s1 page="1071" title="Index to Vernacular/Common Names"></s1>
+		<s1 page="1080" title="Emendatus"></s1>
+	</book>
+	<book bid="007">
+		<s1 page="0000d" title="Acknowledgements"></s1>
+		<s1 page="0000e" title="Contributors"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0015" title="Selected References"></s1>
+		<s1 page="0023" title="Enumeration of the Species"></s1>
+		<s1 page="0307" title="Index to Botanical Names"></s1>
+	</book>
+	<book bid="008">
+		<s1 page="0000f" title="Foreward"></s1>
+		<s1 page="0000g" title="Contributors"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0067" title="References"></s1>
+		<s1 page="0079" title="Key to the Families"></s1>
+		<s1 page="0113" title="RANUNCULACEAE"></s1>
+		<s1 page="0134" title="DILLENIACEAE"></s1>
+		<s1 page="0137" title="MAGNOLIACEAE"></s1>
+		<s1 page="0141" title="ANNONACEAE"></s1>
+		<s1 page="0155" title="MENISPERMACEAE"></s1>
+		<s1 page="0164" title="BERBERIDACEAE"></s1>
+		<s1 page="0171" title="PODOPHYLLACEAE"></s1>
+		<s1 page="0173" title="LARDIZABALACEAE"></s1>
+		<s1 page="0175" title="NYMPHAEACEAE"></s1>
+		<s1 page="0179" title="NELUMBONACEAE"></s1>
+		<s1 page="0180" title="PAPAVERACEAE"></s1>
+		<s1 page="0185" title="BRASSICACEAE"></s1>
+		<s1 page="0198" title="FUMARIACEAE"></s1>
+		<s1 page="0203" title="CAPPARACEAE"></s1>
+		<s1 page="0213" title="VIOLACEAE"></s1>
+		<s1 page="0223" title="BIXACEAE"></s1>
+		<s1 page="0224" title="COCHLOSPERMACEAE"></s1>
+		<s1 page="0227" title="FLACOURTIACEAE"></s1>
+		<s1 page="0231" title="PITTOSPORACEAE"></s1>
+		<s1 page="0233" title="POLYGALACEAE"></s1>
+		<s1 page="0238" title="CARYOPHYLLACEAE"></s1>
+		<s1 page="0253" title="PORTULACACEAE"></s1>
+		<s1 page="0256" title="TAMARICACEAE"></s1>
+		<s1 page="0257" title="ELATINACEAE"></s1>
+		<s1 page="0259" title="HYPERICACEAE"></s1>
+		<s1 page="0266" title="CLUSIACEAE"></s1>
+		<s1 page="0272" title="THEACEAE"></s1>
+		<s1 page="0276" title="ACTINIDIACEAE"></s1>
+		<s1 page="0277" title="SAURAUIACEAE"></s1>
+		<s1 page="0280" title="STACHYURACEAE"></s1>
+		<s1 page="0281" title="DIPTEROCARPACEAE"></s1>
+		<s1 page="0284" title="MALVACEAE"></s1>
+		<s1 page="0314" title="BOMBACACEAE"></s1>
+		<s1 page="0318" title="STERCULIACEAE"></s1>
+		<s1 page="0334" title="TILIACEAE"></s1>
+		<s1 page="0343" title="ELAEOCARPACEAE"></s1>
+		<s1 page="0348" title="LINACEAE"></s1>
+		<s1 page="0351" title="MALPIGHIACEAE"></s1>
+		<s1 page="0354" title="ZYGOPHYLLACEAE"></s1>
+		<s1 page="0355" title="GERANIACEAE"></s1>
+		<s1 page="0358" title="BALSAMINACEAE"></s1>
+		<s1 page="0371" title="TROPAEOLACEAE"></s1>
+		<s1 page="0371" title="OXALIDACEAE"></s1>
+		<s1 page="0375" title="AVERRHOACEAE"></s1>
+		<s1 page="0377" title="RUTACEAE"></s1>
+		<s1 page="0390" title="SIMAROUBACEAE"></s1>
+		<s1 page="0392" title="BALANITACEAE"></s1>
+		<s1 page="0393" title="OCHNACEAE"></s1>
+		<s1 page="0394" title="BURSERACEAE"></s1>
+		<s1 page="0397" title="MELIACEAE"></s1>
+		<s1 page="0407" title="OLACACEAE"></s1>
+		<s1 page="0409" title="OPILIACEAE"></s1>
+		<s1 page="0410" title="ICACINACEAE"></s1>
+		<s1 page="0412" title="CARDIOPTERYGACEAE"></s1>
+		<s1 page="0413" title="AQUIFOLIACEAE"></s1>
+		<s1 page="0417" title="CELASTRACEAE"></s1>
+		<s1 page="0424" title="RHAMNACEAE"></s1>
+		<s1 page="0434" title="VITACEAE"></s1>
+		<s1 page="0450" title="LEEACEAE"></s1>
+		<s1 page="0453" title="SAPINDACEAE"></s1>
+		<s1 page="0463" title="HIPPOCASTANACEAE"></s1>
+		<s1 page="0464" title="ACERACEAE"></s1>
+		<s1 page="0470" title="STAPHYLEACEAE"></s1>
+		<s1 page="0471" title="SABIACEAE"></s1>
+		<s1 page="0475" title="ANACARDIACEAE"></s1>
+		<s1 page="0485" title="MORINGACEAE"></s1>
+	</book>
+	<book bid="009">
+		<s1 page="0000" title="পশ্চিমবঙ্গের উদ্ভিদ"></s1>
+	</book>
+	<book bid="010">
+		<s1 page="0000" title="পশ্চিমবঙ্গের উদ্ভিদ"></s1>
+	</book>
+	<book bid="011">
+		<s1 page="0000" title="পশ্চিমবঙ্গের উদ্ভিদ"></s1>
+	</book>
+	<book bid="012">
+		<s1 page="0000" title="পশ্চিমবঙ্গের উদ্ভিদ"></s1>
+	</book>
+	<book bid="013">
+		<s1 page="0000d" title="FOREWORD"></s1>
+		<s1 page="0000e" title="ACKNOWLEDGEMENTS"></s1>
+		<s1 page="0001" title="INTRODUCTION">
+			<s2 page="0003" title="Physical Geography and Location"></s2>
+			<s2 page="0003" title="Topography"></s2>
+			<s2 page="0003" title="Geology and Soil">
+				<s3 page="0004" title="Disang Group"></s3>
+				<s3 page="0005" title="Barail Group"></s3>
+				<s3 page="0005" title="Surma Group"></s3>
+				<s3 page="0006" title="Tipam Group"></s3>
+				<s3 page="0006" title="Namsang Formation/Dupitila Beds"></s3>
+				<s3 page="0007" title="Quaternary Group"></s3>
+				<s3 page="0007" title="Oceanic Pelagic Sediments"></s3>
+				<s3 page="0007" title="Ophiolite Cover Sediments"></s3>
+			</s2>
+			<s2 page="0007" title="Drainage"></s2>
+			<s2 page="0009" title="Climate"></s2>
+			<s2 page="0011" title="Botanical Exploration in Manipur"></s2>
+			<s2 page="0014" title="Vegetation Types">
+				<s3 page="0015" title="Tropical Moist Deciduous Forest"></s3>
+				<s3 page="0017" title="Tropical Evergreen and Semi-evergreen Forests"></s3>
+				<s3 page="0019" title="Sub-tropical Mixed Forests"></s3>
+				<s3 page="0021" title="Sub-tropical Pine Forests"></s3>
+				<s3 page="0021" title="Sub-tropical and Temperate Grasslands"></s3>
+				<s3 page="0022" title="Temperate Forests"></s3>
+			</s2>
+			<s2 page="0024" title="Floristic Diversity"></s2>
+			<s2 page="0030" title="Bamboos"></s2>
+			<s2 page="0030" title="Orchids"></s2>
+			<s2 page="0031" title="Primitive Cultivars and Land Races"></s2>
+			<s2 page="0031" title="Phytogeography"></s2>
+			<s2 page="0032" title="Endemics"></s2>
+			<s2 page="0035" title="Economic uses of plants"></s2>
+			<s2 page="0036" title="Rare, Threatened taxa and major threat to diversity"></s2>
+			<s2 page="0037" title="Conservation"></s2>
+			<s2 page="0039" title="Materials and Presentation"></s2>
+		</s1>
+		<s1 page="0040" title="SELECTED REFERENCES"></s1>
+		<s1 page="0045" title="KEY TO THE FAMILIES"></s1>
+		<s1 page="0058" title="SYSTEMATIC ACCOUNT"></s1>
+		<s1 page="0556" title="INDEX TO BOTANICAL NAMES"></s1>
+		<s1 page="0598" title="INDEX TO LOCAL NAMES"></s1>
+	</book>
+	<book bid="014">
+		<s1 page="0001" title="INTRODUCTION">
+			<s2 page="0037" title="Key to the Families"></s2>
+			<s2 page="0052" title="Ranunculaceae"></s2>
+			<s2 page="0053" title="Dilleniaceae"></s2>
+			<s2 page="0057" title="Magnoliaceae"></s2>
+			<s2 page="0059" title="Annonaceae"></s2>
+			<s2 page="0093" title="Menispermaceae"></s2>
+			<s2 page="0105" title="Nymphaeaceae"></s2>
+			<s2 page="0106" title="Barclayaceae"></s2>
+			<s2 page="0107" title="Papaveraceae"></s2>
+			<s2 page="0108" title="Brassicaceae"></s2>
+			<s2 page="0110" title="Capparaceae"></s2>
+			<s2 page="0116" title="Violaceae"></s2>
+			<s2 page="0118" title="Bixaceae"></s2>
+			<s2 page="0119" title="Flacourtiaceae"></s2>
+			<s2 page="0126" title="Pittosporaceae"></s2>
+			<s2 page="0127" title="Polygalaceae"></s2>
+			<s2 page="0129" title="Xanthophyllaceae"></s2>
+			<s2 page="0130" title="Hypericaceae"></s2>
+			<s2 page="0131" title="Clusiaceae"></s2>
+			<s2 page="0144" title="Theaceae"></s2>
+			<s2 page="0145" title="Actinidiaceae (Saurauiaceae)"></s2>
+			<s2 page="0147" title="Dipterocarpaceae"></s2>
+			<s2 page="0153" title="Ancistrocladaceae"></s2>
+			<s2 page="0154" title="Malvaceae"></s2>
+			<s2 page="0160" title="Bombacaceae"></s2>
+			<s2 page="0163" title="Sterculiaceae"></s2>
+			<s2 page="0175" title="Tiliaceae"></s2>
+			<s2 page="0182" title="Elaeocarpaceae"></s2>
+			<s2 page="0186" title="Linaceae"></s2>
+			<s2 page="0187" title="Erythroxylaceae"></s2>
+			<s2 page="0188" title="Malpighiaceae"></s2>
+			<s2 page="0191" title="Rutaceae"></s2>
+			<s2 page="0209" title="Simaroubaceae"></s2>
+			<s2 page="0216" title="Ochnaceae"></s2>
+			<s2 page="0218" title="Burseraceae"></s2>
+			<s2 page="0222" title="Meliaceae"></s2>
+			<s2 page="0245" title="Dichapetalaceae"></s2>
+			<s2 page="0248" title="Olacaceae"></s2>
+			<s2 page="0252" title="Icacinaceae"></s2>
+			<s2 page="0259" title="Opiliaceae"></s2>
+			<s2 page="0261" title="Celastraceae"></s2>
+			<s2 page="0282" title="Rhamnaceae"></s2>
+			<s2 page="0295" title="Vitaceae"></s2>
+			<s2 page="0305" title="Leeaceae"></s2>
+			<s2 page="0309" title="Sapindaceae"></s2>
+			<s2 page="0327" title="Sabiaceae"></s2>
+			<s2 page="0328" title="Anacardiaceae"></s2>
+			<s2 page="0346" title="Moringaceae"></s2>
+			<s2 page="0347" title="Connaraceae"></s2>
+			<s2 page="0355" title="Fabaceae (Papilionaceae)"></s2>
+			<s2 page="0418" title="Caesalpiniaceae"></s2>
+			<s2 page="0440" title="Mimosaceae"></s2>
+			<s2 page="0458" title="Rosaceae"></s2>
+			<s2 page="0461" title="Escaloniaceae"></s2>
+			<s2 page="0462" title="Crassulaceae"></s2>
+			<s2 page="0463" title="Rhizophoraceae"></s2>
+			<s2 page="0472" title="Combretaceae"></s2>
+		</s1>
+		<s1 page="0483" title="INDEX"></s1>
+	</book>
+	<book bid="015">
+		<s1 page="0000c" title="Foreword"></s1>
+		<s1 page="0000d" title="Preface"></s1>
+		<s1 page="0000e" title="Introduction"></s1>
+		<s1 page="0000s" title="Key to the Families"></s1>
+		<s1 page="0001" title="Gymnospermae"></s1>
+		<s1 page="0293" title="Index to Botanical Names"></s1>
+		<s1 page="0321" title="Index to Local Names and Common Names"></s1>
+	</book>
+	<book bid="016">
+		<s1 page="0000ae" title="Foreword"></s1>
+		<s1 page="0000af" title="Introduction"></s1>
+		<s1 page="0001" title="Enumeration of Species"></s1>
+	</book>
+	<book bid="017">
+		<s1 page="0199" title="Enumeration of species"></s1>
+		<s1 page="0531" title="Bibliography"></s1>
+		<s1 page="0545" title="Index to the families"></s1>
+	</book>
+	<book bid="018">
+		<s1 page="0000c" title="Foreword"></s1>
+		<s1 page="0000d" title="Acknowledgements"></s1>
+		<s1 page="0001" title="INTRODUCTION"></s1>
+		<s1 page="0024" title="REFERENCES"></s1>
+		<s1 page="0031" title="PTERIDOPHYTES">
+			<s2 page="0035" title="1. Huperziaceae"></s2>
+			<s2 page="0035" title="2. Lycopodiaceae"></s2>
+			<s2 page="0036" title="3. Selaginellaceae"></s2>
+			<s2 page="0039" title="4. Isoetaceae"></s2>
+			<s2 page="0043" title="5. Equisetaceae"></s2>
+			<s2 page="0044" title="6. Psilotaceae"></s2>
+			<s2 page="0045" title="7. Botrychiaceae"></s2>
+			<s2 page="0045" title="8. Ophioglossaceae"></s2>
+			<s2 page="0049" title="9. Angiopteridaceae"></s2>
+			<s2 page="0050" title="10. Osmundaceae"></s2>
+			<s2 page="0052" title="11. Dicranopteridaceae"></s2>
+			<s2 page="0053" title="12. Loxogrammaceae"></s2>
+			<s2 page="0053" title="13. Polypodiaceae"></s2>
+			<s2 page="0058" title="14. Drynariaceae"></s2>
+			<s2 page="0058" title="15. Lygodiaceae"></s2>
+			<s2 page="0060" title="16. Cheilanthaceae"></s2>
+			<s2 page="0062" title="17. Actiniopteridaceae"></s2>
+			<s2 page="0064" title="18. Pteridaceae"></s2>
+			<s2 page="0066" title="19. Adiantaceae"></s2>
+			<s2 page="0069" title="20. Hemionitidaceae"></s2>
+			<s2 page="0070" title="21. Parkeriaceae"></s2>
+			<s2 page="0070" title="22. Marsileaceae"></s2>
+			<s2 page="0072" title="23. Cyatheaceae"></s2>
+			<s2 page="0075" title="24. Denstaedtiaceae"></s2>
+			<s2 page="0076" title="25. Pteridiaceae"></s2>
+			<s2 page="0076" title="26. Lindsaeaceae"></s2>
+			<s2 page="0079" title="27. Thelypteridaceae"></s2>
+			<s2 page="0084" title="28. Aspleniaceae"></s2>
+			<s2 page="0088" title="29. Athyriaceae"></s2>
+			<s2 page="0092" title="30. Hypodemataceae"></s2>
+			<s2 page="0092" title="31. Aspidiaceae"></s2>
+			<s2 page="0096" title="32. Lomariopsioaceae"></s2>
+			<s2 page="0097" title="33. Nephrolepidaceae"></s2>
+			<s2 page="0098" title="34. Davalliaceae"></s2>
+			<s2 page="0099" title="35. Blechnaceae"></s2>
+			<s2 page="0100" title="36. Azollaceae"></s2>
+		</s1>
+		<s1 page="0101" title="ANGIOSPERMS">
+			<s2 page="0119" title="1. Ranunculaceae"></s2>
+			<s2 page="0124" title="2. Dilleniaceae"></s2>
+			<s2 page="0126" title="3. Magnoliaceae"></s2>
+			<s2 page="0127" title="4. Annonaceae"></s2>
+			<s2 page="0131" title="5. Menispermaceae"></s2>
+			<s2 page="0136" title="6. Berberidaceae"></s2>
+			<s2 page="0137" title="7. Nymphaeaceae"></s2>
+			<s2 page="0139" title="8. Papaveraceae"></s2>
+			<s2 page="0142" title="9. Brassicaceae"></s2>
+			<s2 page="0150" title="10. Capparaceae"></s2>
+			<s2 page="0159" title="11. Violaeae"></s2>
+			<s2 page="0162" title="12. Bixaceae"></s2>
+			<s2 page="0162" title="13. Cochlospermaceae"></s2>
+			<s2 page="0163" title="14. Flacourtiaceae"></s2>
+			<s2 page="0165" title="15. Pittosporaceae"></s2>
+			<s2 page="0166" title="16. Polygalaceae"></s2>
+			<s2 page="0173" title="17. Caryophyllaceae"></s2>
+			<s2 page="0178" title="18. Portulacaceae"></s2>
+			<s2 page="0180" title="19. Tamaricaceae"></s2>
+			<s2 page="0180" title="20. Elatinaceae"></s2>
+			<s2 page="0182" title="21. Hypericaceae"></s2>
+			<s2 page="0183" title="22. Theaceae"></s2>
+			<s2 page="0184" title="23. Dipterocarpaceae"></s2>
+			<s2 page="0186" title="24. Malvaceae"></s2>
+			<s2 page="0210" title="25. Bombacaceae"></s2>
+			<s2 page="0214" title="26. Sterculiaceae"></s2>
+			<s2 page="0223" title="27. Tiliaceae"></s2>
+			<s2 page="0236" title="28. Linaceae"></s2>
+			<s2 page="0238" title="29. Malpighiaceae"></s2>
+			<s2 page="0240" title="30. Zygophyllaceae"></s2>
+			<s2 page="0242" title="31. Geraniaceae"></s2>
+			<s2 page="0244" title="32. Oxalidaceae"></s2>
+			<s2 page="0247" title="33. Averrhoaceae"></s2>
+			<s2 page="0248" title="34. Balsaminaceae"></s2>
+			<s2 page="0251" title="35. Rutaceae"></s2>
+			<s2 page="0260" title="36. Simaroubaceae"></s2>
+			<s2 page="0262" title="37. Balanitaceae"></s2>
+			<s2 page="0263" title="38. Ochnaceae"></s2>
+			<s2 page="0264" title="39. Burseraceae"></s2>
+			<s2 page="0266" title="40. Meliaceae"></s2>
+			<s2 page="0270" title="41. Olacaceae"></s2>
+			<s2 page="0272" title="42. Opiliaceae"></s2>
+			<s2 page="0273" title="43. Celastraceae"></s2>
+			<s2 page="0278" title="44. Rhamnaceae"></s2>
+			<s2 page="0288" title="45. Vitaceae"></s2>
+			<s2 page="0292" title="46. Leeaceae"></s2>
+			<s2 page="0295" title="47. Sapindaceae"></s2>
+			<s2 page="0302" title="48. Sabiaceae"></s2>
+			<s2 page="0304" title="49. Anacardiaceae"></s2>
+			<s2 page="0310" title="50. Moringaceae"></s2>
+			<s2 page="0311" title="51. Fabaceae"></s2>
+			<s2 page="0411" title="52. Caesalpiniaceae"></s2>
+			<s2 page="0429" title="53. Mimosaceae"></s2>
+			<s2 page="0446" title="54. Rosaceae"></s2>
+			<s2 page="0448" title="55. Vahliaceae"></s2>
+			<s2 page="0449" title="56. Crassulaceae"></s2>
+			<s2 page="0450" title="57. Droseraceae"></s2>
+			<s2 page="0451" title="58. Haloragaceae"></s2>
+			<s2 page="0453" title="59. Callitrichaceae"></s2>
+			<s2 page="0453" title="60. Rhizophoraceae"></s2>
+			<s2 page="0454" title="61. Combretaceae"></s2>
+			<s2 page="0463" title="62. Myrtaceae"></s2>
+			<s2 page="0467" title="63. Lecythidaceae"></s2>
+			<s2 page="0468" title="64. Melastomataceae"></s2>
+			<s2 page="0472" title="65. Lythraceae"></s2>
+			<s2 page="0480" title="66. Punicaceae"></s2>
+			<s2 page="0481" title="67. Onagraceae"></s2>
+			<s2 page="0483" title="68. Trapaceae"></s2>
+			<s2 page="0484" title="69. Turneraceae"></s2>
+			<s2 page="0485" title="70. Passifloraceae"></s2>
+			<s2 page="0486" title="71. Caricaceae"></s2>
+			<s2 page="0487" title="72. Cucurbitaceae"></s2>
+			<s2 page="0505" title="73. Begoniaceae"></s2>
+			<s2 page="0506" title="74. Cactaceae"></s2>
+			<s2 page="0507" title="75. Aizoaceae"></s2>
+			<s2 page="0508" title="76. Molluginaceae"></s2>
+			<s2 page="0511" title="77. Apiaceae"></s2>
+			<s2 page="0524" title="78. Cornaceae"></s2>
+			<s2 page="0525" title="79. Rubiaceae"></s2>
+			<s2 page="0553" title="80. Asteraceae"></s2>
+			<s2 page="0620" title="81. Stylidiaceae"></s2>
+			<s2 page="0621" title="82. Campanulaceae"></s2>
+			<s2 page="0625" title="83. Plumbaginaceae"></s2>
+		</s1>
+		<s1 page="0627" title="INDEX">
+			<s2 page="0627" title="1. Botanical Names"></s2>
+			<s2 page="0663" title="2. Local Names"></s2>
+		</s1>
+	</book>
+	<book bid="019">
+		<s1 page="0001" title="84. Primulaceae"></s1>
+		<s1 page="0006" title="85. Myrsinaceae"></s1>
+		<s1 page="0011" title="85a. Theophrastaceae"></s1>
+		<s1 page="0012" title="86. Sapotaceae"></s1>
+		<s1 page="0017" title="87. Ebenaceae"></s1>
+		<s1 page="0022" title="88. Symplocaceae"></s1>
+		<s1 page="0023" title="89. Oleaceae"></s1>
+		<s1 page="0039" title="89a. Salvadoraceae"></s1>
+		<s1 page="0041" title="90. Apocynaceae"></s1>
+		<s1 page="0063" title="91. Asclepiadaceae"></s1>
+		<s1 page="0089" title="92. Loganiaceae"></s1>
+		<s1 page="0096" title="93. Buddlejaceae"></s1>
+		<s1 page="0098" title="94. Gentianaceae"></s1>
+		<s1 page="0109" title="95. Menyanthaceae"></s1>
+		<s1 page="0111" title="95a. Polemoniaceae"></s1>
+		<s1 page="0112" title="96. Hydrophyllaceae"></s1>
+		<s1 page="0113" title="97. Boraginaceae"></s1>
+		<s1 page="0139" title="98. Convolvulaceae"></s1>
+		<s1 page="0174" title="99. Solanaceae"></s1>
+		<s1 page="0196" title="100. Scrophulariaceae"></s1>
+		<s1 page="0245" title="101. Orobanchaceae"></s1>
+		<s1 page="0249" title="102. Lentibulariaceae"></s1>
+		<s1 page="0256" title="103. Gesneriaceae"></s1>
+		<s1 page="0260" title="104. Bignoniaceae"></s1>
+		<s1 page="0277" title="105. Pedaliaceae"></s1>
+		<s1 page="0279" title="106. Acanthaceae"></s1>
+		<s1 page="0362" title="107. Verbenaceae"></s1>
+		<s1 page="0391" title="108. Lamiaceae"></s1>
+		<s1 page="0438" title="109. Plantaginaceae"></s1>
+		<s1 page="0440" title="110. Nyctaginaceae"></s1>
+		<s1 page="0446" title="111. Amaranthaceae"></s1>
+		<s1 page="0469" title="112. Chenopodiaceae"></s1>
+		<s1 page="0472" title="113. Basellaceae"></s1>
+		<s1 page="0473" title="114. Phytolaccaceae"></s1>
+		<s1 page="0474" title="115. Polygonaceae"></s1>
+		<s1 page="0490" title="116. Podostemaceae"></s1>
+		<s1 page="0492" title="117. Aristolochiaceae"></s1>
+		<s1 page="0495" title="118. Piperaceae"></s1>
+		<s1 page="0497" title="119. Lauraceae"></s1>
+		<s1 page="0505" title="120. Proteaceae"></s1>
+		<s1 page="0506" title="120a. Elaeagnaceae"></s1>
+		<s1 page="0507" title="121. Loranthaceae"></s1>
+		<s1 page="0512" title="122. Santalaceae"></s1>
+		<s1 page="0516" title="123. Euphorbiaceae"></s1>
+		<s1 page="0583" title="124. Urticaceae"></s1>
+		<s1 page="0596" title="125. Ulmaceae"></s1>
+		<s1 page="0603" title="126. Cannabaceae"></s1>
+		<s1 page="0604" title="127. Moraceae"></s1>
+		<s1 page="0628" title="128. Casuarinaceae"></s1>
+		<s1 page="0630" title="129. Salicaceae"></s1>
+		<s1 page="0632" title="130. Ceratophyllaceae"></s1>
+		<s1 page="0635" title="REFERENCES"></s1>
+		<s1 page="0639" title="INDEX">
+			<s2 page="0639" title="1. Botanical Names"></s2>
+			<s2 page="0677" title="2. Local Names"></s2>
+		</s1>
+	</book>
+	<book bid="020">
+		<s1 page="0001" title="131. Hydrocharitaceae"></s1>
+		<s1 page="0007" title="132. Burmanniaceae"></s1>
+		<s1 page="0008" title="133. Orchidaceae"></s1>
+		<s1 page="0076" title="134. Zingiberaceae"></s1>
+		<s1 page="0092" title="135. Costaceae"></s1>
+		<s1 page="0093" title="135a. Marantaceae"></s1>
+		<s1 page="0095" title="136. Musaceae"></s1>
+		<s1 page="0097" title="136a. Strelitziaceae"></s1>
+		<s1 page="0099" title="137. Cannaceae"></s1>
+		<s1 page="0100" title="138. Haemodoraceae"></s1>
+		<s1 page="0100" title="139. Iridaceae"></s1>
+		<s1 page="0101" title="140. Amaryllidaceae"></s1>
+		<s1 page="0106" title="141. Hypoxidaceae"></s1>
+		<s1 page="0110" title="142. Agavaceae"></s1>
+		<s1 page="0117" title="143. Taccaceae"></s1>
+		<s1 page="0118" title="144. Dioscoreaceae"></s1>
+		<s1 page="0129" title="145. Liliaceae"></s1>
+		<s1 page="0142" title="145a. Ruscaceae"></s1>
+		<s1 page="0143" title="146. Smilacaceae"></s1>
+		<s1 page="0145" title="147. Pontederiaceae"></s1>
+		<s1 page="0147" title="148. Xyridaceae"></s1>
+		<s1 page="0151" title="149. Commelinaceae"></s1>
+		<s1 page="0171" title="149a. Flagellariaceae"></s1>
+		<s1 page="0172" title="150. Juncaceae"></s1>
+		<s1 page="0173" title="151. Arecaceae"></s1>
+		<s1 page="0182" title="152. Pandanaceae"></s1>
+		<s1 page="0183" title="153. Typhaceae"></s1>
+		<s1 page="0183" title="154. Araceae"></s1>
+		<s1 page="0197" title="155. Lemnaceae"></s1>
+		<s1 page="0200" title="156. Alismataceae"></s1>
+		<s1 page="0206" title="157. Butomaceae"></s1>
+		<s1 page="0208" title="158. Najadaceae"></s1>
+		<s1 page="0211" title="159. Aponogetonaceae"></s1>
+		<s1 page="0212" title="160. Potamogetonaceae"></s1>
+		<s1 page="0218" title="161. Zannichelliaceae"></s1>
+		<s1 page="0219" title="162. Eriocaulaceae"></s1>
+		<s1 page="0236" title="163. Cyperaceae"></s1>
+		<s1 page="0340" title="164. Poaceae"></s1>
+		<s1 page="0546" title="GYMNOSPERMS">
+			<s2 page="0546" title="1. Cycadaceae"></s2>
+			<s2 page="0548" title="2. Cupressaceae"></s2>
+			<s2 page="0550" title="3. Gnetaceae"></s2>
+			<s2 page="0550" title="4. Pinaceae"></s2>
+		</s1>
+		<s1 page="0553" title="REFERENCES"></s1>
+		<s1 page="0557" title="INDEX">
+			<s2 page="0557" title="1. Botanical Names"></s2>
+			<s2 page="0588" title="2. Local Names"></s2>
+		</s1>
+	</book>
+	<book bid="021">
+		<s1 page="0000ad" title="Foreword"></s1>
+		<s1 page="0000af" title="Preface"></s1>
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="Physiography"></s2>
+			<s2 page="0005" title="Drainage"></s2>
+			<s2 page="0009" title="Climate"></s2>
+			<s2 page="0012" title="Geology and soil"></s2>
+			<s2 page="0016" title="People"></s2>
+			<s2 page="0018" title="Forests"></s2>
+			<s2 page="0020" title="Forest types"></s2>
+			<s2 page="0029" title="Botanical explorations"></s2>
+			<s2 page="0031" title="Botanical studies"></s2>
+			<s2 page="0033" title="Floristic diversity"></s2>
+			<s2 page="0037" title="Phytogeographical affinities"></s2>
+			<s2 page="0040" title="Endemism"></s2>
+			<s2 page="0048" title="Economic plants"></s2>
+			<s2 page="0084" title="Threatened species and conservation"></s2>
+			<s2 page="0089" title="Materials and presentation of flora"></s2>
+		</s1>
+		<s1 page="0091" title="Selected bibliography"></s1>
+		<s1 page="0109" title="Systematic account">
+			<s2 page="0109" title="Pteridophytes">
+				<s3 page="0112" title="Lycopodiaceae"></s3>
+				<s3 page="0112" title="Selaginellaceae"></s3>
+				<s3 page="0117" title="Equisetaceae"></s3>
+				<s3 page="0123" title="Botrychiaceae"></s3>
+				<s3 page="0126" title="Ophioglossaceae"></s3>
+				<s3 page="0130" title="Osmundaceae"></s3>
+				<s3 page="0133" title="Loxogrammaceae"></s3>
+				<s3 page="0134" title="Polypodiaceae"></s3>
+				<s3 page="0149" title="Lygodiaceae"></s3>
+				<s3 page="0150" title="Sinopteridaceae"></s3>
+				<s3 page="0166" title="Cryptogrammaceae"></s3>
+				<s3 page="0172" title="Hypolepidaceae"></s3>
+				<s3 page="0173" title="Pteridiaceae"></s3>
+				<s3 page="0174" title="Pteridaceae"></s3>
+				<s3 page="0179" title="Adiantaceae"></s3>
+				<s3 page="0185" title="Hemionitidaceae"></s3>
+				<s3 page="0189" title="Parkeriaceae"></s3>
+				<s3 page="0190" title="Marsileaceae"></s3>
+				<s3 page="0191" title="Dennstaedtiaceae"></s3>
+				<s3 page="0192" title="Aspleniaceae"></s3>
+				<s3 page="0208" title="Woodsiaceae"></s3>
+				<s3 page="0210" title="Athyriaceae"></s3>
+				<s3 page="0241" title="Hypodematiaceae"></s3>
+				<s3 page="0243" title="Thelypteridaceae"></s3>
+				<s3 page="0260" title="Tectariaceae"></s3>
+				<s3 page="0261" title="Dryopteridaceae"></s3>
+				<s3 page="0302" title="Nephrolepidaceae"></s3>
+				<s3 page="0302" title="Davalliaceae"></s3>
+				<s3 page="0304" title="Blechnaceae"></s3>
+				<s3 page="0306" title="Salviniaceae"></s3>
+				<s3 page="0307" title="Azollaceae"></s3>
+			</s2>
+			<s2 page="0308" title="Gymnosperms">
+				<s3 page="0308" title="Ephedraceae"></s3>
+				<s3 page="0311" title="Cupressaceae"></s3>
+				<s3 page="0316" title="Taxaceae"></s3>
+				<s3 page="0317" title="Pinaceae"></s3>
+			</s2>
+			<s2 page="0325" title="Angiosperms">
+				<s3 page="0365" title="Ranunculaceae"></s3>
+				<s3 page="0439" title="Paeoniaceae"></s3>
+				<s3 page="0440" title="Annonaceae"></s3>
+				<s3 page="0441" title="Menispermaceae"></s3>
+				<s3 page="0445" title="Berberidaceae"></s3>
+				<s3 page="0460" title="Podophyllaceae"></s3>
+				<s3 page="0460" title="Lardizabalaceae"></s3>
+				<s3 page="0461" title="Nymphaeaceae"></s3>
+				<s3 page="0465" title="Nelumbonaceae"></s3>
+				<s3 page="0465" title="Papaveraceae"></s3>
+				<s3 page="0473" title="Fumariaceae"></s3>
+				<s3 page="0497" title="Brassicaceae"></s3>
+				<s3 page="0596" title="Capparaceae"></s3>
+				<s3 page="0606" title="Resedaceae"></s3>
+				<s3 page="0606" title="Violaceae"></s3>
+				<s3 page="0620" title="Flacourtiaceae"></s3>
+				<s3 page="0624" title="Pittosporaceae"></s3>
+				<s3 page="0624" title="Polygalaceae"></s3>
+				<s3 page="0633" title="Caryophyllaceae"></s3>
+				<s3 page="0691" title="Portulacaceae"></s3>
+				<s3 page="0693" title="Tamaricaceae"></s3>
+				<s3 page="0702" title="Elatinaceae"></s3>
+				<s3 page="0703" title="Hypericaceae"></s3>
+				<s3 page="0710" title="Dipterocarpaceae"></s3>
+				<s3 page="0710" title="Malvaceae"></s3>
+				<s3 page="0735" title="Bombacaceae"></s3>
+				<s3 page="0735" title="Sterculiaceae"></s3>
+				<s3 page="0739" title="Tiliaceae"></s3>
+				<s3 page="0746" title="Linaceae"></s3>
+				<s3 page="0749" title="Malpighiaceae"></s3>
+				<s3 page="0751" title="Zygophyllaceae"></s3>
+				<s3 page="0755" title="Biebersteiniaceae"></s3>
+				<s3 page="0757" title="Geraniaceae"></s3>
+				<s3 page="0772" title="Balsaminaceae"></s3>
+				<s3 page="0781" title="Oxalidaceae"></s3>
+				<s3 page="0786" title="Rutaceae"></s3>
+				<s3 page="0793" title="Simaroubaceae"></s3>
+				<s3 page="0795" title="Meliaceae"></s3>
+				<s3 page="0801" title="Aquifoliaceae"></s3>
+				<s3 page="0804" title="Celastraceae"></s3>
+				<s3 page="0811" title="Rhamnaceae"></s3>
+				<s3 page="0831" title="Vitaceae"></s3>
+				<s3 page="0840" title="Leeaceae"></s3>
+				<s3 page="0841" title="Sapindaceae"></s3>
+				<s3 page="0843" title="Hippocastanaceae"></s3>
+				<s3 page="0843" title="Aceraceae"></s3>
+				<s3 page="0848" title="Staphyleaceae"></s3>
+				<s3 page="0848" title="Sabiaceae"></s3>
+				<s3 page="0850" title="Anacardiaceae"></s3>
+				<s3 page="0861" title="Coriariaceae"></s3>
+				<s3 page="0861" title="Moringaceae"></s3>
+			</s2>
+		</s1>
+		<s1 page="0863" title="Index to botanical names"></s1>
+		<s1 page="0897" title="Index to local names"></s1>
+	</book>
+	<book bid="022">
+		<s1 page="0000d" title="Message"></s1>
+		<s1 page="0000e" title="Preface"></s1>
+		<s1 page="0001" title="Introduction">
+			<s2 page="0003" title="Physiography">
+				<s3 page="0003" title="Geomorphology"></s3>
+				<s3 page="0004" title="Geology"></s3>
+				<s3 page="0005" title="Structure"></s3>
+				<s3 page="0006" title="Economic geology"></s3>
+			</s2>
+			<s2 page="0006" title="Drainage"></s2>
+			<s2 page="0009" title="Climate"></s2>
+			<s2 page="0009" title="Soil"></s2>
+			<s2 page="0010" title="Plains"></s2>
+			<s2 page="0010" title="Peaks"></s2>
+			<s2 page="0011" title="Lakes"></s2>
+			<s2 page="0011" title="People and population">
+				<s3 page="0012" title="Mizos or Lusei"></s3>
+				<s3 page="0013" title="Pawis and Lakhers"></s3>
+				<s3 page="0013" title="Chakmas"></s3>
+			</s2>
+			<s2 page="0014" title="Forests"></s2>
+			<s2 page="0015" title="Forest Types">
+				<s3 page="0015" title="Tropical wet evergeen and semievergreen forests"></s3>
+				<s3 page="0019" title="Montane subtropical forests"></s3>
+				<s3 page="0020" title="Temperate forests"></s3>
+				<s3 page="0021" title="Bamboo forests"></s3>
+				<s3 page="0021" title="Quercus forests"></s3>
+				<s3 page="0022" title="Jhumland"></s3>
+			</s2>
+			<s2 page="0022" title="Botanical studies"></s2>
+			<s2 page="0024" title="Forestry"></s2>
+			<s2 page="0025" title="Agrogorestry"></s2>
+			<s2 page="0026" title="Economic Plants">
+				<s3 page="0026" title="Timber Plants"></s3>
+				<s3 page="0031" title="Ornamental Plants"></s3>
+				<s3 page="0031" title="Wild relative of cultivated crop plants"></s3>
+				<s3 page="0031" title="Fibre yielding plants"></s3>
+				<s3 page="0031" title="Bamboos"></s3>
+				<s3 page="0032" title="Medicinal and ethnobotanical plants"></s3>
+			</s2>
+			<s2 page="0033" title="Floristic Diversity">
+				<s3 page="0033" title="Major threats and conservation"></s3>
+			</s2>
+			<s2 page="0088" title="Materials and presentation of flora"></s2>
+		</s1>
+		<s1 page="0090" title="References"></s1>
+		<s1 page="0094" title="Key to the families"></s1>
+		<s1 page="0117" title="Systematic account">
+			<s2 page="0117" title="Ranunculaceae"></s2>
+			<s2 page="0127" title="Dilleniaceae"></s2>
+			<s2 page="0130" title="Magnoliaceae"></s2>
+			<s2 page="0136" title="Schisandraceae"></s2>
+			<s2 page="0138" title="Annonaceae"></s2>
+			<s2 page="0146" title="Menispermaceae"></s2>
+			<s2 page="0157" title="Berberidaceae"></s2>
+			<s2 page="0158" title="Papaveraceae"></s2>
+			<s2 page="0161" title="Fumariaceae"></s2>
+			<s2 page="0162" title="Brassicaceae"></s2>
+			<s2 page="0167" title="Capparaceae"></s2>
+			<s2 page="0175" title="Violaceae"></s2>
+			<s2 page="0180" title="Bixaceae"></s2>
+			<s2 page="0181" title="Flacourtiaceae"></s2>
+			<s2 page="0186" title="Pittosporaceae"></s2>
+			<s2 page="0188" title="Polygalaceae"></s2>
+			<s2 page="0196" title="Caryophyllaceae"></s2>
+			<s2 page="0201" title="Portulacaceae"></s2>
+			<s2 page="0201" title="Hypericaceae"></s2>
+			<s2 page="0208" title="Clusiaceae"></s2>
+			<s2 page="0216" title="Theaceae"></s2>
+			<s2 page="0223" title="Actinidiaceae"></s2>
+			<s2 page="0225" title="Dipterocarpaceae"></s2>
+			<s2 page="0227" title="Malvaceae"></s2>
+			<s2 page="0244" title="Bombacaceae"></s2>
+			<s2 page="0247" title="Sterculiaceae"></s2>
+			<s2 page="0264" title="Tiliaceae"></s2>
+			<s2 page="0274" title="Elaeocarpaceae"></s2>
+			<s2 page="0281" title="Malpighiaceae"></s2>
+			<s2 page="0285" title="Geraniaceae"></s2>
+			<s2 page="0286" title="Oxalidaceae"></s2>
+			<s2 page="0289" title="Balsaminaceae"></s2>
+			<s2 page="0297" title="Averrhoaceae"></s2>
+			<s2 page="0297" title="Rutaceae"></s2>
+			<s2 page="0323" title="Simaroubaceae"></s2>
+			<s2 page="0326" title="Burseraceae"></s2>
+			<s2 page="0329" title="Meliaceae"></s2>
+			<s2 page="0344" title="Olacaceae"></s2>
+			<s2 page="0347" title="Icacinaceae"></s2>
+			<s2 page="0349" title="Opiliaceae"></s2>
+			<s2 page="0349" title="Cardiopteridaceae"></s2>
+			<s2 page="0350" title="Aquifoliaceae"></s2>
+			<s2 page="0352" title="Celastraceae"></s2>
+			<s2 page="0358" title="Hippocrateaceae"></s2>
+			<s2 page="0361" title="Rhamnaceae"></s2>
+			<s2 page="0367" title="Vitaceae"></s2>
+			<s2 page="0387" title="Leeaceae"></s2>
+			<s2 page="0391" title="Sapindaceae"></s2>
+			<s2 page="0399" title="Hippocastanaceae"></s2>
+			<s2 page="0401" title="Aceraceae"></s2>
+			<s2 page="0404" title="Staphyleaceae"></s2>
+			<s2 page="0408" title="Sabiaceae"></s2>
+			<s2 page="0412" title="Anacardiaceae"></s2>
+			<s2 page="0422" title="Moringaceae"></s2>
+			<s2 page="0422" title="Connaraceae"></s2>
+			<s2 page="0425" title="Fabaceae"></s2>
+			<s2 page="0504" title="Caesalpiniaceae"></s2>
+			<s2 page="0525" title="Mimosaceae"></s2>
+			<s2 page="0540" title="Rosaceae"></s2>
+			<s2 page="0562" title="Saxifragaceae"></s2>
+			<s2 page="0563" title="Hydrangeaceae"></s2>
+			<s2 page="0563" title="Iteaceae"></s2>
+			<s2 page="0565" title="Crassulaceae"></s2>
+			<s2 page="0567" title="Droseraceae"></s2>
+			<s2 page="0568" title="Hamamelidaceae"></s2>
+			<s2 page="0571" title="Rhizophoraceae"></s2>
+			<s2 page="0572" title="Combretaceae"></s2>
+			<s2 page="0584" title="Hernandiaceae"></s2>
+			<s2 page="0585" title="Myrtaceae"></s2>
+			<s2 page="0594" title="Lecythidaceae"></s2>
+			<s2 page="0595" title="Melastomataceae"></s2>
+			<s2 page="0609" title="Lythraceae"></s2>
+			<s2 page="0617" title="Punicaceae"></s2>
+			<s2 page="0617" title="Sonneratiaceae"></s2>
+			<s2 page="0618" title="Onagraceae"></s2>
+			<s2 page="0622" title="Trapaceae"></s2>
+			<s2 page="0622" title="Passifloraceae"></s2>
+			<s2 page="0625" title="Caricaceae"></s2>
+			<s2 page="0626" title="Cucurbitaceae"></s2>
+			<s2 page="0641" title="Begoniaceae"></s2>
+			<s2 page="0655" title="Molluginaceae"></s2>
+			<s2 page="0659" title="Apiaceae"></s2>
+			<s2 page="0667" title="Araliaceae"></s2>
+			<s2 page="0674" title="Cornaceae"></s2>
+			<s2 page="0675" title="Alangiaceae"></s2>
+			<s2 page="0676" title="Nyssaceae"></s2>
+			<s2 page="0676" title="Caprifoliaceae"></s2>
+			<s2 page="0679" title="Rubiaceae"></s2>
+			<s2 page="0737" title="Dipsacaceae"></s2>
+			<s2 page="0737" title="Asteraceae"></s2>
+		</s1>
+		<s1 page="0807" title="Index to botanical names"></s1>
+		<s1 page="0839" title="Index to local names"></s1>
+	</book>
+	<book bid="023">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Area of Study"></s1>
+		<s1 page="0005" title="Previous Work"></s1>
+		<s1 page="0006" title="General Pattern of Vegetation"></s1>
+		<s1 page="0012" title="Observations and Discussion"></s1>
+		<s1 page="0014" title="Statistical Analysis"></s1>
+		<s1 page="0016" title="Results and Conclusions"></s1>
+		<s1 page="0021" title="Systematic Treatment"></s1>
+		<s1 page="0448" title="SELECTED REFERENCES"></s1>
+		<s1 page="0459" title="CORRIGENDA"></s1>
+		<s1 page="0461" title="INDEX"></s1>
+	</book>
+	<book bid="024">
+		<s1 page="0000e" title="FOREWORD"></s1>
+		<s1 page="0000f" title="ACKNOWLEDGEMENTS"></s1>
+		<s1 page="0000g" title="ILLUSTRATIONS (16 COLOURED)"></s1>
+		<s1 page="0001" title="INTRODUCTION"></s1>
+		<s1 page="0001" title="PREVIOUS WORK AND PRESENT STUDY"></s1>
+		<s1 page="0004" title="GEOGRAPHICAL POSITION AND PHYSIOGRAPHY"></s1>
+		<s1 page="0009" title="GEOLOGY AND SOILS"></s1>
+		<s1 page="0013" title="CLIMATE"></s1>
+		<s1 page="0015" title="GENERAL ASPECTS OF VEGETATION">
+			<s2 page="0015" title="Western Sandy Desert"></s2>
+			<s2 page="0020" title="Aravalli Range"></s2>
+			<s2 page="0022" title="Area in the East of Aravalli"></s2>
+		</s1>
+		<s1 page="0030" title="WEEDS AND ALLIENS"></s1>
+		<s1 page="0031" title="EXOTIC FLORA/CULTIVATED PLANTS"></s1>
+		<s1 page="0032" title="MATERIAL, METHODS AND PLAN OF THE FLORA"></s1>
+		<s1 page="0037" title="KEY TO THE FAMILIES"></s1>
+		<s1 page="0057" title="ENUMERATION OF THE SPECIES (Ranunculaceae to Asteraceae)"></s1>
+		<s1 page="0447" title="INDEX"></s1>
+		<s1 page="0452" title="ILLUSTRATIONS (20 BLACK &amp; WHITE)"></s1>
+	</book>
+	<book bid="025">
+		<s1 page="0455" title="71. Campanulaceae"></s1>
+	</book>
+	<book bid="026">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0863" title="Arecaceae (Palmae !!nom. alt.!!)"></s1>
+		<s1 page="1145" title="References"></s1>
+		<s1 page="1195" title="General Index"></s1>
+	</book>
+	<book bid="027">
+		<s1 page="0000h" title="Foreword"></s1>
+		<s1 page="0000i" title="Preface"></s1>
+		<s1 page="0000k" title="Introduction"></s1>
+		<s1 page="0001" title="!!Family!!">
+			<s2 page="0001" title="Ranunculaceae"></s2>
+			<s2 page="0031" title="Paeoniaceae"></s2>
+			<s2 page="0032" title="Magnoliaceae"></s2>
+			<s2 page="0033" title="Calycanthaceae"></s2>
+			<s2 page="0033" title="Schisandraceae"></s2>
+			<s2 page="0034" title="Menispermaceae"></s2>
+			<s2 page="0036" title="Berberidaceae"></s2>
+			<s2 page="0042" title="Podophyllaceae"></s2>
+			<s2 page="0043" title="Lardizabalaceae"></s2>
+			<s2 page="0044" title="Papaveraceae"></s2>
+			<s2 page="0046" title="Fumariaceae"></s2>
+			<s2 page="0052" title="Brassicaceae"></s2>
+			<s2 page="0076" title="Capparaceae"></s2>
+			<s2 page="0078" title="Violaceae"></s2>
+			<s2 page="0081" title="Flacourtiaceae"></s2>
+			<s2 page="0082" title="Pittosporaceae"></s2>
+			<s2 page="0083" title="Polygalaceae"></s2>
+			<s2 page="0085" title="Caryophyllaceae"></s2>
+			<s2 page="0104" title="Portulacaceae"></s2>
+			<s2 page="0105" title="Tamaricaceae"></s2>
+			<s2 page="0105" title="Elatinaceae"></s2>
+			<s2 page="0106" title="Hypericaceae"></s2>
+			<s2 page="0109" title="Theaceae"></s2>
+			<s2 page="0110" title="Saurauiaceae"></s2>
+			<s2 page="0110" title="Malvaceae"></s2>
+			<s2 page="0118" title="Bombacaceae"></s2>
+			<s2 page="0119" title="Sterculiaceae"></s2>
+			<s2 page="0119" title="Tiliaceae"></s2>
+			<s2 page="0123" title="Linaceae"></s2>
+			<s2 page="0125" title="Malpighiaceae"></s2>
+			<s2 page="0125" title="Zygophyllaceae"></s2>
+			<s2 page="0126" title="Geraniaceae"></s2>
+			<s2 page="0132" title="Biebersteiniaceae"></s2>
+			<s2 page="0132" title="Oxalidaceae"></s2>
+			<s2 page="0134" title="Balsaminaceae"></s2>
+			<s2 page="0139" title="Tropaeolaceae"></s2>
+			<s2 page="0140" title="Rutaceae"></s2>
+			<s2 page="0143" title="Simaroubaceae"></s2>
+			<s2 page="0143" title="Meliaceae"></s2>
+			<s2 page="0145" title="Aquifoliaceae"></s2>
+			<s2 page="0146" title="Celastraceae"></s2>
+			<s2 page="0149" title="Rhamnaceae"></s2>
+			<s2 page="0154" title="Vitaceae"></s2>
+			<s2 page="0157" title="Leeaceae"></s2>
+			<s2 page="0158" title="Sapindaceae"></s2>
+			<s2 page="0159" title="Aceraceae"></s2>
+			<s2 page="0161" title="Staphyleaceae"></s2>
+			<s2 page="0162" title="Sabiaceae"></s2>
+			<s2 page="0163" title="Anacardiaceae"></s2>
+			<s2 page="0167" title="Coriariaceae"></s2>
+			<s2 page="0167" title="Mimosaceae"></s2>
+			<s2 page="0172" title="Caesalpiniaceae"></s2>
+			<s2 page="0179" title="Papilionaceae"></s2>
+			<s2 page="0234" title="Rosaceae"></s2>
+			<s2 page="0261" title="Saxifragaceae"></s2>
+			<s2 page="0269" title="Parnassiaceae"></s2>
+			<s2 page="0270" title="Philadelphaceae"></s2>
+			<s2 page="0271" title="Hydrangeaceae"></s2>
+			<s2 page="0272" title="Grossulariaceae"></s2>
+			<s2 page="0273" title="Crassulaceae"></s2>
+			<s2 page="0279" title="Droseraceae"></s2>
+			<s2 page="0280" title="Hamamelidaceae"></s2>
+			<s2 page="0280" title="Haloragaceae"></s2>
+			<s2 page="0281" title="Hippuridaceae"></s2>
+			<s2 page="0281" title="Callitrichaceae"></s2>
+			<s2 page="0282" title="Combrataceae"></s2>
+			<s2 page="0284" title="Myrtaceae"></s2>
+			<s2 page="0289" title="Lecythidaceae"></s2>
+			<s2 page="0289" title="Melastomataceae"></s2>
+			<s2 page="0290" title="Lythraceae"></s2>
+			<s2 page="0291" title="Punicaceae"></s2>
+			<s2 page="0292" title="Onagraceae"></s2>
+			<s2 page="0299" title="Trapaceae"></s2>
+			<s2 page="0299" title="Passifloraceae"></s2>
+			<s2 page="0300" title="Cucurbitaceae"></s2>
+			<s2 page="0307" title="Begoniaceae"></s2>
+			<s2 page="0308" title="Datiscaceae"></s2>
+			<s2 page="0308" title="Cactaceae"></s2>
+			<s2 page="0308" title="Aizoaceae"></s2>
+			<s2 page="0309" title="Molluginaceae"></s2>
+			<s2 page="0310" title="Apiaceae"></s2>
+			<s2 page="0331" title="Araliaceae"></s2>
+			<s2 page="0332" title="Cornaceae"></s2>
+			<s2 page="0333" title="Alangiaceae"></s2>
+			<s2 page="0334" title="Caprifoliaceae"></s2>
+		</s1>
+	</book>
+	<book bid="028">
+		<s1 page="0341" title="ANGIOSPERM: Dicotyledones (Cont.)">
+			<s2 page="0341" title="Rubiaceae"></s2>
+			<s2 page="0351" title="Valerianaceae"></s2>
+			<s2 page="0353" title="Dipsacaceae"></s2>
+			<s2 page="0354" title="Morinaceae"></s2>
+			<s2 page="0355" title="Asteraceae"></s2>
+			<s2 page="0429" title="Campanulaceae"></s2>
+			<s2 page="0434" title="Ericaceae"></s2>
+			<s2 page="0437" title="Pyrolaceae"></s2>
+			<s2 page="0437" title="Monotropaceae"></s2>
+			<s2 page="0438" title="Plumbaginaceae"></s2>
+			<s2 page="0438" title="Primulaceae"></s2>
+			<s2 page="0447" title="Myrsinaceae"></s2>
+			<s2 page="0448" title="Sapotaceae"></s2>
+			<s2 page="0449" title="Ebenaceae"></s2>
+			<s2 page="0450" title="Symplocaceae"></s2>
+			<s2 page="0451" title="Oleaceae"></s2>
+			<s2 page="0456" title="Apocynaceae"></s2>
+			<s2 page="0460" title="Asclepiadaceae"></s2>
+			<s2 page="0467" title="Loganiaceae"></s2>
+			<s2 page="0468" title="Gentianaceae"></s2>
+			<s2 page="0482" title="Menyanthaceae"></s2>
+			<s2 page="0483" title="Polemoniaceae"></s2>
+			<s2 page="0484" title="Boraginaceae"></s2>
+			<s2 page="0496" title="Cordiaceae"></s2>
+			<s2 page="0497" title="Convolvulaceae"></s2>
+			<s2 page="0502" title="Cuscutaceae"></s2>
+			<s2 page="0504" title="Solanaceae"></s2>
+			<s2 page="0511" title="Scrophulariaceae"></s2>
+			<s2 page="0539" title="Selaginaceae"></s2>
+			<s2 page="0540" title="Orobanchaceae"></s2>
+			<s2 page="0541" title="Lentibulariaceae"></s2>
+			<s2 page="0542" title="Gesneriaceae"></s2>
+			<s2 page="0544" title="Bignoniaceae"></s2>
+			<s2 page="0545" title="Pedaliaceae"></s2>
+			<s2 page="0546" title="Martyniaceae"></s2>
+			<s2 page="0546" title="Acanthaceae"></s2>
+			<s2 page="0556" title="Verbenaceae"></s2>
+			<s2 page="0560" title="Phrymaceae"></s2>
+			<s2 page="0561" title="Lamiaceae"></s2>
+			<s2 page="0592" title="Plantaginaceae"></s2>
+			<s2 page="0594" title="Nyctaginaceae"></s2>
+			<s2 page="0595" title="Illecebraceae"></s2>
+			<s2 page="0596" title="Amaranthaceae"></s2>
+			<s2 page="0601" title="Chenopodiaceae"></s2>
+			<s2 page="0606" title="Basellaceae"></s2>
+			<s2 page="0607" title="Phytolaccaceae"></s2>
+			<s2 page="0607" title="Polygonaceae"></s2>
+			<s2 page="0624" title="Aristolochiaceae"></s2>
+			<s2 page="0624" title="Piperaceae"></s2>
+			<s2 page="0625" title="Saururaceae"></s2>
+			<s2 page="0625" title="Lauraceae"></s2>
+			<s2 page="0629" title="Thymelaeaceae"></s2>
+			<s2 page="0630" title="Elaeagnaceae"></s2>
+			<s2 page="0631" title="Loranthaceae"></s2>
+			<s2 page="0635" title="Santalaceae"></s2>
+			<s2 page="0635" title="Euphorbiaceae"></s2>
+			<s2 page="0647" title="Buxaceae"></s2>
+			<s2 page="0648" title="Daphniphyllaceae"></s2>
+			<s2 page="0648" title="Urticaceae"></s2>
+			<s2 page="0655" title="Ulmaceae"></s2>
+			<s2 page="0659" title="Cannabaceae"></s2>
+			<s2 page="0659" title="Moraceae"></s2>
+			<s2 page="0665" title="Platanaceae"></s2>
+			<s2 page="0665" title="Juglandaceae"></s2>
+			<s2 page="0666" title="Myricaceae"></s2>
+			<s2 page="0666" title="Betulaceae"></s2>
+			<s2 page="0669" title="Fagaceae"></s2>
+			<s2 page="0671" title="Salicaceae"></s2>
+		</s1>
+	</book>
+	<book bid="029">
+		<s1 page="0679" title="Monocotyledones">
+			<s2 page="0679" title="Hydrocharitaceae"></s2>
+			<s2 page="0679" title="Ceratophyllaceae"></s2>
+			<s2 page="0680" title="Orchidaceae"></s2>
+			<s2 page="0693" title="Zingiberaceae"></s2>
+			<s2 page="0696" title="Cannaceae"></s2>
+			<s2 page="0696" title="Musaceae"></s2>
+			<s2 page="0697" title="Iridaceae"></s2>
+			<s2 page="0698" title="Amaryllidaceae"></s2>
+			<s2 page="0702" title="Hypoxidaceae"></s2>
+			<s2 page="0703" title="agavaceae"></s2>
+			<s2 page="0703" title="Dioscoreaceae"></s2>
+			<s2 page="0705" title="Liliaceae"></s2>
+			<s2 page="0717" title="Haemodoraceae"></s2>
+			<s2 page="0718" title="Pontederiaceae"></s2>
+			<s2 page="0718" title="Commelinaceae"></s2>
+			<s2 page="0721" title="Juncaceae"></s2>
+			<s2 page="0726" title="Typhaceae"></s2>
+			<s2 page="0726" title="Araceae"></s2>
+			<s2 page="0730" title="Lemnaceae"></s2>
+			<s2 page="0732" title="Alismataceae"></s2>
+			<s2 page="0733" title="Juncaginaceae"></s2>
+			<s2 page="0733" title="Potamogetonaceae"></s2>
+			<s2 page="0735" title="Zannichelliaceae"></s2>
+			<s2 page="0736" title="Eriocaulaceae"></s2>
+			<s2 page="0737" title="Cyperaceae"></s2>
+			<s2 page="0755" title="Poaceae"></s2>
+			<s2 page="0859" title="Bambusaceae"></s2>
+		</s1>
+	</book>
+	<book bid="030">
+		<s1 page="0000ak" title="Foreword"></s1>
+		<s1 page="0000am" title="Introduction"></s1>
+		<s1 page="0001" title="Ranunculaceae"></s1>
+		<s1 page="0002" title="Dilleniaceae"></s1>
+		<s1 page="0002" title="Magnoliaceae"></s1>
+		<s1 page="0003" title="Annonaceae"></s1>
+		<s1 page="0005" title="Menispermaceae"></s1>
+		<s1 page="0007" title="Nelumbonaceae"></s1>
+		<s1 page="0007" title="Nymphaeaceae"></s1>
+		<s1 page="0007" title="Papaveraceae"></s1>
+		<s1 page="0007" title="Brassicaceae"></s1>
+		<s1 page="0009" title="Cleomaceae"></s1>
+		<s1 page="0010" title="Capparaceae"></s1>
+		<s1 page="0011" title="Violaceae"></s1>
+		<s1 page="0012" title="Bixaceae"></s1>
+		<s1 page="0012" title="Cochlospermaceae"></s1>
+		<s1 page="0012" title="Flacourtiaceae"></s1>
+		<s1 page="0014" title="Pittosporaceae"></s1>
+		<s1 page="0014" title="Polygalaceae"></s1>
+		<s1 page="0015" title="Caryophyllaceae"></s1>
+		<s1 page="0016" title="Portulacaceae"></s1>
+		<s1 page="0017" title="Tamaricaceae"></s1>
+		<s1 page="0017" title="Elatinaceae"></s1>
+		<s1 page="0017" title="Hypericaceae"></s1>
+		<s1 page="0018" title="Clusiaceae"></s1>
+		<s1 page="0019" title="Theaceae"></s1>
+		<s1 page="0019" title="Dipterocarpaceae"></s1>
+		<s1 page="0020" title="Ancistrocladaceae"></s1>
+		<s1 page="0021" title="Malvaceae"></s1>
+		<s1 page="0026" title="Bombacaceae"></s1>
+		<s1 page="0027" title="Sterculiaceae"></s1>
+		<s1 page="0029" title="Tiliaceae"></s1>
+		<s1 page="0032" title="Elaeocarpaceae"></s1>
+		<s1 page="0033" title="Erythroxylaceae"></s1>
+		<s1 page="0033" title="Linaceae"></s1>
+		<s1 page="0034" title="Malpighiaceae"></s1>
+		<s1 page="0034" title="Zygophyllaceae"></s1>
+		<s1 page="0035" title="Geraniaceae"></s1>
+		<s1 page="0035" title="Oxalidaceae"></s1>
+		<s1 page="0036" title="Balsaminaceae"></s1>
+		<s1 page="0039" title="Rutaceae"></s1>
+		<s1 page="0042" title="Simaroubaceae"></s1>
+		<s1 page="0043" title="Balanitaceae"></s1>
+		<s1 page="0043" title="Ochnaceae"></s1>
+		<s1 page="0043" title="Burseraceae"></s1>
+		<s1 page="0044" title="Meliaceae"></s1>
+		<s1 page="0047" title="Dichapetalaceae"></s1>
+		<s1 page="0047" title="Olacaceae"></s1>
+		<s1 page="0048" title="Opiliaceae"></s1>
+		<s1 page="0048" title="Icacinaceae"></s1>
+		<s1 page="0049" title="Aquifoliaceae"></s1>
+		<s1 page="0049" title="Celastraceae"></s1>
+		<s1 page="0050" title="Hippocrateaceae"></s1>
+		<s1 page="0051" title="Rhamnaceae"></s1>
+		<s1 page="0053" title="Vitaceae"></s1>
+		<s1 page="0055" title="Leeaceae"></s1>
+		<s1 page="0056" title="Staphyleaceae"></s1>
+		<s1 page="0056" title="Sapindaceae"></s1>
+		<s1 page="0058" title="Sabiaceae"></s1>
+		<s1 page="0058" title="Anacardiaceae"></s1>
+		<s1 page="0060" title="Moringaceae"></s1>
+		<s1 page="0060" title="Connaraceae"></s1>
+		<s1 page="0061" title="Fabaceae"></s1>
+		<s1 page="0086" title="Caesalpiniaceae"></s1>
+		<s1 page="0092" title="Mimosaceae"></s1>
+		<s1 page="0096" title="Rosaceae"></s1>
+		<s1 page="0098" title="Haloragaceae"></s1>
+		<s1 page="0098" title="Saxifragaceae"></s1>
+		<s1 page="0098" title="Crassulaceae"></s1>
+		<s1 page="0099" title="Droseraceae"></s1>
+		<s1 page="0100" title="Rhizophoraceae"></s1>
+		<s1 page="0100" title="Combretaceae"></s1>
+		<s1 page="0102" title="Myrtaceae"></s1>
+		<s1 page="0105" title="Barringtoniaceae"></s1>
+		<s1 page="0105" title="Lecythidaceae"></s1>
+		<s1 page="0105" title="Melastomataceae"></s1>
+		<s1 page="0107" title="Lythraceae"></s1>
+		<s1 page="0109" title="Sonneratiaceae"></s1>
+		<s1 page="0109" title="Punicaceae"></s1>
+		<s1 page="0109" title="Onagraceae"></s1>
+		<s1 page="0110" title="Trapaceae"></s1>
+		<s1 page="0110" title="Turneraceae"></s1>
+		<s1 page="0110" title="Passifloraceae"></s1>
+		<s1 page="0111" title="Caricaceae"></s1>
+		<s1 page="0111" title="Cucurbitaceae"></s1>
+		<s1 page="0115" title="Datiscaceae"></s1>
+		<s1 page="0115" title="Cactaceae"></s1>
+		<s1 page="0116" title="Begoniaceae"></s1>
+		<s1 page="0117" title="Molluginaceae"></s1>
+		<s1 page="0117" title="Aizoaceae"></s1>
+		<s1 page="0118" title="Apiaceae"></s1>
+		<s1 page="0120" title="Araliaceae"></s1>
+		<s1 page="0121" title="Alangiaceae"></s1>
+		<s1 page="0121" title="Cornaceae"></s1>
+		<s1 page="0121" title="Caprifoliaceae"></s1>
+		<s1 page="0122" title="Rubiaceae"></s1>
+		<s1 page="0134" title="Asteraceae"></s1>
+		<s1 page="0150" title="Goodeniaceae"></s1>
+		<s1 page="0150" title="Sphenocleaceae"></s1>
+		<s1 page="0150" title="Campanulaceae"></s1>
+		<s1 page="0151" title="Lobeliaceae"></s1>
+		<s1 page="0151" title="Ericaceae"></s1>
+		<s1 page="0151" title="Vacciniaceae"></s1>
+		<s1 page="0151" title="Plumbaginaceae"></s1>
+		<s1 page="0152" title="Primulaceae"></s1>
+		<s1 page="0152" title="Myrsinaceae"></s1>
+		<s1 page="0154" title="Sapotaceae"></s1>
+		<s1 page="0155" title="Ebenaceae"></s1>
+		<s1 page="0157" title="Symplocaceae"></s1>
+		<s1 page="0158" title="Oleaceae"></s1>
+		<s1 page="0160" title="Salvadoraceae"></s1>
+		<s1 page="0160" title="Apocynaceae"></s1>
+		<s1 page="0164" title="Asclepiadaceae"></s1>
+		<s1 page="0170" title="Periplocaceae"></s1>
+		<s1 page="0170" title="Loganiaceae"></s1>
+		<s1 page="0171" title="Buddlejaceae"></s1>
+		<s1 page="0172" title="Gentianaceae"></s1>
+		<s1 page="0174" title="Menyanthaceae"></s1>
+		<s1 page="0175" title="Hydrophyllaceae"></s1>
+		<s1 page="0175" title="Boraginaceae"></s1>
+		<s1 page="0176" title="Heliotropiaceae"></s1>
+		<s1 page="0177" title="Ehretiaceae"></s1>
+		<s1 page="0178" title="Cordiaceae"></s1>
+		<s1 page="0179" title="Convolvulaceae"></s1>
+		<s1 page="0185" title="Cuscutaceae"></s1>
+		<s1 page="0185" title="Solanaceae"></s1>
+		<s1 page="0189" title="Scrophulariaceae"></s1>
+		<s1 page="0194" title="Orobanchaceae"></s1>
+		<s1 page="0195" title="Lentibulariaceae"></s1>
+		<s1 page="0196" title="Gesneriaceae"></s1>
+		<s1 page="0198" title="Bignoniaceae"></s1>
+		<s1 page="0199" title="Martyniaceae"></s1>
+		<s1 page="0199" title="Pedaliaceae"></s1>
+		<s1 page="0200" title="Acanthaceae"></s1>
+		<s1 page="0214" title="Verbenaceae (incl. symphoremataceae)"></s1>
+		<s1 page="0218" title="Lamiaceae"></s1>
+		<s1 page="0226" title="Plantaginaceae"></s1>
+		<s1 page="0226" title="Nyctaginaceae"></s1>
+		<s1 page="0227" title="Amaranthaceae"></s1>
+		<s1 page="0230" title="Chenopodiaceae"></s1>
+		<s1 page="0230" title="Basellaceae"></s1>
+		<s1 page="0230" title="Polygonaceae"></s1>
+		<s1 page="0232" title="Podostemaceae"></s1>
+		<s1 page="0233" title="Aristolochiaceae"></s1>
+		<s1 page="0234" title="Piperaceae"></s1>
+		<s1 page="0235" title="Myristicaceae"></s1>
+		<s1 page="0236" title="Lauraceae"></s1>
+		<s1 page="0239" title="Cassythaceae"></s1>
+		<s1 page="0239" title="Gyrocarpaceae"></s1>
+		<s1 page="0239" title="Proteaceae"></s1>
+		<s1 page="0239" title="Thymelaeaceae"></s1>
+		<s1 page="0240" title="Elaeagnaceae"></s1>
+		<s1 page="0240" title="Loranthaceae"></s1>
+		<s1 page="0243" title="Santalaceae"></s1>
+		<s1 page="0243" title="Balanophoraceae"></s1>
+		<s1 page="0243" title="Buxaceae"></s1>
+		<s1 page="0243" title="Euphorbiaceae"></s1>
+		<s1 page="0257" title="Ulmaceae"></s1>
+		<s1 page="0258" title="Moraceae"></s1>
+		<s1 page="0261" title="Urticaceae"></s1>
+		<s1 page="0263" title="Casuarinaceae"></s1>
+		<s1 page="0263" title="Salicaceae"></s1>
+		<s1 page="0263" title="Ceratophyllaceae"></s1>
+		<s1 page="0263" title="Cycadaceae"></s1>
+		<s1 page="0263" title="Gnetaceae"></s1>
+		<s1 page="0264" title="Hydrocharitaceae"></s1>
+		<s1 page="0264" title="Burmanniaceae"></s1>
+		<s1 page="0264" title="Orchidaceae"></s1>
+		<s1 page="0278" title="Zingiberaceae"></s1>
+		<s1 page="0280" title="Costaceae"></s1>
+		<s1 page="0280" title="Marantaceae"></s1>
+		<s1 page="0281" title="Cannaceae"></s1>
+		<s1 page="0281" title="Musaceae"></s1>
+		<s1 page="0281" title="Bromeliaceae"></s1>
+		<s1 page="0281" title="Haemodoraceae"></s1>
+		<s1 page="0281" title="Iridaceae"></s1>
+		<s1 page="0282" title="Hypoxidaceae"></s1>
+		<s1 page="0282" title="Amaryllidaceae"></s1>
+		<s1 page="0282" title="Taccaceae"></s1>
+		<s1 page="0283" title="Agavaceae"></s1>
+		<s1 page="0283" title="Dioscoreaceae"></s1>
+		<s1 page="0284" title="Asparagaceae"></s1>
+		<s1 page="0285" title="Liliaceae"></s1>
+		<s1 page="0287" title="Smilacaceae"></s1>
+		<s1 page="0287" title="Pontederiaceae"></s1>
+		<s1 page="0288" title="Xyridaceae"></s1>
+		<s1 page="0288" title="Commelinaceae"></s1>
+		<s1 page="0293" title="Flagellariaceae"></s1>
+		<s1 page="0293" title="Juncaceae"></s1>
+		<s1 page="0293" title="Arecaceae"></s1>
+		<s1 page="0295" title="Pandanaceae"></s1>
+		<s1 page="0296" title="Typhaceae"></s1>
+		<s1 page="0296" title="Araceae"></s1>
+		<s1 page="0298" title="Lemnaceae"></s1>
+		<s1 page="0299" title="Alismataceae"></s1>
+		<s1 page="0299" title="Aponogetonaceae"></s1>
+		<s1 page="0299" title="Potamogetonaceae"></s1>
+		<s1 page="0300" title="Najadaceae"></s1>
+		<s1 page="0300" title="Eriocaulaceae"></s1>
+		<s1 page="0303" title="Cyperaceae"></s1>
+		<s1 page="0317" title="Poaceae"></s1>
+		<s1 page="0349" title="Bibliography"></s1>
+		<s1 page="0353" title="Index to genera &amp; generic synonyms"></s1>
+		<s1 page="0375" title="Index to Families and species synonyms"></s1>
+	</book>
+	<book bid="031">
+		<s1 page="0000c" title="Foreword"></s1>
+		<s1 page="0000d" title="Introduction"></s1>
+		<s1 page="0000f" title="Abbreviations"></s1>
+		<s1 page="0001" title="Asteraceae"></s1>
+	</book>
+	<book bid="032">
+		<s1 page="0303" title="Hydrocharitaceae"></s1>
+		<s1 page="0509" title="Bibliography"></s1>
+		<s1 page="0515" title="Index to Scientific Names"></s1>
+		<s1 page="0545" title="Index to Local Names"></s1>
+	</book>
+	<book bid="033">
+		<s1 page="0000ah" title="INTRODUCTION"></s1>
+		<s1 page="0000ah" title="Location"></s1>
+		<s1 page="0000ai" title="Climate"></s1>
+		<s1 page="0000aj" title="Geology and minerals"></s1>
+		<s1 page="0000aj" title="Soils"></s1>
+		<s1 page="0000aj" title="Vegetation"></s1>
+		<s1 page="0000as" title="Wild life sanctuaries and parks"></s1>
+		<s1 page="0000as" title="Man and ethnobotany"></s1>
+		<s1 page="0000at" title="Agricultural crops and plantations"></s1>
+		<s1 page="0000au" title="Forests and forest products"></s1>
+		<s1 page="0000au" title="Plant-based industries"></s1>
+		<s1 page="0000au" title="Early botanical history"></s1>
+		<s1 page="0000az" title="Recent botanical studies"></s1>
+		<s1 page="0000bc" title="PLAN OF THE ANALYSIS"></s1>
+		<s1 page="0001" title="ANALYSIS (Ranunculaceae to Sambucaceae)"></s1>
+		<s1 page="0185" title="INDEX TO FAMILIES"></s1>
+	</book>
+	<book bid="034">
+		<s1 page="0000e" title="Plan of the Analysis"></s1>
+		<s1 page="0001" title="Analysis"></s1>
+		<s1 page="0259" title="Index to Families"></s1>
+	</book>
+	<book bid="035">
+		<s1 page="0000e" title="Plan of the Analysis"></s1>
+		<s1 page="0001" title="Analysis"></s1>
+		<s1 page="0152" title="References"></s1>
+		<s1 page="0172" title="Index to Families"></s1>
+	</book>
+	<book bid="036">
+		<s1 page="0001" title="INTRODUCTION"></s1>
+		<s1 page="0003" title="SYSTEMATIC ACCOUNT">
+			<s2 page="0003" title="Ranunculaceae"></s2>
+			<s2 page="0003" title="Berberidaceae"></s2>
+			<s2 page="0004" title="Papaveraceae"></s2>
+			<s2 page="0005" title="Brassicaceae"></s2>
+			<s2 page="0008" title="Capparaceae"></s2>
+			<s2 page="0009" title="Violaceae"></s2>
+			<s2 page="0011" title="Flacourtiaceae"></s2>
+			<s2 page="0011" title="Polygalaceae"></s2>
+			<s2 page="0013" title="Caryophyllaceae"></s2>
+			<s2 page="0013" title="Portulacaceae"></s2>
+			<s2 page="0014" title="Tamaricaceae"></s2>
+			<s2 page="0014" title="Elatinaceae"></s2>
+			<s2 page="0015" title="Malvaceae"></s2>
+			<s2 page="0021" title="Bombacaceae"></s2>
+			<s2 page="0021" title="Sterculiaceae"></s2>
+			<s2 page="0024" title="Tiliaceae"></s2>
+			<s2 page="0027" title="Elaeocarpaceae"></s2>
+			<s2 page="0028" title="Malpighiaceae"></s2>
+			<s2 page="0029" title="Zygophyllaceae"></s2>
+			<s2 page="0030" title="Tropaeolaceae"></s2>
+			<s2 page="0030" title="Oxalidaceae"></s2>
+			<s2 page="0031" title="Balsaminaceae"></s2>
+			<s2 page="0031" title="Rutaceae"></s2>
+			<s2 page="0033" title="Burseraceae"></s2>
+			<s2 page="0034" title="Meliaceae"></s2>
+			<s2 page="0035" title="Erythropalaceae"></s2>
+			<s2 page="0035" title="Rhamnaceae"></s2>
+			<s2 page="0037" title="Vitaceae"></s2>
+			<s2 page="0041" title="Leeaceae"></s2>
+			<s2 page="0042" title="Sapindaceae"></s2>
+			<s2 page="0042" title="Anacardiaceae"></s2>
+			<s2 page="0042" title="Fabaceae"></s2>
+			<s2 page="0078" title="Caesalpiniaceae"></s2>
+			<s2 page="0082" title="Mimosaceae"></s2>
+			<s2 page="0088" title="Rosaceae"></s2>
+			<s2 page="0093" title="Saxifragaceae"></s2>
+			<s2 page="0093" title="Crassulaceae"></s2>
+			<s2 page="0094" title="Haloragidaceae"></s2>
+			<s2 page="0094" title="Myrtaceae"></s2>
+			<s2 page="0096" title="Lecythidaceae"></s2>
+			<s2 page="0097" title="Melastomataceae"></s2>
+			<s2 page="0097" title="Lythraceae"></s2>
+			<s2 page="0098" title="Cucurbitaceae"></s2>
+			<s2 page="0102" title="Cactaceae"></s2>
+			<s2 page="0103" title="Aizoaceae"></s2>
+			<s2 page="0104" title="Molluginaceae"></s2>
+			<s2 page="0104" title="Apiaceae"></s2>
+			<s2 page="0107" title="Araliaceae"></s2>
+			<s2 page="0109" title="Rubiaceae"></s2>
+			<s2 page="0118" title="Asteraceae"></s2>
+			<s2 page="0146" title="Stylidiaceae"></s2>
+			<s2 page="0147" title="Companulaceae"></s2>
+			<s2 page="0148" title="Sphenocleaceae"></s2>
+			<s2 page="0148" title="Primulaceae"></s2>
+			<s2 page="0149" title="Asclepiadaceae"></s2>
+			<s2 page="0149" title="Boraginaceae"></s2>
+			<s2 page="0151" title="Convolvulaceae"></s2>
+			<s2 page="0152" title="Orobanchaceae"></s2>
+			<s2 page="0152" title="Gesneriaceae"></s2>
+			<s2 page="0153" title="Verbenaceae"></s2>
+			<s2 page="0154" title="Lamiaceae"></s2>
+			<s2 page="0157" title="Nyctaginaceae"></s2>
+			<s2 page="0157" title="Amaranthaceae"></s2>
+			<s2 page="0158" title="Podostemaceae"></s2>
+			<s2 page="0158" title="Loranthaceae"></s2>
+			<s2 page="0159" title="Euphorbiaceae"></s2>
+			<s2 page="0162" title="Moraceae"></s2>
+			<s2 page="0162" title="Salicaceae"></s2>
+		</s1>
+		<s1 page="0163" title="REFERENCES"></s1>
+		<s1 page="0165" title="INDEX">
+			<s2 page="0165" title="1. Botanical Names"></s2>
+			<s2 page="0181" title="2. Common Names"></s2>
+		</s1>
+	</book>
+	<book bid="037">
+		<s1 page="0000ae" title="Foreword"></s1>
+		<s1 page="0000af" title="Preface"></s1>
+		<s1 page="0000ag" title="Acknowledgements"></s1>
+		<s1 page="0000ah" title="Contributors"></s1>
+		<s1 page="0000ai" title="List of Photos"></s1>
+		<s1 page="0000ak" title="Kerala State Map"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0111" title="Systematic Enumeration">
+			<s2 page="0111" title="Ranunculaceae"></s2>
+			<s2 page="0118" title="Dilleniaceae"></s2>
+			<s2 page="0126" title="Magnoliaceae"></s2>
+			<s2 page="0129" title="Schisandraceae"></s2>
+			<s2 page="0131" title="Annonaceae"></s2>
+			<s2 page="0176" title="Menispermaceae"></s2>
+			<s2 page="0195" title="Berberidaceae"></s2>
+			<s2 page="0198" title="Nymphaeaceae"></s2>
+			<s2 page="0203" title="Cabombaceae"></s2>
+			<s2 page="0205" title="Nelumbonaceae"></s2>
+			<s2 page="0206" title="Papaveraceae"></s2>
+			<s2 page="0208" title="Cruciferae"></s2>
+			<s2 page="0222" title="Capparaceae"></s2>
+			<s2 page="0249" title="Violaceae"></s2>
+			<s2 page="0256" title="Bixaceae"></s2>
+			<s2 page="0260" title="Flacourtiaceae"></s2>
+			<s2 page="0283" title="Pittosporaceae"></s2>
+			<s2 page="0287" title="Polygalaceae"></s2>
+			<s2 page="0306" title="Xanthophyllaceae"></s2>
+			<s2 page="0308" title="Caryophyllaceae"></s2>
+			<s2 page="0315" title="Portulacaceae"></s2>
+			<s2 page="0320" title="Elatinaceae"></s2>
+			<s2 page="0324" title="Hypericaceae"></s2>
+			<s2 page="0328" title="Guttiferae"></s2>
+			<s2 page="0353" title="Theaceae"></s2>
+			<s2 page="0358" title="Dipterocarpaceae"></s2>
+			<s2 page="0374" title="Ancistrocladaceae"></s2>
+			<s2 page="0375" title="Malvaceae"></s2>
+			<s2 page="0442" title="Bombacaceae"></s2>
+			<s2 page="0449" title="Sterculiaceae"></s2>
+			<s2 page="0477" title="Tiliaceae"></s2>
+			<s2 page="0498" title="Elaeocarpaceae"></s2>
+			<s2 page="0505" title="Linaceae"></s2>
+			<s2 page="0509" title="Erythroxylaceae"></s2>
+			<s2 page="0513" title="Malpighiaceae"></s2>
+			<s2 page="0518" title="Zygophyllaceae"></s2>
+			<s2 page="0521" title="Geraniaceae"></s2>
+			<s2 page="0524" title="Balsaminaceae"></s2>
+			<s2 page="0565" title="Oxalidaceae"></s2>
+			<s2 page="0579" title="Rutaceae"></s2>
+			<s2 page="0616" title="Simaroubaceae"></s2>
+			<s2 page="0621" title="Ochnaceae"></s2>
+			<s2 page="0626" title="Burseraceae"></s2>
+			<s2 page="0635" title="Meliaceae"></s2>
+			<s2 page="0669" title="Dichapetalaceae"></s2>
+			<s2 page="0671" title="Olacaceae"></s2>
+			<s2 page="0679" title="Opiliaceae"></s2>
+			<s2 page="0682" title="Icacinaceae"></s2>
+			<s2 page="0691" title="Aquifoliaceae"></s2>
+			<s2 page="0695" title="Celastraceae"></s2>
+			<s2 page="0722" title="Rhamnaceae"></s2>
+			<s2 page="0736" title="Vitaceae"></s2>
+			<s2 page="0763" title="Leeaceae"></s2>
+			<s2 page="0769" title="Sapindaceae"></s2>
+			<s2 page="0787" title="Staphyleaceae"></s2>
+			<s2 page="0790" title="Sabiaceae"></s2>
+			<s2 page="0795" title="Anacardiaceae"></s2>
+			<s2 page="0820" title="Moringaceae"></s2>
+			<s2 page="0821" title="connaraceae"></s2>
+		</s1>
+		<s1 page="0831" title="References"></s1>
+		<s1 page="0850" title="Index to botanical names"></s1>
+		<s1 page="0878" title="Index to local names"></s1>
+	</book>
+</s2>

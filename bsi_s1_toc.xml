@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE s1 SYSTEM "s1.dtd">
+
+<s1>
+	<book bid="001">
+		<s1 page="0000e" title="Preface" author=""></s1>
+		<s1 page="0001" title="Coriariaceae" author="Rau, M. A."></s1>
+		<s1 page="0005" title="Paeoniaceae" author="Rau, M. A."></s1>
+	</book>
+	<book bid="002">
+		<s1 page="0000e" title="Preface" author=""></s1>
+		<s1 page="0001" title="Dilleniaceae" author="Majumdar, N. C.">
+			<s2 page="0014" title="Abbreviations of Languages" author=""></s2>
+			<s2 page="0015" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0016" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="003">
+		<s1 page="0001" title="Garnotieae" author="Prakash, Ved;Jain, S. K.">
+			<s2 page="0015" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0016" title="Index to Local Name" author=""></s2>
+		</s1>
+	</book>
+	<book bid="004">
+		<s1 page="0001" title="Simaroubaceae" author="Basak, R. K."></s1>
+		<s1 page="0019" title="Balanitaceae" author="Basak, R. K.">
+			<s2 page="0022" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0024" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="005">
+		<s1 page="0001" title="Orchidaceae : Genus&#8212;Coelogyne" author="Das, Sandhyajyoti;Jain, S. K.">
+			<s2 page="0032" title="Index to Scientific Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="006">
+		<s1 page="0001" title="Pittosporaceae" author="Nayar, M. P.;Giri, G. S.">
+			<s2 page="0014" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0015" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="007">
+		<s1 page="0001" title="Liliaceae : Tribe&#8212;Scilleae" author="Deb, D. B.;Dasgupta, S.">
+			<s2 page="0022" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0023" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="008">
+		<s1 page="0001" title="Leguminosae : Genus&#8212;Derris" author="Thothathri, K.">
+			<s2 page="0031" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0033" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="009">
+		<s1 page="0001" title="Aceraceae : Genus&#8212;Acera" author="Nayar, M. P.;Datta, Anukul">
+			<s2 page="0021" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0022" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="010">
+		<s1 page="0001" title="Annonaceae : Tribe&#8212;Uvarieae" author="Mitra, Debika (!!née!! Das)">
+			<s2 page="0020" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0021" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="011">
+		<s1 page="0001" title="Cucurbitaceae" author="Chakravarty, H. L.">
+			<s2 page="0127" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0133" title="Index to Local Names" author=""></s2>
+			<s2 page="0136" title="Author's Note on the Family" author=""></s2>
+		</s1>
+	</book>
+	<book bid="012">
+		<s1 page="0001" title="Violaceae" author="Banerjee, S. P.;Pramanik, B. B.">
+			<s2 page="0038" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0040" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="013">
+		<s1 page="0001" title="Linaceae" author="Hajra, P. K."></s1>
+		<s1 page="0013" title="Ixonanthaceaf" author="Hajra, P. K.">
+			<s2 page="0016" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0016" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="014">
+		<s1 page="0001" title="Poaceae : Tribe&#8212;Isachneae" author="Prakash, Ved;Jain, S. K.">
+			<s2 page="0041" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0042" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="015">
+		<s1 page="0001" title="Poaceae : Tribe&#8212;Andropogoneae" author="Deshpande, U. R.">
+			<s2 page="0028" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0030" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="016">
+		<s1 page="0001" title="Asclepiadaceae : Genus&#8212;Ceropegia" author="Ansari, M. Y.">
+			<s2 page="0033" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0034" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="017">
+		<s1 page="0001" title="Papaveraceae" author="Debnath, H. S.;Nayar, M. P."></s1>
+		<s1 page="0042" title="Hypecoaceae" author="Debnath, H. S.;Nayar, M. P.">
+			<s2 page="0047" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0048" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="018">
+		<s1 page="0001" title="Rosaceae : Genus&#8212;Prunus" author="Ghora, Chhabi;Panigrahi, G.">
+			<s2 page="0041" title="Index to Scientific Names" author=""></s2>
+			<s2 page="0043" title="Index to Local Names" author=""></s2>
+		</s1>
+	</book>
+	<book bid="019">
+		<s1 page="0001" title="ALANGIACEAE" author="Matther, K. M."></s1>
+		<s1 page="0006" title="BURMANNIACEAE" author="Hajra, P. K."></s1>
+		<s1 page="0016" title="COCHLOSPERMACEAE" author="Paul, T. K.;Nayar, M. P."></s1>
+		<s1 page="0020" title="CORNACEAE" author="Matthew, K. M."></s1>
+		<s1 page="0029" title="LARDIZABALACEAE" author="Nayar, M. P.;Paul, T. K."></s1>
+		<s1 page="0039" title="LOBELIACEAE" author="Haridasan, V. K.;Mukherjee, P. K."></s1>
+		<s1 page="0064" title="MALVACEAE" author="Paul, T. K.;Nayar, M. P."></s1>
+		<s1 page="0234" title="NYSSACEAE" author="Matthew, K. M."></s1>
+	</book>
+	<book bid="020">
+		<s1 page="0001" title="BARCLAYACEAE" author="Mitra, R. L."></s1>
+		<s1 page="0003" title="CABOMBACEAE" author="Mitra, R. L."></s1>
+		<s1 page="0008" title="NELUBONACEAE" author="Mitra, R. L."></s1>
+		<s1 page="0011" title="NYMPHAEACEAE" author="Mitra, R. L."></s1>
+		<s1 page="0026" title="RHAMNACEAE" author="Bhandari, M. M.;Bhansal, A. K."></s1>
+		<s1 page="0115" title="SABIACEAE" author="Nayar, M. P.;Majumdar, S. C."></s1>
+		<s1 page="0135" title="STACHYURACEAE" author="Singh, S.;Raju, D. C. S."></s1>
+		<s1 page="0137" title="SYMPLOCACEAE" author="Hore, D. K."></s1>
+		<s1 page="0173" title="TETRACENTRACEAE" author="Rao, Rolla S.;Hajra, P. K."></s1>
+		<s1 page="0176" title="ZYGOPHYLLACEAE" author="Singh, Paramjit;Singh, V."></s1>
+	</book>
+	<book bid="021">
+		<s1 page="0001" title="LEGUMINOSAE - PAPILIONOIDEAE : TRIBE - INDIGOFEREAE" author="Sanjappa, M."></s1>
+		<s1 page="0161" title="INDEX OF BOTANICAL NAMES" author=""></s1>
+		<s1 page="0165" title="INDEX OF LOCAL NAMES" author=""></s1>
+	</book>
+	<book bid="022">
+		<s1 page="0001" title="SALVADORACEAE" author="Rao, T. A."></s1>
+		<s1 page="0011" title="SONNERATIACEAE" author="Rao, T. A."></s1>
+		<s1 page="0020" title="GOODENIACEAE" author="Rao, T. A."></s1>
+		<s1 page="0025" title="COMPANULACEAE" author="Haridasan, V. K.;Mukherjee, P. K."></s1>
+		<s1 page="0119" title="ELLISIOPHYLLACEAE" author="Rao, T. A."></s1>
+		<s1 page="0122" title="APONOGETONACEAE" author="Raghavan, R. Sundara"></s1>
+		<s1 page="0139" title="INDEX OF BOTANICAL NAMES" author=""></s1>
+		<s1 page="0143" title="INDEX OF LOCAL NAMES" author=""></s1>
+	</book>
+	<book bid="023">
+		<s1 page="0001" title="ALLIACEAE" author="Dasgupta, Syamali"></s1>
+		<s1 page="0049" title="LILIACEAE" author="Dasgupta, Syamali"></s1>
+		<s1 page="0105" title="TRILLIACEAE" author="Dasgupta, Syamali"></s1>
+		<s1 page="0116" title="UVULARIACEAE" author="Dasgupta, Syamali"></s1>
+		<s1 page="0127" title="INDEX OF BOTANICAL NAMES" author=""></s1>
+	</book>
+	<book bid="024">
+		<s1 page="0001" title="ASCLEPIADACEAE" author=""></s1>
+		<s1 page="0285" title="PERIPLOCACEAE" author=""></s1>
+	</book>
+</s1>
