@@ -11,17 +11,59 @@
 <?php
 
 include("connect.php");
+require_once("../common.php");
 
 $book_id = $_GET['book_id'];
 $type = $_GET['type'];
 $book_title = $_GET['book_title'];
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+$book_title = entityReferenceReplace($book_title);
+
+if(!(isValidId($book_id) && isValidType($type) && isValidTitle($book_title)))
+{
+	echo "Invalid URL";
+	echo "		</div>
+			</div>
+		</div>
+	</div>
+	<div class=\"footer_top\">
+		&nbsp;
+	</div>
+	<div class=\"footer\">
+		<div class=\"footer_inside\">
+			<img src=\"../../php/images/painting_background.png\" style=\"float: right;margin: -250px 0 0 0px;\"  alt=\"\"/>
+			<p>
+				Botanical Survey of India<br />
+				CGO Complex, 3rd MSO Building, Block F (5th &amp; 6th Floor),<br />
+				DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
+			</p>
+			<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
+			<p>&copy; 2013, Botanical Survey of India<br /></p>
+		</div>
+	</div>
+	<script type=\"text/javascript\" src=\"../../php/js/sticky.js\"></script>
+	</body>
+
+	</html>";	
+	exit(1);
+}
+
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
 
 $query = "select * from s3_book_toc where book_id=$book_id and type='$type' order by slno";
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+
+//~ $result = mysql_query($query);
+//~ $num_rows = mysql_num_rows($result);
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
 
 $stack = array();
 $p_stack = array();
@@ -37,11 +79,16 @@ $bullet = "<img class=\"bpointer\" src=\"../images/bullet_1.gif\" alt=\"Point\" 
 //~ $plus_link = "+";
 //~ $bullet = ".";
 
-
 $query_aux = "select * from s3_books_list where book_id=$book_id and type='s3'";
-$result_aux = mysql_query($query_aux);
-$num_rows_aux = mysql_num_rows($result_aux);
-$row_aux=mysql_fetch_assoc($result_aux);
+
+//~ $result_aux = mysql_query($query_aux);
+//~ $num_rows_aux = mysql_num_rows($result_aux);
+
+$result_aux = $db->query($query_aux); 
+$num_rows_aux = $result_aux->num_rows;
+
+//~ $row_aux=mysql_fetch_assoc($result_aux);
+$row_aux = $result_aux->fetch_assoc();
 
 $edition = $row_aux['edition'];
 $volume = $row_aux['volume'];
@@ -50,6 +97,8 @@ $authorname = $row_aux['authorname'];
 $page = $row_aux['page'];
 $page_end = $row_aux['page_end'];
 $type = $row_aux['type'];
+
+$result_aux->free();
 
 $anames = preg_replace("/;/", ",&nbsp;&nbsp;", $authorname);
 $anames = preg_split("/;/", $authorname);
@@ -113,7 +162,8 @@ if($num_rows)
 	echo "<div class=\"treeview noMTop\">";
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		//~ $row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
 		
 		$level = $row['level'];
 		$title = $row['title'];
@@ -209,6 +259,9 @@ else
 	echo "No data in the database";
 }
 
+$result->free();
+$db->close();
+
 function display_stack($stack)
 {
 	for($j=0;$j<sizeof($stack);$j++)
@@ -233,7 +286,6 @@ function display_tabs($num)
 	return $str_tabs;
 }
 
-mysql_close($db);
 ?>
 
 			</div>

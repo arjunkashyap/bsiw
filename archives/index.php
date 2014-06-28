@@ -101,17 +101,26 @@
 
 include("fli/connect.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
+
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
 
 echo "<tr>
 	<td style=\"text-align:right;\"><label for=\"autocomplete\" class=\"titlespan\">Author: &nbsp;</label></td>
 	<td><input name=\"author\" type=\"text\" class=\"titlespan wide\" id=\"autocomplete\" />";
 	
 $query_ac = "select * from author where type regexp '4|5|6' order by authorname";
-$result_ac = mysql_query($query_ac);
 
-$num_rows_ac = mysql_num_rows($result_ac);
+//~ $result_ac = mysql_query($query_ac);
+//~ $num_rows_ac = mysql_num_rows($result_ac);
+
+$result_ac = $db->query($query_ac); 
+$num_rows_ac = $result_ac->num_rows;
 
 echo "<script type=\"text/javascript\">$( \"#autocomplete\" ).autocomplete({source: [ ";
 
@@ -121,7 +130,8 @@ if($num_rows_ac)
 {
 	for($i=1;$i<=$num_rows_ac;$i++)
 	{
-		$row_ac=mysql_fetch_assoc($result_ac);
+		//~ $row_ac=mysql_fetch_assoc($result_ac);
+		$row_ac = $result_ac->fetch_assoc();
 
 		$authorname=$row_ac['authorname'];
 
@@ -136,6 +146,10 @@ echo "</tr>
 	<td style=\"text-align:right;\"><span class=\"titlespan\">Title: &nbsp;</span></td>
 	<td><input name=\"title\" type=\"text\" class=\"titlespan wide\" id=\"textfield2\" /></td>
 </tr>";
+
+$result_ac->free();
+$db->close();
+
 ?>
 						<tr>
 							<td style="text-align:right;"><span class="titlespan">Words: &nbsp;</span></td>

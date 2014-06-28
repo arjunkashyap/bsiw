@@ -25,20 +25,30 @@
 <?php
 
 include("fli/connect.php");
+require_once("common.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
+
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
 if(isset($_POST['check']))
 {
-
 	$check=$_POST['check'];
 	
 	$author=$_POST['author'];
 	$text=$_POST['text'];
 	$title=$_POST['title'];
+
+	$text = entityReferenceReplace($text);
+	$author = entityReferenceReplace($author);
+	$title = entityReferenceReplace($title);
 
 	$author = preg_replace("/[\t]+/", " ", $author);
 	$author = preg_replace("/[ ]+/", " ", $author);
@@ -66,6 +76,10 @@ if(isset($_POST['check']))
 	}
 	
 	$cfl = 0;
+
+	$author = addslashes($author);
+	$title = addslashes($title);
+
 
 	if($text=='')
 	{
@@ -115,7 +129,9 @@ if(isset($_POST['check']))
 			$stext = $text;
 			$dtext = $stext = preg_replace("/ /", "|", $text);
 		}
-
+		
+		$stext = addslashes($stext);
+		
 		$iquery{"bul"}="(SELECT * FROM
 							(SELECT * FROM
 								(SELECT * FROM
@@ -197,10 +213,12 @@ if(isset($_POST['check']))
 */
 	}
 
-	$result = mysql_query($query);
-
-	$num_results = mysql_num_rows($result);
-
+	//~ $result = mysql_query($query);
+	//~ $num_results = mysql_num_rows($result);
+	
+	$result = $db->query($query); 
+	$num_results = $result->num_rows;
+	
 	echo "<div id=\"contentWrapper_longer\" style=\"width:680px;\">
 			<div class=\"page_title\">
 				<div class=\"col1 colL largeSpace\">
@@ -220,7 +238,8 @@ if(isset($_POST['check']))
 	{
 		for($i=1;$i<=$num_results;$i++)
 		{
-			$row1 = mysql_fetch_assoc($result);
+			//~ $row1 = mysql_fetch_assoc($result);
+			$row1 = $result->fetch_assoc();
 
 			if(isset($row1['titleid']))
 			{
@@ -263,7 +282,7 @@ if(isset($_POST['check']))
 			
 			$title = preg_replace('/!!(.*)!!/', "<i>$1</i>", $title);
 			$title = preg_replace('/!/', "", $title);
-		
+
 			if($text != '')
 			{
 				$cur_page = $row1['cur_page'];
@@ -288,9 +307,14 @@ if(isset($_POST['check']))
 					
 					$query_aux = "select * from ".$type."_books_list where book_id='$book_id' and type='$type'";
 					
-					$result_aux = mysql_query($query_aux);
-					$num_rows_aux = mysql_num_rows($result_aux);
-					$row_aux=mysql_fetch_assoc($result_aux);
+					//~ $result_aux = mysql_query($query_aux);
+					//~ $num_rows_aux = mysql_num_rows($result_aux);
+					
+					$result_aux = $db->query($query_aux); 
+					$num_rows_aux = $result_aux->num_rows;
+
+					//~ $row_aux=mysql_fetch_assoc($result_aux);
+					$row_aux = $result_aux->fetch_assoc();
 
 					$page_end = $row_aux['page_end'];
 					$edition = $row_aux['edition'];
@@ -351,16 +375,23 @@ if(isset($_POST['check']))
 						echo "<span class=\"downloadspan\"><a href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=$cur_page.djvu&amp;zoom=page&amp;find=$dtext/r\" target=\"_blank\">".intval($cur_page)."</a> &nbsp;</span>";
 						$id = $slno;
 					}
+					$result_aux->free();
 				}
 				elseif(($type == "fli") || ($type == "s1") || ($type == "vnv"))
 				{
 					$book_info = "";
 			
 					$query_aux = "select * from ".$type."_books_list where book_id=$book_id and type='".$type."'";
-					$result_aux = mysql_query($query_aux);
-					$num_rows_aux = mysql_num_rows($result_aux);
-					$row_aux=mysql_fetch_assoc($result_aux);
 
+					//~ $result_aux = mysql_query($query_aux);
+					//~ $num_rows_aux = mysql_num_rows($result_aux);
+					
+					$result_aux = $db->query($query_aux); 
+					$num_rows_aux = $result_aux->num_rows;
+
+					//~ $row_aux=mysql_fetch_assoc($result_aux);
+					$row_aux = $result_aux->fetch_assoc();
+					
 					$btitle = $row_aux['title'];
 					$slno = $row_aux['slno'];
 					$edition = $row_aux['edition'];
@@ -439,14 +470,19 @@ if(isset($_POST['check']))
 						echo "<span class=\"downloadspan\"><a href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=$cur_page.djvu&amp;zoom=page&amp;find=$dtext/r\" target=\"_blank\">".intval($cur_page)."</a> &nbsp;</span>";
 						$id = $slno;
 					}
+					$result_aux->free();
 				}
 				elseif(($type == "bulletin") || ($type == "records"))
 				{
 					$titleid = $book_id;
 					
 					$query_aux = "select * from article_".$type." where titleid='$titleid'";
-					$result_aux = mysql_query($query_aux);
-					$row_aux=mysql_fetch_assoc($result_aux);
+
+					//~ $result_aux = mysql_query($query_aux);
+					$result_aux = $db->query($query_aux); 
+					
+					//~ $row_aux=mysql_fetch_assoc($result_aux);
+					$row_aux = $result_aux->fetch_assoc();
 
 					$titleid=$row_aux['titleid'];
 					$title=$row_aux['title'];
@@ -463,9 +499,16 @@ if(isset($_POST['check']))
 					$title1=addslashes($title);
 
 					$query3 = "select feat_name from feature_".$type." where featid='$featid'";
-					$result3 = mysql_query($query3);		
-					$row3=mysql_fetch_assoc($result3);
+					
+					//~ $result3 = mysql_query($query3);		
+					$result3 = $db->query($query3); 
+					
+					//~ $row3=mysql_fetch_assoc($result3);
+					$row3 = $result3->fetch_assoc();
+					
 					$feature=$row3['feat_name'];
+					
+					$result3->free();
 					
 					echo "<p class=\"pnowrap\"><span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$type/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 					echo "<br /><span class=\"bookspan sml\">$dtype&nbsp;&nbsp;|&nbsp;&nbsp;<a href=\"$type/toc.php?vol=$volume&amp;part=$part\" target=\"_blank\">Vol.&nbsp;".intval($volume)."&nbsp;(p. ".$part.")&nbsp;;&nbsp;" . $month_name{intval($month)}."&nbsp;".$year."</a>";
@@ -485,6 +528,7 @@ if(isset($_POST['check']))
 						echo "<span class=\"downloadspan\"><a href=\"../Volumes/$type/$volume/$part/index.djvu?djvuopts&amp;page=$cur_page.djvu&amp;zoom=page&amp;find=$dtext/r\" target=\"_blank\">".intval($cur_page)."</a> &nbsp;</span>";
 						$id = $titleid;
 					}
+					$result_aux->free();
 				}
 			}
 			else
@@ -511,12 +555,14 @@ if(isset($_POST['check']))
 		echo"<span class=\"titlespan\">No results</span><br />";
 		echo"<span class=\"authorspan\"><a href=\"search.php\">Go back and Search again</a></span>";
 	}
+	$result->free();
 }
 else
 {
 	echo"<span class=\"titlespan\">Please slect at least one publication</span><br />";
 	echo"<span class=\"authorspan\"><a href=\"search.php\">Go back and Search again</a></span>";
 }
+$db->close();
 ?>
 				</div>
 			</div>
@@ -557,17 +603,20 @@ function print_author($authid)
 		foreach ($aut as $aid)
 		{
 			$query2 = "select * from author where authid=$aid";
-			$result2 = mysql_query($query2);
 
-			$num_rows2 = mysql_num_rows($result2);
+			//~ $result2 = mysql_query($query2);
+			//~ $num_rows2 = mysql_num_rows($result2);
+			
+			$result2 = $db->query($query2); 
+			$num_rows2 = $result2->num_rows;
 
 			if($num_rows2)
 			{
-				$row2=mysql_fetch_assoc($result2);
+				//~ $row2=mysql_fetch_assoc($result2);
+				$row2 = $result2->fetch_assoc();
 
 				$authorname=$row2['authorname'];
 				
-
 				if($fl == 0)
 				{
 					echo "<span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=".urlencode($authorname)."\">$authorname</a></span>";
@@ -578,7 +627,7 @@ function print_author($authid)
 					echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=".urlencode($authorname)."\">$authorname</a></span>";
 				}
 			}
-
+			$result2->free();
 		}
 		echo "<br />";
 	}

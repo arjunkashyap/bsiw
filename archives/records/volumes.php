@@ -22,15 +22,24 @@
 
 include("connect.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
+
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
 
 $row_count = 10;
 
 $query = "select distinct volume from article_records order by volume";
-$result = mysql_query($query);
 
-$num_rows = mysql_num_rows($result);
+//~ $result = mysql_query($query);
+//~ $num_rows = mysql_num_rows($result);
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
 
 $count = 0;
 $col = 1;
@@ -39,14 +48,26 @@ if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		//~ $row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
+		
 		$volume=$row['volume'];
 
 		$query1 = "select distinct year from article_records where volume='$volume'";
-		$result1 = mysql_query($query1);
-		$num_rows1 = mysql_num_rows($result1);
-		$row1=mysql_fetch_assoc($result1);
+		
+		//~ $result1 = mysql_query($query1);
+		//~ $num_rows1 = mysql_num_rows($result1);
+		
+		$result1 = $db->query($query1); 
+		$num_rows1 = $result1->num_rows;		
+
+		//~ $row1=mysql_fetch_assoc($result1);
+		$row1 = $result1->fetch_assoc();
+
 		$year=$row1['year'];
+		
+		$result1->free();
+		
 		$count++;
 		$volume_int = intval($volume);
 		if($count > $row_count)
@@ -59,6 +80,9 @@ if($num_rows)
 		echo "<li><span class=\"yearspan\"><a href=\"part.php?vol=$volume&amp;year=$year\">Volume $volume_int ($year)</a></span></li>";
 	}
 }
+
+$result->free();
+$db->close();
 
 ?>
 						</ul>

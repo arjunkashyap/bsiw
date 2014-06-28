@@ -12,12 +12,46 @@
 <?php
 
 include("connect.php");
+require_once("../common.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
+
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
 
 $volume=$_GET['vol'];
 $year=$_GET['year'];
+
+if(!(isValidVolume($volume) && isValidYear($year)))
+{
+	echo "Invalid URL";
+	echo "</div>
+	</div>
+	</div>
+	<div class=\"footer_top\">
+		&nbsp;
+	</div>
+	<div class=\"footer\">
+		<div class=\"footer_inside\">
+			<img src=\"../../php/images/painting_background.png\" style=\"float: right;margin: -250px 0 0 0px;\"  alt=\"\"/>
+			<p>
+				Botanical Survey of India<br />
+				CGO Complex, 3rd MSO Building, Block F (5th &amp; 6th Floor),<br />
+				DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
+			</p>
+			<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
+			<p>&copy; 2013, Botanical Survey of India<br /></p>
+		</div>
+	</div>
+	<script type=\"text/javascript\" src=\"../../php/js/sticky.js\"></script>
+	</body>
+	</html>";	
+	exit(1);
+}
 
 echo "<div class=\"page_title\"><span class=\"rec_motif\"></span><h2>Volume&nbsp;".intval($volume)."&nbsp;(".$year.")</h2></div>
 			<div class=\"textSmall\" style=\"width:750px;\">
@@ -28,9 +62,12 @@ $row_count = 4;
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
 $query = "select distinct part from article_records where volume='$volume' order by part";
-$result = mysql_query($query);
 
-$num_rows = mysql_num_rows($result);
+//~ $result = mysql_query($query);
+//~ $num_rows = mysql_num_rows($result);
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
 
 $count = 0;
 $col = 1;
@@ -39,25 +76,41 @@ if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		//~ $row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
+		
 		$part=$row['part'];
 		
 		$query11 = "select min(page) as minpage from article_records where volume='$volume' and part='$part'";
-		$result11 = mysql_query($query11);
-		$num_rows11 = mysql_num_rows($result11);
+
+		//~ $result11 = mysql_query($query11);
+		//~ $num_rows11 = mysql_num_rows($result11);
+		
+		$result11 = $db->query($query11); 
+		$num_rows11 = $result11->num_rows;
+
 		if($num_rows11)
 		{
-			$row11=mysql_fetch_assoc($result11);
+			//~ $row11=mysql_fetch_assoc($result11);
+			$row11 = $result11->fetch_assoc();
+			
 			$page_start = $row11['minpage'];
 			$page_start = intval($page_start);
 		}
+		$result11->free();
 
 		$query12 = "select max(page_end) as maxpage from article_records where volume='$volume' and part='$part'";
-		$result12 = mysql_query($query12);
-		$num_rows12 = mysql_num_rows($result12);
+		
+		//~ $result12 = mysql_query($query12);
+		//~ $num_rows12 = mysql_num_rows($result12);
+		$result12 = $db->query($query12); 
+		$num_rows12 = $result12->num_rows;
+		
 		if($num_rows12)
 		{
-			$row12=mysql_fetch_assoc($result12);
+			//~ $row12=mysql_fetch_assoc($result12);
+			$row12 = $result12->fetch_assoc();
+			
 			$page_end = $row12['maxpage'];
 			$page_end = intval($page_end);
 		}
@@ -68,11 +121,18 @@ if($num_rows)
 		}
 
 		$query1 = "select distinct month from article_records where volume='$volume' and part='$part' order by month";
-		$result1 = mysql_query($query1);
-		$num_rows1 = mysql_num_rows($result1);
+		
+		//~ $result1 = mysql_query($query1);
+		//~ $num_rows1 = mysql_num_rows($result1);
+		
+		$result1 = $db->query($query1); 
+		$num_rows1 = $result1->num_rows;
+		
 		if($num_rows1)
 		{
-			$row1=mysql_fetch_assoc($result1);
+			//~ $row1=mysql_fetch_assoc($result1);
+			$row1 = $result1->fetch_assoc();
+			
 			$month = $row1['month'];
 
 			$count++;
@@ -94,8 +154,13 @@ if($num_rows)
 			}
 			echo "<br /><span class=\"gap_left\">pp. $page_start-$page_end</span></a></span></li>";
 		}
+		$result1->free();
 	}
 }
+
+$result->free();
+$db->close();
+
 ?>
 						</ul>
 					</div>

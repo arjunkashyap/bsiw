@@ -17,13 +17,23 @@
 <?php
 include("s2/connect.php");
 
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
 
 $query = "select * from s2_books_list order by slno";
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+
+//~ $result = mysql_query($query);
+//~ $num_rows = mysql_num_rows($result);
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
+
 if(!$num_rows){
 	echo "No data in Database"; 
 }
@@ -33,7 +43,7 @@ $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"Ap
 ?>
 
 <ul class="newBookUl">
-<?php while($row = mysql_fetch_assoc($result)){ ?>
+<?php while($row = $result->fetch_assoc()){ ?>
 	<?php //print_r($row); ?>
 	<li>
 		<div class="bookImg">
@@ -49,10 +59,10 @@ $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"Ap
 				<div class="bookAuthors">
 					<?php foreach($explodedAuthors as $auth) { ?>
 						<?php $query2 = "select * from author where authid=$auth LIMIT 1"; ?>
-						<?php $result2 = mysql_query($query2); ?>
-						<?php while($aRow = mysql_fetch_assoc($result2)) { ?>
+						<?php $result2 = $db->query($query2); ?>
+						<?php while($aRow = $result2->fetch_assoc()) { ?>
 							<a href="auth.php?authid=<?php echo $aRow['authid']; ?>&amp;author=<?php echo urlencode($aRow['authorname']); ?>" ><?php echo $aRow['authorname']; ?></a>
-						<?php } ?>
+						<?php } $result2->free(); ?>
 					<?php } ?>
 				</div>
 			<?php } ?>
@@ -84,7 +94,8 @@ $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"Ap
 </ul>
 
 <?php
-	mysql_close($db);
+$result->free();
+$db->close();
 ?>
 			</div>
 		</div>
