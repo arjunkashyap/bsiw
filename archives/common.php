@@ -15,12 +15,15 @@ function isValidTitle($title)
 /*
 	return preg_match("/^[a-zA-Z0-9,\(\):;\.\&\-\'\_ ]+$/", $title) ? true : false;
 */
-	return(true);
+	if(!(empty($title)))
+	{
+		return(true);
+	}
 }
 
 function isValidLetter($letter)
 {
-	return preg_match("/^[A-Z]$/", $letter) ? true : false;
+	return preg_match("/^([A-Z]|Special)$/", $letter) ? true : false;
 }
 
 function isValidVolume($vol)
@@ -43,7 +46,10 @@ function isValidFeature($feature)
 /*
 	return preg_match("/^[a-zA-Z0-9,\(\):;\.\&\-\'\_ ]+$/", $feature) ? true : false;
 */
-	return(true);
+	if(!(empty($feature)))
+	{
+		return(true);
+	}
 }
 
 function isValidFeatid($featid)
@@ -61,7 +67,10 @@ function isValidAuthor($author)
 /*
 	return preg_match("/^[a-zA-Z0-9,\(\):;\.\&\- ]+$/", $author) ? true : false;
 */
-	return(true);
+	if(!(empty($author)))
+	{
+		return(true);
+	}
 }
 
 function isValidText($text)
@@ -74,13 +83,15 @@ function isValidText($text)
 
 function entityReferenceReplace($term)
 {
+	$term = preg_replace("/<i>/", "", $term);
+	$term = preg_replace("/<\/i>/", "", $term);
+	$term = preg_replace("/\;/", "&#59;", $term);
 	$term = preg_replace("/</", "&#60;", $term);
 	$term = preg_replace("/=/", "&#61;", $term);
 	$term = preg_replace("/>/", "&#62;", $term);
 	$term = preg_replace("/\(/", "&#40;", $term);
 	$term = preg_replace("/\)/", "&#41;", $term);
-	$term = preg_replace("/\:/", "&#59;", $term);
-	$term = preg_replace("/\;/", "&#58;", $term);
+	$term = preg_replace("/\:/", "&#58;", $term);
 	$term = preg_replace("/Drop table|Create table|Alter table|Delete from|Desc table|Show databases/i", "", $term);
 	
 	return($term);

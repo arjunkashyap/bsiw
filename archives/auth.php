@@ -27,19 +27,15 @@ if($db->connect_errno > 0){
 }
 
 
-$authid=$_GET['authid'];
-$authorname=$_GET['author'];
+if(isset($_GET['authid'])){$authid = $_GET['authid'];}else{$authid = '';}
+if(isset($_GET['author'])){$authorname = $_GET['author'];}else{$authorname = '';}
 
 $authorname = entityReferenceReplace($authorname);
 
 if(!(isValidAuthid($authid) && isValidAuthor($authorname)))
 {
-	echo "Invalid URL";
-	echo "			</ul>
-				</div>
-				<div class=\"clearfix\"></div>
-			</div>
-		</div>
+	echo "<div class=\"textSmall\" style=\"width:750px;\">Invalid URL</div>";
+	echo "</div>
 	</div>
 	<div class=\"footer_top\">
 		&nbsp;
@@ -53,7 +49,7 @@ if(!(isValidAuthid($authid) && isValidAuthor($authorname)))
 				DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 			</p>
 			<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-			<p>&copy; 2013, Botanical Survey of India<br /></p>
+			<p>&copy; 2014, Botanical Survey of India<br /></p>
 		</div>
 	</div>
 	<script type=\"text/javascript\" src=\"../php/js/sticky.js\"></script>
@@ -340,6 +336,11 @@ if($num_rows)
 		}	
 	}
 }
+else
+{
+	echo "<li>No data in the database</li>";
+}
+
 
 $result->free();
 $db->close();
@@ -363,7 +364,7 @@ $db->close();
 			DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 		</p>
 		<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-		<p>&copy; 2013, Botanical Survey of India<br /></p>
+		<p>&copy; 2014, Botanical Survey of India<br /></p>
 	</div>
 </div>
 <script type="text/javascript" src="../php/js/sticky.js"></script>

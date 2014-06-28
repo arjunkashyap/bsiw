@@ -2,7 +2,7 @@
 	// If nothing is posted, redirect to search page
 	if(empty($_POST['author']) && empty($_POST['title']) && empty($_POST['text'])) {
 		header('Location: search.php');
-		exit;
+		exit(1);
 	}
 ?>
 <?php $title = "BSI Digital Archives"; ?>
@@ -363,7 +363,7 @@ if(isset($_POST['check']))
 					
 					echo "<p class=\"pnowrap\"><span class=\"titlespan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=$title\">$title</a></span>";
 					echo "<br /><span class=\"bookspan sml\">$book_info</span>";
-					print_author($authid);
+					print_author($authid,$db);
 					echo "<span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=$title\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book (DjVu)</a>";
 					echo file_exists("../Volumes_PDF/$type/$book_id/index.pdf") ? "&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes_PDF/$type/$book_id/index.pdf\">Read Book (PDF)</a>" : "";
 					echo "</span>";
@@ -458,7 +458,7 @@ if(isset($_POST['check']))
 
 					echo "<p class=\"pnowrap\"><span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 					echo "<span class=\"bookspan sml\">$stitle | $book_info</span>";
-					print_author($authid);
+					print_author($authid,$db);
 					echo "<span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=$btitle\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book (DjVu)</a>";
 					echo file_exists("../Volumes_PDF/$type/$book_id/index.pdf") ? "&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes_PDF/$type/$book_id/index.pdf\">Read Book (PDF)</a>" : "";
 					echo "</span>";
@@ -517,7 +517,7 @@ if(isset($_POST['check']))
 						echo "&nbsp;&nbsp;|&nbsp;&nbsp;<a href=\"$type/feat.php?feature=".urlencode($feature)."&amp;featid=$featid\">$feature</a>";
 					}
 					echo "</span>";
-					print_author($authid);
+					print_author($authid,$db);
 					echo "<span class=\"downloadspan\"><a href=\"$type/toc.php?vol=$volume&amp;part=$part\" target=\"_blank\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">Read article (DjVu)</a>";
 					echo file_exists("../Volumes_PDF/$type/$volume/$part/index.pdf") ? "&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes_PDF/$type/$volume/$part/index.pdf\">Read article (PDF)</a>" : "";
 					echo "</span>";
@@ -581,7 +581,7 @@ $db->close();
 			DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 		</p>
 		<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-		<p>&copy; 2013, Botanical Survey of India<br /></p>
+		<p>&copy; 2014, Botanical Survey of India<br /></p>
 	</div>
 </div>
 <script type="text/javascript" src="../php/js/sticky.js"></script>
@@ -591,7 +591,7 @@ $db->close();
 
 <?php
 
-function print_author($authid)
+function print_author($authid,$db)
 {
 	if($authid != 0)
 	{

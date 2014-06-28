@@ -13,18 +13,16 @@
 include("connect.php");
 require_once("../common.php");
 
-$book_id = $_GET['book_id'];
-$type = $_GET['type'];
-$book_title = $_GET['book_title'];
+if(isset($_GET['book_id'])){$book_id = $_GET['book_id'];}else{$book_id = '';}
+if(isset($_GET['type'])){$type = $_GET['type'];}else{$type = '';}
+if(isset($_GET['book_title'])){$book_title = $_GET['book_title'];}else{$book_title = '';}
 
 $book_title = entityReferenceReplace($book_title);
 
 if(!(isValidId($book_id) && isValidType($type) && isValidTitle($book_title)))
 {
-	echo "Invalid URL";
-	echo "		</div>
-			</div>
-		</div>
+	echo "<div class=\"textSmall\" style=\"width:750px;\">Invalid URL</div>";
+	echo "</div>
 	</div>
 	<div class=\"footer_top\">
 		&nbsp;
@@ -38,7 +36,7 @@ if(!(isValidId($book_id) && isValidType($type) && isValidTitle($book_title)))
 				DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 			</p>
 			<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-			<p>&copy; 2013, Botanical Survey of India<br /></p>
+			<p>&copy; 2014, Botanical Survey of India<br /></p>
 		</div>
 	</div>
 	<script type=\"text/javascript\" src=\"../../php/js/sticky.js\"></script>
@@ -122,7 +120,7 @@ else
 
 ?>
 		<div id="contentWrapper">
-			<div class="page_title"><span class="s2_motif"></span><h2><?php echo $book_title; ?></h2><a target="_blank" href="<?php echo "../../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page"?>" title="Read the book"><img src="../covers/s2/<?php echo $book_id; ?>_l.jpg" alt="" style="float:right;margin-top:-20px;margin-right:10px" /></a></div>
+			<div class="page_title"><span class="s2_motif"></span><h2><?php echo $book_title; ?></h2><a target="_blank" href="<?php echo "../../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page"?>" title="Read the book"><?php if(file_exists("../covers/s2/".$book_id."_l.jpg")){echo "<img src=\"../covers/s2/".$book_id."_l.jpg\" alt=\"\" style=\"float:right;margin-top:-20px;margin-right:10px\" />";}?></a></div>
 			<div class="textSmall" style="width:750px;">
 				<div class="page_author"><span class="bookAuthors"><?php echo $daname; ?></span></div>
 				<div class="page_other">
@@ -174,7 +172,7 @@ if($num_rows)
 		
 		if(($title == "Systematic Index")||($title == "Systematic List of Species")||($title == "Systematic Description of Species")||($title == "Systematic Contents")||($title == "Systematic Account")||($title == "Systematic List"))
 		{
-			$title = "<span class=\"featurespan\"><a href=\"s2_si.php?book_id=$book_id&amp;type=$type&amp;book_title=$book_title\">$title</a></span>";
+			$title = "<span class=\"featurespan\"><a href=\"s2_si.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($book_title) . "\">$title</a></span>";
 		}
 		else
 		{
@@ -305,7 +303,7 @@ function display_tabs($num)
 			DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 		</p>
 		<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-		<p>&copy; 2013, Botanical Survey of India<br /></p>
+		<p>&copy; 2014, Botanical Survey of India<br /></p>
 	</div>
 </div>
 <script type="text/javascript" src="../../php/js/sticky.js"></script>

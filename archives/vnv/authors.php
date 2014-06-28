@@ -28,20 +28,6 @@ if($db->connect_errno > 0){
     die('Not connected to database [' . $db->connect_error . ']');
 }
 
-if(isset($_GET['letter']))
-{
-	$letter=$_GET['letter'];
-	if($letter == '')
-	{
-		$letter = '';
-	}
-}
-else
-{
-	$letter = '';
-}
-
-
 $query = "select * from author where type like '%$type_code%' order by authorname";
 //$query = "select * from author where authorname like '$letter%' order by authorname";
 
@@ -94,7 +80,7 @@ $db->close();
 			DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 		</p>
 		<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-		<p>&copy; 2013, Botanical Survey of India<br /></p>
+		<p>&copy; 2014, Botanical Survey of India<br /></p>
 	</div>
 </div>
 <script type="text/javascript" src="../../php/js/sticky.js"></script>

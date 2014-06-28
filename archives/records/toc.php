@@ -23,15 +23,14 @@ if($db->connect_errno > 0){
     die('Not connected to database [' . $db->connect_error . ']');
 }
 
-$volume=$_GET['vol'];
-$part=$_GET['part'];
+if(isset($_GET['vol'])){$volume = $_GET['vol'];}else{$volume = '';}
+if(isset($_GET['part'])){$part = $_GET['part'];}else{$part = '';}
 
 if(!(isValidVolume($volume) && isValidPart($part)))
 {
-	echo "Invalid URL";
-
-	echo "</div>
-	</div>
+	echo "<div class=\"textSmall\" style=\"width:750px;\">Invalid URL</div>";
+	echo "	</div>
+		</div>
 	</div>
 	<div class=\"footer_top\">
 		&nbsp;
@@ -45,7 +44,7 @@ if(!(isValidVolume($volume) && isValidPart($part)))
 				DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 			</p>
 			<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-			<p>&copy; 2013, Botanical Survey of India<br /></p>
+			<p>&copy; 2014, Botanical Survey of India<br /></p>
 		</div>
 	</div>
 	<script type=\"text/javascript\" src=\"../../php/js/sticky.js\"></script>
@@ -72,8 +71,11 @@ if($num_rows)
 	
 	$month=$row['month'];
 	$year=$row['year'];
-
-	echo "<div class=\"page_title\"><span class=\"rec_motif\"></span><h2>Volume&nbsp;".intval($volume)."&nbsp;- Part&nbsp;".$part."&nbsp;&nbsp;:&nbsp;&nbsp;".$month_name{intval($month)}."&nbsp;".$year."</h2></div>
+	
+	$dpart = preg_replace("/^0/", "", $part);
+	$dpart = preg_replace("/\-0/", "-", $dpart);
+			
+	echo "<div class=\"page_title\"><span class=\"rec_motif\"></span><h2>Volume&nbsp;".intval($volume)."&nbsp;- Part&nbsp;".$dpart."&nbsp;&nbsp;:&nbsp;&nbsp;".$month_name{intval($month)}."&nbsp;".$year."</h2></div>
 			<div class=\"textSmall\" style=\"width:750px;\">
 				<div class=\"treeview noMTop\">
 					<ul class=\"ulNeedBullets\">";
@@ -169,15 +171,20 @@ for($i=1;$i<=$num_rows1;$i++)
 
 		echo "</li>\n";
 	}
+	echo "</ul>
+		</div>
+	</div>";
+}
+else
+{
+	echo "<div class=\"textSmall\" style=\"width:750px;\">No data in the database</div>";
+	
 }
 
 $result1->free();
 $db->close();
 
 ?>
-				</ul>
-				</div>
-			</div>
 			<div class="clearfix"></div>
 		</div>
 	</div>
@@ -194,7 +201,7 @@ $db->close();
 			DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 		</p>
 		<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-		<p>&copy; 2013, Botanical Survey of India<br /></p>
+		<p>&copy; 2014, Botanical Survey of India<br /></p>
 	</div>
 </div>
 <script type="text/javascript" src="../../php/js/sticky.js"></script>

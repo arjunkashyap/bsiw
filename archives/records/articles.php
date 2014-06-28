@@ -60,7 +60,7 @@ if(isset($_GET['letter']))
 	$letter=$_GET['letter'];
 	if(!(isValidLetter($letter)))
 	{
-		echo "Invalid URL";
+		echo "<li>Invalid URL</li>";
 		echo "				</ul>
 						</div>
 					</div>
@@ -80,7 +80,7 @@ if(isset($_GET['letter']))
 					DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 				</p>
 				<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-				<p>&copy; 2013, Botanical Survey of India<br /></p>
+				<p>&copy; 2014, Botanical Survey of India<br /></p>
 			</div>
 		</div>
 		<script type=\"text/javascript\" src=\"../../php/js/sticky.js\"></script>
@@ -225,7 +225,7 @@ $db->close();
 			DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 		</p>
 		<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-		<p>&copy; 2013, Botanical Survey of India<br /></p>
+		<p>&copy; 2014, Botanical Survey of India<br /></p>
 	</div>
 </div>
 <script type="text/javascript" src="../../php/js/sticky.js"></script>

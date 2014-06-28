@@ -24,16 +24,16 @@ if($db->connect_errno > 0){
     die('Not connected to database [' . $db->connect_error . ']');
 }
 
-$feat_name=$_GET['feature'];
-$featid=$_GET['featid'];
+if(isset($_GET['feature'])){$feat_name = $_GET['feature'];}else{$feat_name = '';}
+if(isset($_GET['featid'])){$featid = $_GET['featid'];}else{$featid = '';}
 
 $feat_name = entityReferenceReplace($feat_name);
 
 if(!(isValidFeature($feat_name) && isValidFeatid($featid)))
 {
-	echo "Invalid URL";
-	echo "</div>
-	</div>
+	echo "<div class=\"textSmall\" style=\"width:750px;\">Invalid URL</div>";
+	echo "	</div>
+		</div>
 	</div>
 	<div class=\"footer_top\">
 		&nbsp;
@@ -47,7 +47,7 @@ if(!(isValidFeature($feat_name) && isValidFeatid($featid)))
 				DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 			</p>
 			<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-			<p>&copy; 2013, Botanical Survey of India<br /></p>
+			<p>&copy; 2014, Botanical Survey of India<br /></p>
 		</div>
 	</div>
 	<script type=\"text/javascript\" src=\"../../php/js/sticky.js\"></script>
@@ -149,6 +149,11 @@ if($num_rows1)
 		echo "</li>\n";
 	}
 }
+else
+{
+	echo "<li>No data in the database</li>";
+}
+
 
 $result1->free();
 $db->close();
@@ -172,7 +177,7 @@ $db->close();
 			DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 		</p>
 		<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-		<p>&copy; 2013, Botanical Survey of India<br /></p>
+		<p>&copy; 2014, Botanical Survey of India<br /></p>
 	</div>
 </div>
 <script type="text/javascript" src="../../php/js/sticky.js"></script>

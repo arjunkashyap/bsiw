@@ -36,7 +36,7 @@ sub insert_authors()
 	$authorname =~ s/'/\\'/g;
 	
 	my($sth,$ref,$sth1);
-	$sth = $dbh->prepare("select authid from author where authorname='$authorname'");
+	$sth = $dbh->prepare("select * from author where authorname='$authorname'");
 	$sth->execute();
 	$ref=$sth->fetchrow_hashref();
 	if($sth->rows()==0)
@@ -44,6 +44,20 @@ sub insert_authors()
 		$sth1=$dbh->prepare("insert into author values('$authorname','$type_code',null)");
 		$sth1->execute();
 		$sth1->finish();
+	}
+	else
+	{
+		$type = $ref->{'type'};
+		$authid = $ref->{'authid'};
+		
+		if(!($type=~/$type_code/))
+		{
+			$type = $type . ";" . $type_code;
+			$sth1=$dbh->prepare("update author set type='$type' where authid='$authid' and authorname='$authorname'");
+			$sth1->execute();
+			$sth1->finish();
+		}
+		
 	}
 	$sth->finish();	
 }

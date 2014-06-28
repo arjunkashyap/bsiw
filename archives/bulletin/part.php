@@ -24,14 +24,14 @@ if($db->connect_errno > 0){
     die('Not connected to database [' . $db->connect_error . ']');
 }
 
-$volume=$_GET['vol'];
-$year=$_GET['year'];
+if(isset($_GET['vol'])){$volume = $_GET['vol'];}else{$volume = '';}
+if(isset($_GET['year'])){$year = $_GET['year'];}else{$year = '';}
 
 if(!(isValidVolume($volume) && isValidYear($year)))
 {
-	echo "Invalid URL";
-	echo "</div>
-	</div>
+	echo "<div class=\"textSmall\" style=\"width:750px;\">Invalid URL</div>";
+	echo "	</div>
+		</div>
 	</div>
 	<div class=\"footer_top\">
 		&nbsp;
@@ -45,7 +45,7 @@ if(!(isValidVolume($volume) && isValidYear($year)))
 				DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 			</p>
 			<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-			<p>&copy; 2013, Botanical Survey of India<br /></p>
+			<p>&copy; 2014, Botanical Survey of India<br /></p>
 		</div>
 	</div>
 	<script type=\"text/javascript\" src=\"../../php/js/sticky.js\"></script>
@@ -160,6 +160,10 @@ if($num_rows)
 		$result1->free();
 	}
 }
+else
+{
+	echo "<li>No data in the database</li>";
+}
 
 $result->free();
 $db->close();
@@ -184,7 +188,7 @@ $db->close();
 			DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
 		</p>
 		<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
-		<p>&copy; 2013, Botanical Survey of India<br /></p>
+		<p>&copy; 2014, Botanical Survey of India<br /></p>
 	</div>
 </div>
 <script type="text/javascript" src="../../php/js/sticky.js"></script>
