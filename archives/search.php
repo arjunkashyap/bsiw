@@ -55,7 +55,7 @@ if($db->connect_errno > 0){
 
 echo "<tr>
 	<td style=\"text-align:right;\"><label for=\"autocomplete\" class=\"titlespan\">Author: &nbsp;</label></td>
-	<td><input name=\"author\" type=\"text\" class=\"titlespan wide\" id=\"autocomplete\" />";
+	<td><input name=\"author\" type=\"text\" class=\"titlespan wide\" id=\"autocomplete\" maxlength=\"150\"/>";
 	
 $query_ac = "select * from author where type regexp '1|2|3|4|5|6|7|8' order by authorname";
 
@@ -86,8 +86,8 @@ if($num_rows_ac)
 echo "$source_ac ]});</script></td>";
 echo "</tr>
 <tr>
-	<td style=\"text-align:right;\"><span class=\"titlespan\">Title: &nbsp;</span></td>
-	<td><input name=\"title\" type=\"text\" class=\"titlespan wide\" id=\"textfield2\" /></td>
+	<td style=\"text-align:right;\"><label for=\"textfield2\" class=\"titlespan\">Title: &nbsp;</label></td>
+	<td><input name=\"title\" type=\"text\" class=\"titlespan wide\" id=\"textfield2\" maxlength=\"150\"/></td>
 </tr>";
 
 $result_ac->free();
@@ -96,8 +96,8 @@ $db->close();
 ?>
 
 						<tr>
-							<td style="text-align:right;"><span class="titlespan">Words: &nbsp;</span></td>
-							<td><input name="text" type="text" class="titlespan wide" id="textfield3" /></td>
+							<td style="text-align:right;"><label for="textfield3" class="titlespan">Words: &nbsp;</label></td>
+							<td><input name="text" type="text" class="titlespan wide" id="textfield3" maxlength="150"/></td>
 						</tr>
 						<tr>
 							<td class="left">&nbsp;</td>
