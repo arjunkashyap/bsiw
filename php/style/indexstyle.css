@@ -143,9 +143,6 @@ html, body {
 #menu:after {
 	clear: both;
 }
-#menu {
-	zoom:1;
-}
 #menu li {
 	float: left;
 	position: relative;
