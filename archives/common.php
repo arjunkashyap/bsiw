@@ -10,6 +10,18 @@ function isValidType($type)
 	return preg_match("/^(bulletin|fli|records|s1|s2|s3|s4|vnv)$/", $type) ? true : false;
 }
 
+function isValidCheck($check)
+{
+	for($i=0;$i<sizeof($check);$i++)
+	{
+		if(!(preg_match("/^(bul|fli|rec|s1|s2|s3|s4|vnv)$/", $check[$i])))
+		{
+			return false;
+		}
+	}
+	return true;
+}
+
 function isValidTitle($title)
 {
 /*
@@ -92,7 +104,7 @@ function entityReferenceReplace($term)
 	$term = preg_replace("/\(/", "&#40;", $term);
 	$term = preg_replace("/\)/", "&#41;", $term);
 	$term = preg_replace("/\:/", "&#58;", $term);
-	$term = preg_replace("/Drop table|Create table|Alter table|Delete from|Desc table|Show databases/i", "", $term);
+	$term = preg_replace("/Drop table|Create table|Alter table|Delete from|Desc table|Show databases|iframe/i", "", $term);
 	
 	return($term);
 }

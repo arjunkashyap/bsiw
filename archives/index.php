@@ -72,9 +72,43 @@
 		</div>
 		<div id="contentWrapper1">
 			<div class="col1 colL largeSpace"><div class="section right" id="sec12">&nbsp;</div></div><h2>Search</h2>
+<?php
+include("fli/connect.php");
+
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
+
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo '<div class="textSmall" style="width:750px;">Not connected to the database [' . $db->connect_errno . ']</div>';
+	echo "</div></div>
+	</div>
+	<div class=\"footer_top\">
+		&nbsp;
+	</div>
+	<div class=\"footer\">
+		<div class=\"footer_inside\">
+			<img src=\"../php/images/painting_background.png\" style=\"float: right;margin: -250px 0 0 0px;\"  alt=\"\"/>
+			<p>
+				Botanical Survey of India<br />
+				CGO Complex, 3rd MSO Building, Block F (5th &amp; 6th Floor),<br />
+				DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
+			</p>
+			<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
+			<p>&copy; 2014, Botanical Survey of India<br /></p>
+		</div>
+	</div>
+	<script type=\"text/javascript\" src=\"../php/js/sticky.js\"></script>
+	</body>
+	</html>";	
+	exit(1);
+}
+
+?>
 			<div class="textSmall minheight" style="width:700px;">
 				<div class="newBookUl articlesByUl">
-					<form method="post" action="search-result.php">
+					<form method="get" action="search-result.php">
 					<table class="searchForm">
 						<tr>
 							<td class="left" style="text-align:right;" >In: &nbsp;</td>
@@ -99,34 +133,23 @@
 						</tr>
 <?php
 
-include("fli/connect.php");
-
-//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-//~ $rs = mysql_select_db($database,$db) or die("No Database");
-
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
-}
-
 echo "<tr>
 	<td style=\"text-align:right;\"><label for=\"autocomplete\" class=\"titlespan\">Author: &nbsp;</label></td>
 	<td><input name=\"author\" type=\"text\" class=\"titlespan wide\" id=\"autocomplete\" maxlength=\"150\"/>";
 	
-$query_ac = "select * from author where type regexp '4|5|6' order by authorname";
+$query_ac = "select * from author where type regexp '1|2|3|4|5|6|7|8' order by authorname";
 
 //~ $result_ac = mysql_query($query_ac);
 //~ $num_rows_ac = mysql_num_rows($result_ac);
 
-$result_ac = $db->query($query_ac); 
-$num_rows_ac = $result_ac->num_rows;
+$result_ac = $db->query($query_ac);
+$num_rows_ac = $result_ac ? $result_ac->num_rows : 0;
 
 echo "<script type=\"text/javascript\">$( \"#autocomplete\" ).autocomplete({source: [ ";
 
 $source_ac = '';
 
-if($num_rows_ac)
+if($num_rows_ac > 0)
 {
 	for($i=1;$i<=$num_rows_ac;$i++)
 	{
@@ -143,23 +166,23 @@ if($num_rows_ac)
 echo "$source_ac ]});</script></td>";
 echo "</tr>
 <tr>
-	<td style=\"text-align:right;\"><label for=\"textfield2\" class=\"titlespan\">Title: &nbsp;</span></td>
-	<td><input name=\"title\" type=\"text\" class=\"titlespan wide\" id=\"textfield2\" maxlength=\"150\"/></td>
+	<td style=\"text-align:right;\"><label for=\"textfield2\" class=\"titlespan\">Title: &nbsp;</label></td>
+	<td><input name=\"title\" type=\"text\" class=\"titlespan wide\" id=\"textfield2\" maxlength=\"150\" autocomplete=\"off\"/></td>
 </tr>";
 
-$result_ac->free();
+if($result_ac){$result_ac->free();}
 $db->close();
 
 ?>
 						<tr>
 							<td style="text-align:right;"><label for="textfield3" class="titlespan">Words: &nbsp;</label></td>
-							<td><input name="text" type="text" class="titlespan wide" id="textfield3" maxlength="150"/></td>
+							<td><input name="text" type="text" class="titlespan wide" id="textfield3" maxlength="150" autocomplete="off"/></td>
 						</tr>
 						<tr>
 							<td class="left">&nbsp;</td>
 							<td>
-								<input name="button1" type="submit" class="btn" id="button_search" value="Search"/>
-								<input name="button2" type="reset" class="btn" id="button_reset" value="Reset"/>
+								<input name="searchform" type="submit" class="btn" id="button_search" value="Search"/>
+								<input name="resetform" type="reset" class="btn" id="button_reset" value="Reset"/>
 							</td>
 						</tr>
 					</table>

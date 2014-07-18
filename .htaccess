@@ -1,1 +1,3 @@
+ErrorDocument 403 /bsiw/403text.html
 ErrorDocument 404 /bsiw/404text.html
+ErrorDocument 405 /bsiw/405text.html

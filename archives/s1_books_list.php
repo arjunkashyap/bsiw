@@ -21,21 +21,44 @@ include("s1/connect.php");
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 //~ $rs = mysql_select_db($database,$db) or die("No Database");
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
 
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo 'Not connected to the database [' . $db->connect_errno . ']';
+	echo "</div>
+			</div>
+		</div>
+	</div>
+	<div class=\"footer_top\">
+		&nbsp;
+	</div>
+	<div class=\"footer\">
+		<div class=\"footer_inside\">
+			<img src=\"../php/images/painting_background.png\" style=\"float: right;margin: -250px 0 0 0px;\"  alt=\"\"/>
+			<p>
+				Botanical Survey of India<br />
+				CGO Complex, 3rd MSO Building, Block F (5th &amp; 6th Floor),<br />
+				DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
+			</p>
+			<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
+			<p>&copy; 2014, Botanical Survey of India<br /></p>
+		</div>
+	</div>
+	<script type=\"text/javascript\" src=\"../php/js/sticky.js\"></script>
+	</body>
+	</html>";
+	exit(1);
 }
-
 $query = "select * from s1_books_list order by slno";
 
 //~ $result = mysql_query($query);
 //~ $num_rows = mysql_num_rows($result);
 
-$result = $db->query($query); 
-$num_rows = $result->num_rows;
+$result = $db->query($query);
+$num_rows = $result ? $result->num_rows : 0;
 
-if(!$num_rows){
+if($num_rows <= 0){
 	echo "No data in the Database"; 
 }
 
@@ -44,7 +67,7 @@ $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"Ap
 ?>
 
 <ul class="newBookUl">
-<?php while($row = $result->fetch_assoc()){ ?>
+<?php if($num_rows > 0){while($row = $result->fetch_assoc()){ ?>
 	<?php //print_r($row); ?>
 	<li>
 		<div class="bookImg">
@@ -76,12 +99,12 @@ $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"Ap
 			</div>
 		</div>
 	</li>
-<?php } ?>
+<?php }} ?>
 </ul>
 
 <?php
 
-$result->free();
+if($result){$result->free();}
 $db->close();
 
 ?>

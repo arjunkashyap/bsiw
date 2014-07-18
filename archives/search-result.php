@@ -1,6 +1,6 @@
 <?php
-	// If nothing is posted, redirect to search page
-	if(empty($_POST['author']) && empty($_POST['title']) && empty($_POST['text'])) {
+	// If nothing is get-ed, redirect to search page
+	if(empty($_GET['author']) && empty($_GET['title']) && empty($_GET['text'])) {
 		header('Location: search.php');
 		exit(1);
 	}
@@ -30,25 +30,76 @@ require_once("common.php");
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 //~ $rs = mysql_select_db($database,$db) or die("No Database");
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo '<div class="textSmall" style="width:750px;">Not connected to the database [' . $db->connect_errno . ']</div>';
+	echo "</div></div>
+	</div>
+	<div class=\"footer_top\">
+		&nbsp;
+	</div>
+	<div class=\"footer\">
+		<div class=\"footer_inside\">
+			<img src=\"../php/images/painting_background.png\" style=\"float: right;margin: -250px 0 0 0px;\"  alt=\"\"/>
+			<p>
+				Botanical Survey of India<br />
+				CGO Complex, 3rd MSO Building, Block F (5th &amp; 6th Floor),<br />
+				DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
+			</p>
+			<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
+			<p>&copy; 2014, Botanical Survey of India<br /></p>
+		</div>
+	</div>
+	<script type=\"text/javascript\" src=\"../php/js/sticky.js\"></script>
+	</body>
+	</html>";	
+	exit(1);
 }
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
-if(isset($_POST['check']))
+if(isset($_GET['check']))
 {
-	$check=$_POST['check'];
+	$check=$_GET['check'];
+	if(!(isValidCheck($check)))
+	{
+		echo "<div class=\"textSmall\" style=\"width:750px;\">Invalid URL</div>";
+		echo "</div></div>
+		</div>
+		<div class=\"footer_top\">
+			&nbsp;
+		</div>
+		<div class=\"footer\">
+			<div class=\"footer_inside\">
+				<img src=\"../php/images/painting_background.png\" style=\"float: right;margin: -250px 0 0 0px;\"  alt=\"\"/>
+				<p>
+					Botanical Survey of India<br />
+					CGO Complex, 3rd MSO Building, Block F (5th &amp; 6th Floor),<br />
+					DF Block, Sector I, Salt Lake City, Kolkata - 700 064<br />
+				</p>
+				<p>Phone: +91 33 23344963 (Director), +91 33 23218991; Fax: +91 33 23346040, +91 33 23215631</p>
+				<p>&copy; 2014, Botanical Survey of India<br /></p>
+			</div>
+		</div>
+		<script type=\"text/javascript\" src=\"../php/js/sticky.js\"></script>
+		</body>
+
+		</html>";	
+		exit(1);
+	}
 	
-	$author=$_POST['author'];
-	$text=$_POST['text'];
-	$title=$_POST['title'];
+	if(isset($_GET['author'])){$author = $_GET['author'];}else{$author = '';}
+	if(isset($_GET['text'])){$text = $_GET['text'];}else{$text = '';}
+	if(isset($_GET['title'])){$title = $_GET['title'];}else{$title = '';}
+	if(isset($_GET['searchform'])){$searchform = $_GET['searchform'];}else{$searchform = '';}
+	if(isset($_GET['resetform'])){$resetform = $_GET['resetform'];}else{$resetform = '';}
 
 	$text = entityReferenceReplace($text);
 	$author = entityReferenceReplace($author);
 	$title = entityReferenceReplace($title);
+	$searchform = entityReferenceReplace($searchform);
+	$resetform = entityReferenceReplace($resetform);
 
 	$author = preg_replace("/[\t]+/", " ", $author);
 	$author = preg_replace("/[ ]+/", " ", $author);
@@ -216,8 +267,8 @@ if(isset($_POST['check']))
 	//~ $result = mysql_query($query);
 	//~ $num_results = mysql_num_rows($result);
 	
-	$result = $db->query($query); 
-	$num_results = $result->num_rows;
+	$result = $db->query($query);
+	$num_results = $result ? $result->num_rows : 0;
 	
 	echo "<div id=\"contentWrapper_longer\" style=\"width:680px;\">
 			<div class=\"page_title\">
@@ -229,7 +280,7 @@ if(isset($_POST['check']))
 	echo "</h2>
 			</div>
 			<div class=\"textSmall minheight\">
-				<ul class=\"newBookUl articlesByUl minheight_longer\" data-page=\"1\" data=\"true\" id=\"searchLazy\" >";
+				<ul class=\"newBookUl articlesByUl minheight_longer\">";
 	
 	$titleid[0]=0;
 	$count = 1;
@@ -294,7 +345,7 @@ if(isset($_POST['check']))
 			{
 				if($id == 0)
 				{
-					echo "<li><span class=\"".$type."_motif motifFontBig mbottom\"></span>";
+					echo "\n<li><span class=\"".$type."_motif motifFontBig mbottom\"></span>";
 				}
 				else
 				{
@@ -361,10 +412,10 @@ if(isset($_POST['check']))
 						$book_info = $book_info . " | pp " . intval($page) . " - " . intval($page_end);	
 					}
 					
-					echo "<p class=\"pnowrap\"><span class=\"titlespan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=$title\">$title</a></span>";
+					echo "<p class=\"pnowrap\"><span class=\"titlespan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">$title</a></span>";
 					echo "<br /><span class=\"bookspan sml\">$book_info</span>";
 					print_author($authid,$db);
-					echo "<span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=$title\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book (DjVu)</a>";
+					echo "<span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book (DjVu)</a>";
 					echo file_exists("../Volumes_PDF/$type/$book_id/index.pdf") ? "&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes_PDF/$type/$book_id/index.pdf\">Read Book (PDF)</a>" : "";
 					echo "</span>";
 					$id = $slno;
@@ -459,7 +510,7 @@ if(isset($_POST['check']))
 					echo "<p class=\"pnowrap\"><span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 					echo "<span class=\"bookspan sml\">$stitle | $book_info</span>";
 					print_author($authid,$db);
-					echo "<span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=$btitle\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book (DjVu)</a>";
+					echo "<span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($btitle) . "\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book (DjVu)</a>";
 					echo file_exists("../Volumes_PDF/$type/$book_id/index.pdf") ? "&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes_PDF/$type/$book_id/index.pdf\">Read Book (PDF)</a>" : "";
 					echo "</span>";
 					$id = $slno;
@@ -555,7 +606,7 @@ if(isset($_POST['check']))
 		echo"<span class=\"titlespan\">No results</span><br />";
 		echo"<span class=\"authorspan\"><a href=\"search.php\">Go back and Search again</a></span>";
 	}
-	$result->free();
+	if($result){$result->free();}
 }
 else
 {
@@ -608,9 +659,9 @@ function print_author($authid,$db)
 			//~ $num_rows2 = mysql_num_rows($result2);
 			
 			$result2 = $db->query($query2); 
-			$num_rows2 = $result2->num_rows;
+			$num_rows2 = $result2 ? $result2->num_rows : 0;
 
-			if($num_rows2)
+			if($num_rows2 > 0)
 			{
 				//~ $row2=mysql_fetch_assoc($result2);
 				$row2 = $result2->fetch_assoc();
@@ -627,7 +678,7 @@ function print_author($authid,$db)
 					echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=".urlencode($authorname)."\">$authorname</a></span>";
 				}
 			}
-			$result2->free();
+			if($result2){$result2->free();}
 		}
 		echo "<br />";
 	}
