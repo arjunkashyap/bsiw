@@ -276,17 +276,17 @@ if(isset($_GET['check']))
 					<div class=\"section right\" id=\"sec11\">&nbsp;</div>
 				</div>
 				<h2>Search Results";
-	echo " - <span class=\"it\"><span id=\"searchCount\">$num_results</span> result(s)</span><span class=\"all_motifs\">$mtf</span>";
+	echo ($num_results > 0) ? " - <span class=\"it\"><span id=\"searchCount\">$num_results</span> result(s)</span>" : "";
+	echo "<span class=\"all_motifs\">$mtf</span>";
 	echo "</h2>
 			</div>
-			<div class=\"textSmall minheight\">
-				<ul class=\"newBookUl articlesByUl minheight_longer\">";
-	
+			<div class=\"textSmall minheight\">";
 	$titleid[0]=0;
 	$count = 1;
 	$id = "0";
 	if($num_results > 0)
 	{
+		echo "<ul class=\"newBookUl articlesByUl minheight_longer\">";
 		for($i=1;$i<=$num_results;$i++)
 		{
 			//~ $row1 = mysql_fetch_assoc($result);

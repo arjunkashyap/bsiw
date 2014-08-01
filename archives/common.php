@@ -2,11 +2,13 @@
 
 function isValidId($book_id)
 {
+	return is_array($book_id) ? false : true;
 	return preg_match("/^[0-9][0-9][0-9]$/", $book_id) ? true : false;
 }
 
 function isValidType($type)
 {
+	return is_array($type) ? false : true;
 	return preg_match("/^(bulletin|fli|records|s1|s2|s3|s4|vnv)$/", $type) ? true : false;
 }
 
@@ -14,6 +16,7 @@ function isValidCheck($check)
 {
 	for($i=0;$i<sizeof($check);$i++)
 	{
+		return is_array($check[$i]) ? false : true;
 		if(!(preg_match("/^(bul|fli|rec|s1|s2|s3|s4|vnv)$/", $check[$i])))
 		{
 			return false;
@@ -24,77 +27,67 @@ function isValidCheck($check)
 
 function isValidTitle($title)
 {
-/*
-	return preg_match("/^[a-zA-Z0-9,\(\):;\.\&\-\'\_ ]+$/", $title) ? true : false;
-*/
-	if(!(empty($title)))
-	{
-		return(true);
-	}
+	return (is_array($title) || (empty($title))) ? false : true;
 }
 
 function isValidLetter($letter)
 {
+	return is_array($letter) ? false : true;
 	return preg_match("/^([A-Z]|Special)$/", $letter) ? true : false;
 }
 
 function isValidVolume($vol)
 {
+	return is_array($vol) ? false : true;
 	return preg_match("/^[0-9][0-9][0-9]$/", $vol) ? true : false;
 }
 
 function isValidPart($part)
 {
+	return is_array($part) ? false : true;
 	return preg_match("/^([0-9][0-9]|[0-9][0-9]\-[0-9][0-9])$/", $part) ? true : false;
 }
 
 function isValidYear($year)
 {
+	return is_array($year) ? false : true;
 	return preg_match("/^([0-9][0-9][0-9][0-9]|[0-9][0-9][0-9][0-9]\-[0-9][0-9])$/", $year) ? true : false;
 }
 
 function isValidFeature($feature)
 {
-/*
-	return preg_match("/^[a-zA-Z0-9,\(\):;\.\&\-\'\_ ]+$/", $feature) ? true : false;
-*/
-	if(!(empty($feature)))
-	{
-		return(true);
-	}
+	return (is_array($feature) || (empty($feature))) ? false : true;
 }
 
 function isValidFeatid($featid)
 {
+	return is_array($featid) ? false : true;
 	return preg_match("/^[0-9][0-9][0-9][0-9][0-9]$/", $featid) ? true : false;
 }
 
 function isValidAuthid($authid)
 {
+	return is_array($authid) ? false : true;
 	return preg_match("/^[0-9][0-9][0-9][0-9][0-9]$/", $authid) ? true : false;
 }
 
 function isValidAuthor($author)
 {
-/*
-	return preg_match("/^[a-zA-Z0-9,\(\):;\.\&\- ]+$/", $author) ? true : false;
-*/
-	if(!(empty($author)))
-	{
-		return(true);
-	}
+	return (is_array($author) || (empty($author))) ? false : true;
 }
 
 function isValidText($text)
 {
-/*
-	return preg_match("/^[a-zA-Z0-9,\(\):;\.\&\- ]+$/", $author) ? true : false;
-*/
 	return(true);
 }
 
 function entityReferenceReplace($term)
 {
+	if(is_array($term))
+	{
+		$term = "$term";
+	}
+
 	$term = preg_replace("/<i>/", "", $term);
 	$term = preg_replace("/<\/i>/", "", $term);
 	$term = preg_replace("/\;/", "&#59;", $term);
@@ -108,8 +101,6 @@ function entityReferenceReplace($term)
 	
 	return($term);
 }
-
-
 /*
 isValidTitle, isValidFeature, isValidAuthor, isValidText
 */

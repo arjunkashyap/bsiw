@@ -30,10 +30,10 @@
 		</div>
 		<div class="social">
 			<ul>
-				<li class="gplus"><a title="Google +" href="#">Google Plus</a></li>
-				<li class="facebook"><a title="Facebbok" href="#">Facebook</a></li>
-				<li class="twitter"><a title="Twitter" href="#">Twitter</a></li>
-				<li class="rss"><a title="RSS Feeds" href="#" >RSS</a></li>
+				<li class="gplus"><a title="Google +" href="../../php/social_media.php">Google Plus</a></li>
+				<li class="facebook"><a title="Facebbok" href="../../php/social_media.php">Facebook</a></li>
+				<li class="twitter"><a title="Twitter" href="../../php/social_media.php">Twitter</a></li>
+				<li class="rss"><a title="RSS Feeds" href="../../php/social_media.php">RSS</a></li>
 			</ul>
 		</div>
 		<ul id="menu">
@@ -74,10 +74,9 @@
 			<li>
 				<a href="#">Services</a>
 				<ul>
-					<li><a href="#">Taxonomy</a></li>
-					<li><a href="#">Field Work</a></li>
-					<li><a href="#">Discovery</a></li>
-					<li><a href="#">Achievements</a></li>
+					<li><a href="../../php/taxonomy.php">Taxonomy</a></li>
+					<li><a href="../../php/explorations.php">Explorations</a></li>
+					<li><a href="../../php/achievements.php">Achievements</a></li>
 				</ul>
 			</li>
 			<li>
@@ -108,7 +107,7 @@
 				<a href="#">Public Information</a>
 				<ul>
 					<li><a href="../../php/right-to-information.php">Right to Information</a></li>
-					<li><a href="#">Tenders</a></li>
+					<li><a href="../../php/tenders.php">Tenders</a></li>
 				</ul>
 			</li>
 		</ul>
