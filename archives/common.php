@@ -78,7 +78,7 @@ function isValidAuthor($author)
 
 function isValidText($text)
 {
-	return(true);
+	return is_array($text) ? false : true;
 }
 
 function entityReferenceReplace($term)
